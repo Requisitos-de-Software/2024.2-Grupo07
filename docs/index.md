@@ -15,7 +15,7 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
                 <h5 class="text-center">Alana Gabriele</h5>
         </a>
     </div>
-  <div>
+    <div>
         <a href="https://github.com/Angelicahaas">
                 <img style="border-radius: 50%;"         src="https://github.com/Angelicahaas.png" width="100px;"/>
                 <h5 class="text-center">Harleny Angellica</h5>
