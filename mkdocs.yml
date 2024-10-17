@@ -1,0 +1,34 @@
+site_name: My Docs
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.sections  # Corrigir de 'section' para 'sections'
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+
+  palette:
+    - scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+plugins:
+  - search
