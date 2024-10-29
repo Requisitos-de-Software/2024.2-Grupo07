@@ -21,6 +21,19 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
                 <h5 class="text-center">Carlos Eduardo</h5>
         </a>
     </div>
+     <div>
+        <a href="https://github.com/GenilsonJrs">
+                <img style="border-radius: 50%;"         src="https://github.com/GenilsonJrs.png" width="100px;"/>
+                <h5 class="text-center">Genilson Silva</h5>
+        </a>
+    </div>
+     <div>
+        <a href="https://github.com/SamuelRicosta">
+                <img style="border-radius: 50%;"         src="https://github.com/SamuelRicosta.png" width="100px;"/>
+                <h5 class="text-center">Samuel Ribeiro</h5>
+        </a>
+    </div>
+   
 </div>
     
 </center>
