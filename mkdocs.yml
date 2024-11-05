@@ -8,6 +8,8 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
+      - Metodologia: planejamento/metodologia.md
+
 theme:
   name: material
   language: pt-BR
