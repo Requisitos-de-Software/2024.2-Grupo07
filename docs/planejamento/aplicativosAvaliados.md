@@ -1,12 +1,15 @@
 # Aplicativos Avaliados
 
 ## Introdução
+
 Este documento tem como propósito apresentar e detalhar uma análise dos aplicativos selecionados pelos integrantes do Grupo 7 da disciplina de Requisitos de Software. Cada membro escolheu e avaliou um aplicativo específico, com o objetivo de identificar o mais adequado para um aprofundamento no levantamento de requisitos. Em um cenário onde os aplicativos desempenham um papel crucial para atender às variadas demandas do público, esta análise comparativa será pautada por critérios como funcionalidade, usabilidade, acessibilidade, impacto e inovação. Vale destacar que, para garantir a originalidade, nenhum dos aplicativos avaliados foi objeto de estudo em semestres anteriores.
 
-## Objetivo 
+## Objetivo
+
 O objetivo deste documento é realizar uma análise detalhada dos aplicativos e de seus rich pictures, selecionados pelos membros do Grupo 7 da disciplina de Requisitos de Software. Buscamos identificar qual deles apresenta maior adequação para um estudo aprofundado, atendendo aos critérios de funcionalidade, usabilidade, acessibilidade e impacto. A partir dessa análise, será escolhido o aplicativo que servirá de base para o desenvolvimento de um projeto de requisitos mais elaborado e detalhado.
 
 ## Metodologia
+
 Para conduzir essa análise, cada membro do Grupo 7 selecionou um aplicativo específico e elaborou um rich picture que representa visualmente as principais funcionalidades e a estrutura de cada um. Os aplicativos foram analisados de acordo com critérios previamente estabelecidos, tais como a usabilidade, acessibilidade, potencial de impacto na comunidade e facilidade de aplicação prática.
 
 Após a criação dos rich pictures e das análises individuais, o grupo se reunirá para uma discussão comparativa, considerando a facilidade de identificação de usuários em potencial e a viabilidade de trabalho com o aplicativo escolhido. Esse processo permitirá a seleção do aplicativo que melhor se ajusta às necessidades de um estudo aprofundado e ao desenvolvimento do projeto de requisitos.
@@ -45,7 +48,6 @@ Após a criação dos rich pictures e das análises individuais, o grupo se reun
 </table>
 
 </div>
-
 
 <p style="text-align: center;">Fonte - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 
@@ -107,9 +109,7 @@ O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviç
 <p>Imagem 1 - Rich Picture - Meu SUS Digital</p>
 </div>
 
-
 ![Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
-
 
 <p style="text-align: center;">Fonte - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 
@@ -143,8 +143,6 @@ O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de c
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |06/11/2024| Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs)|[]()|
-
-
+| Versão | Data       | Descrição            | Autor                                            | Revisor                                            |
+| :----: | ---------- | -------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| `1.0`  | 06/11/2024 | Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |

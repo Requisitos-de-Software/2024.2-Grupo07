@@ -35,6 +35,6 @@ Considerando a familiaridade da equipe com o método SCRUM e a necessidade de um
 
 # Histórico de Versões
 
-| Versão |    Data    | Descrição         | Autor(es)                                          | Revisor(es) |
-| ------ | :--------: | ----------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 03/11/2024 | Metodologia scrum | [Samuel Ribeiro](https://github.com/SamuelRicosta) | []()        |
+| Versão |    Data    | Descrição         | Autor(es)                                          | Revisor(es)                                        |
+| ------ | :--------: | ----------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 03/11/2024 | Metodologia scrum | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

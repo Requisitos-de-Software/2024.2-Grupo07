@@ -22,7 +22,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Início : 21/10 <br> Fim : 23/10</td>
         <td>Alana Gabriele</td>
         <td>Início : 24/10 <br> Fim : 25/10</td>
-        <td>Carlos Eduardo</td>
+        <td></td>
     </tr>
     <tr>
         <td>Elaborar cronograma</td>
@@ -43,14 +43,14 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Início : 01/11 <br> Fim : 03/11</td>
         <td>Genilson Silva</td>
         <td>Início : 04/11 <br> Fim : 05/11</td>
-        <td>Alana Gabriele</td>
+        <td>Samuel Ribeiro </td>
     </tr>
     <tr>
         <td>Aplicativo selecionado para o projeto</td>
         <td>Início : 31/10 <br> Fim : 03/11</td>
         <td>Carlos Eduardo</td>
         <td>Início : 04/11 <br> Fim : 05/11</td>
-        <td>Samuel Ribeiro</td>
+        <td>Alana Gabriele</td>
     </tr>
     <tr>
         <td>Gravação da Apresentação e Entrega</td>
@@ -525,6 +525,6 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                                              | Revisor |
-| ------ | ---------- | -------------------- | -------------------------------------------------- | ------- |
-| 1.0    | 05/11/2024 | Criação do Documento | [Alana Gabriele](https://github.com/alanagabriele) | []()    |
+| Versão | Data       | Descrição            | Autor                                              | Revisor                                          |
+| ------ | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 05/11/2024 | Criação do Documento | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
