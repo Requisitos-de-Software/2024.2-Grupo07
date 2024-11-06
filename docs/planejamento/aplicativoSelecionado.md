@@ -21,7 +21,6 @@ O grupo decidiu pelo Bluesky devido à sua proposta inovadora de descentralizaç
 
 O Bluesky é uma rede social que surgiu com o objetivo de descentralizar a comunicação e oferecer aos usuários uma nova forma de controle sobre suas interações e dados. O aplicativo é baseado na ideia de que redes sociais podem ser gerenciadas de maneira que os dados dos usuários não sejam concentrados em uma única empresa. A plataforma utiliza o AT Protocol, que permite uma interação aberta e controlada pelos próprios usuários, proporcionando uma experiência mais transparente e que promete mais autonomia.
 
-
 ## Termos de Uso
 
 Para assegurar que o projeto será desenvolvido conforme as normas éticas e legais, o grupo revisou os Termos de Uso do Bluesky. O presente projeto tem como único intuito aplicar os conhecimentos adquiridos em aula, o que se enquadra nas permissões permitidas. Além disso, Bluesky define diretrizes para o uso e compartilhamento de dados dentro de um modelo de rede descentralizada.
@@ -29,15 +28,10 @@ Para assegurar que o projeto será desenvolvido conforme as normas éticas e leg
 ## Bibliografia
 
 > <a id="FRM1" href="#anchor_1"></a> [Bluesky Social](https://bsky.app). Uma rede social inovadora e segura. Acesso em 5 de novembro de 2024.
-
-
 > <a id="FRM2" href="#anchor_2"></a> [Termos de Uso Bluesky](https://bsky.social/about/support/tos). Detalhes sobre condições de uso e políticas de privacidade da plataforma. Acesso em: 5 de novembro de 2024.
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |05/11/2024| Criação do documento | [Carlos Eduardo](https://github.com/dudupaz)|[Genilson Silva](https://github.com/GenilsonJrs)|
-
-
-
+| Versão | Data       | Descrição            | Autor                                        | Revisor                                          |
+| :----: | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
+|  1.0   | 05/11/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |
