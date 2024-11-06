@@ -102,7 +102,7 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
 
 <div style="text-align: center">
-<p>Imagem 1 - Rich Picture - Signal</p>
+<p>Imagem 2 - Rich Picture - Signal</p>
 </div>
 
 
@@ -136,7 +136,7 @@ O **Meu SUS Digital** é um aplicativo desenvolvido pelo Ministério da Saúde d
 O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviços mais acessíveis, transparentes e eficientes, simplificando o processo de utilização do SUS para milhões de brasileiros.
 
 <div style="text-align: center">
-<p>Imagem 1 - Rich Picture - Meu SUS Digital</p>
+<p>Imagem 3 - Rich Picture - Meu SUS Digital</p>
 </div>
 
 ![Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
@@ -168,6 +168,15 @@ O **Rocket.Chat** é uma plataforma de comunicação colaborativa de código abe
 8. **Controle de Administração**: Os administradores têm acesso a um painel completo de gerenciamento de usuários, permissões e configurações, além de ferramentas de monitoramento e relatórios, garantindo que a plataforma seja gerida de maneira eficiente e segura.
 
 O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de comunicação flexível, escalável e segura, oferecendo uma plataforma completa de mensagens, chamadas e colaboração, com o benefício adicional de ser totalmente personalizável e controlada pela própria organização.
+
+
+<div style="text-align: center">
+<p>Imagem 4 - Rich Picture - Rocket Chat</p>
+</div>
+
+![Rich Picture - Rocket Chat](imagens/rpsamuel.jpg)
+
+<p style="text-align: center;">Fonte - <a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></p>
 
 ## Bibliografia
 
