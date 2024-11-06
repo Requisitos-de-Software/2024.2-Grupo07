@@ -53,13 +53,6 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Samuel Ribeiro</td>
     </tr>
     <tr>
-        <td>Inserção das atividades no GitPages</td>
-        <td>Início : 03/11 <br> Fim : 03/11</td>
-        <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-        <td>Início : 04/11 <br> Fim : 04/11</td>
-        <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-    </tr>
-    <tr>
         <td>Gravação da Apresentação e Entrega</td>
         <td>Início : 05/11 <br> Fim : 06/11</td>
         <td>Alana Gabriele</td>
@@ -85,7 +78,71 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     <h2> Cronograma Executado</h2>
     <p>Na <b>Tabela 2</b>  está o cronograma executado da etapa.</p>
     <font size="2"><p style="text-align: center">Tabela 2 - Cronograma executado de atividades da etapa 1 </p></font>
-    //tabela    
+       <table border="1">
+    <tr>
+        <th>Atividade</th>
+        <th>Período para o desenvolvimento da atividade</th>
+        <th style="width: 100px;">Responsáveis</th>
+        <th>Período da revisão</th>
+        <th>Revisores</th>
+    </tr>
+    <tr>
+        <td>Criação do GitPages</td>
+        <td>Início : 21/10 <br> Fim : 21/10</td>
+        <td>Alana Gabriele</td>
+        <td>Início : 24/10 <br> Fim : 25/10</td>
+        <td>Carlos Eduardo</td>
+    </tr>
+    <tr>
+        <td>Elaborar cronograma</td>
+        <td>Início: 03/10 <br> Fim: 06/10</td>
+        <td>Alana Gabriele</td>
+        <td>Início: 06/11 <br> Fim: 06/11</td>
+        <td>Genilson Silva</td>
+    </tr>
+    <tr>
+        <td>Definição das Ferramentas do Projeto</td>
+        <td>Início : 28/10 <br> Fim : 29/10</td>
+        <td>Alana Gabriele</td>
+        <td>Início : 30/10 <br> Fim : 30/10</td>
+        <td>Samuel Ribeiro</td>
+    </tr>
+    <tr>
+        <td>Lista de aplicativos avaliados</td>
+        <td>Início : 04/11 <br> Fim : 05/11</td>
+        <td>Genilson Silva</td>
+        <td>Início : 05/11 <br> Fim : 05/11</td>
+        <td>Alana Gabriele</td>
+    </tr>
+    <tr>
+        <td>Aplicativo selecionado para o projeto</td>
+        <td>Início : 31/10 <br> Fim : 03/11</td>
+        <td>Carlos Eduardo</td>
+        <td>Início : 04/11 <br> Fim : 05/11</td>
+        <td>Samuel Ribeiro</td>
+    </tr>
+    <tr>
+        <td>Gravação da Apresentação e Entrega</td>
+        <td>Início : 06/11 <br> Fim : 06/11</td>
+        <td>Alana Gabriele</td>
+        <td>Início : 06/11 <br> Fim : 06/11</td>
+        <td>Carlos Eduardo</td>
+    </tr>
+    <tr>
+        <td>Verificação do grupo +1</td>
+        <td>Início : 07/11 <br> Fim : 07/11</td>
+        <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        <td>Início : 07/11 <br> Fim : 07/11</td>
+        <td>Samuel Ribeiro</td>
+    </tr>
+    <tr>
+        <td>Correções pós-apresentação</td>
+        <td>Início : 08/11 <br> Fim : 09/11</td>
+        <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        <td>Início : 10/11 <br> Fim : 10/11</td>
+        <td>Genilson Silva</td>
+    </tr>
+</table>
     <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
 </details>
 
@@ -150,13 +207,6 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele e Genilson Silva</td>
             <td>Início: 22/11 <br> Fim: 22/11</td>
             <td>Carlos Eduardo</td>
-        </tr>
-          <tr>
-            <td>Inserção das atividades no GitPages</td>
-            <td>Início : 09/11 <br> Fim : 22/11</td>
-            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início : 04/11 <br> Fim : 04/11</td>
-            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
@@ -223,7 +273,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Carlos Eduardo e Samuel Ribeiro</td>
             <td>Início: 05/12 <br> Fim: 05/12</td>
             <td>Alana Gabriele</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
             <td>Início: 07/12 <br> Fim: 08/12</td>
