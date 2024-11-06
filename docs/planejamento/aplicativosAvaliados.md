@@ -99,6 +99,16 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 
 O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
 
+<div style="text-align: center">
+<p>Imagem 1 - Rich Picture - Signal</p>
+</div>
+
+
+![Rich Picture - Signal](imagens/rpcarlos.jpg)
+
+
+<p style="text-align: center;">Fonte - <a href="https://github.com/dudupaz">Carlos Paz</a></p>
+
 <div style="text-align: center;">
   <h2>Meu SUS Digital - Genilson</h2>
 </div>
