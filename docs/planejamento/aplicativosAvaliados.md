@@ -114,10 +114,9 @@ O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviç
 <div>
 -->
 
-<div style="text-align: center;">
-  <img src="docs/planejamento/imagens/rpgenilson.jpg" style="width: 50%;" />
-</div>
-
+<div align="center">
+<img src="imagens/rpgenilson.jpg" width=50%>
+<div>
 
 <!--!
 [Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
