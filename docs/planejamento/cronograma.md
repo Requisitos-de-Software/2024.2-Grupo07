@@ -521,6 +521,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 
 > SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf> Acesso em 23 de outubro de 2024. <br>
 > SALES, André Barros. Template de cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf> Acesso em 05 de novembro de 2024.
+> Cronograma Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma//>. Acesso em 01 de novembro de 2024.
 
 ## Histórico de Versões
 
