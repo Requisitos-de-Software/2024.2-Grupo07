@@ -174,6 +174,15 @@ O **Rocket.Chat** é uma plataforma de comunicação colaborativa de código abe
 
 O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de comunicação flexível, escalável e segura, oferecendo uma plataforma completa de mensagens, chamadas e colaboração, com o benefício adicional de ser totalmente personalizável e controlada pela própria organização.
 
+
+<div style="text-align: center">
+<p>Imagem 4 - Rich Picture - Rocket Chat</p>
+</div>
+
+![Rich Picture - Rocket Chat](imagens/rpsamuel.jpeg)
+
+<p style="text-align: center;">Fonte - <a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></p>
+
 ## Bibliografia
 
 ## Histórico de Versões
