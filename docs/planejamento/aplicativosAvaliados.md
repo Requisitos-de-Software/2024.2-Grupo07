@@ -35,7 +35,7 @@ Após a criação dos rich pictures e das análises individuais, o grupo se reun
   </tr>
   <tr>
     <td><a href="https://github.com/dudupaz">Carlos Eduardo</a></td>
-    <td>?</td>
+    <td>Signal</td>
   </tr>
   <tr>
     <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
@@ -76,10 +76,40 @@ O **BlueSky** é um aplicativo de rede social descentralizada, focado em criar u
 O **BlueSky** é uma alternativa inovadora às redes sociais tradicionais, proporcionando um espaço onde a privacidade e o controle do usuário estão no centro da experiência. Ele busca transformar a forma como interagimos online, com uma ênfase na descentralização e na transparência.
 
 <div style="text-align: center;">
-  <h2>? - Carlos</h2>
+  <h2>Signal - Carlos</h2>
 </div>
 
-Breve Descrição
+O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, desenvolvido pela Signal Foundation. Criado com o objetivo de proporcionar uma comunicação segura e protegida contra interceptações, o Signal utiliza criptografia de ponta a ponta para garantir que as mensagens, chamadas e outros dados do usuário sejam completamente privados e inacessíveis a terceiros.
+
+### **Principais funcionalidades:**
+
+1. **Mensagens Criptografadas**: O Signal utiliza criptografia de ponta a ponta em todas as mensagens, garantindo que apenas os remetentes e destinatários possam ler o conteúdo das comunicações. 
+
+2. **Chamadas de Voz e Vídeo Seguras**: Além das mensagens, o Signal oferece chamadas de áudio e vídeo totalmente criptografadas.
+
+3. **Privacidade Avançada:**: O Signal prioriza a privacidade do usuário, oferecendo configurações detalhadas para ocultar dados sensíveis, como remetentes e pré-visualizações de mensagens.
+
+4. **Código Aberto e Transparência**: Todo o código-fonte do Signal é de código aberto, permitindo que qualquer pessoa verifique e contribua para a segurança e aprimoramento da plataforma.
+
+5. **Controle sobre Dados do Usuário**: O Signal permite que os usuários controlem o que é compartilhado, limitando o uso de informações pessoais. 
+
+6. **Segurança em Grupos**: O Signal permite a criação de grupos com mensagens e chamadas criptografadas, mantendo a segurança mesmo em interações com múltiplos participantes.
+
+7. **Recursos de Anonimato**: Para maior proteção, o Signal oferece opções de anonimato, como o recurso de desfocar rostos em imagens e não armazenar metadados associados a mensagens.
+
+8. **Compatibilidade com Multiplataformas**: O aplicativo está disponível em diversas plataformas, incluindo Android, iOS, Windows, macOS e Linux, permitindo que os usuários tenham uma experiência segura e consistente em diferentes dispositivos.
+
+O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
+
+<div style="text-align: center">
+<p>Imagem 1 - Rich Picture - Signal</p>
+</div>
+
+
+![Rich Picture - Signal](imagens/rpcarlos.jpg)
+
+
+<p style="text-align: center;">Fonte - <a href="https://github.com/dudupaz">Carlos Paz</a></p>
 
 <div style="text-align: center;">
   <h2>Meu SUS Digital - Genilson</h2>
