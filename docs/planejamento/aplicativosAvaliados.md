@@ -174,7 +174,7 @@ O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de c
 <p>Imagem 4 - Rich Picture - Rocket Chat</p>
 </div>
 
-![Rich Picture - Rocket Chat](imagens/rpsamuel.jpg)
+![Rich Picture - Rocket Chat](imagens/rpsamuel.jpeg)
 
 <p style="text-align: center;">Fonte - <a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></p>
 
