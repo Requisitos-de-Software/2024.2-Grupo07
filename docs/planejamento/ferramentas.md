@@ -37,4 +37,4 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 
 | Versão | Data       | Descrição               | Autor                                              | Revisor |
 | ------ | ---------- | ----------------------- | -------------------------------------------------- | ------- |
-| 1.0    | 29/10/2024 | Inserção de ferramentas | [Alana Gabriele](https://github.com/alanagabriele) | []()    |
+| 1.0    | 29/10/2024 | Inserção de ferramentas | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
