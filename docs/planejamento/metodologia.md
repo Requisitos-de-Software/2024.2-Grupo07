@@ -16,7 +16,7 @@ Foi criado um **mapa de calor de disponibilidade** (figura 1), onde cada membro 
 
 <font size="2"><p style="text-align: center"> Figura 1 - Heatmap de Disponibilidade </p></font>
 
-# Metodologia: SCRUM Adaptado
+# Metodologia: SCRUM
 
 Considerando a familiaridade da equipe com o método SCRUM e a necessidade de um cronograma rígido, escolhemos o SCRUM como metodologia principal para o projeto. Essa abordagem ágil permite flexibilidade nas entregas e foco em interações constantes, o que é essencial para o desenvolvimento de requisitos de um aplicativo.
 
@@ -37,4 +37,4 @@ Considerando a familiaridade da equipe com o método SCRUM e a necessidade de um
 
 | Versão |    Data    | Descrição         | Autor(es)                                          | Revisor(es)                                        |
 | ------ | :--------: | ----------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 03/11/2024 | Metodologia scrum | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.0    | 03/11/2024 | Metodologia scrum | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |

@@ -75,6 +75,13 @@ O **BlueSky** é um aplicativo de rede social descentralizada, focado em criar u
 
 O **BlueSky** é uma alternativa inovadora às redes sociais tradicionais, proporcionando um espaço onde a privacidade e o controle do usuário estão no centro da experiência. Ele busca transformar a forma como interagimos online, com uma ênfase na descentralização e na transparência.
 
+<div style="text-align: center">
+<p>Imagem 1 - Rich Picture - BlueSky</p>
+</div>
+
+![Rich Picture - BlueSky](imagens/rp3Alana.png)
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
+
 <div style="text-align: center;">
   <h2>Signal - Carlos</h2>
 </div>
@@ -83,7 +90,7 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 
 ### **Principais funcionalidades:**
 
-1. **Mensagens Criptografadas**: O Signal utiliza criptografia de ponta a ponta em todas as mensagens, garantindo que apenas os remetentes e destinatários possam ler o conteúdo das comunicações. 
+1. **Mensagens Criptografadas**: O Signal utiliza criptografia de ponta a ponta em todas as mensagens, garantindo que apenas os remetentes e destinatários possam ler o conteúdo das comunicações.
 
 2. **Chamadas de Voz e Vídeo Seguras**: Além das mensagens, o Signal oferece chamadas de áudio e vídeo totalmente criptografadas.
 
@@ -91,7 +98,7 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 
 4. **Código Aberto e Transparência**: Todo o código-fonte do Signal é de código aberto, permitindo que qualquer pessoa verifique e contribua para a segurança e aprimoramento da plataforma.
 
-5. **Controle sobre Dados do Usuário**: O Signal permite que os usuários controlem o que é compartilhado, limitando o uso de informações pessoais. 
+5. **Controle sobre Dados do Usuário**: O Signal permite que os usuários controlem o que é compartilhado, limitando o uso de informações pessoais.
 
 6. **Segurança em Grupos**: O Signal permite a criação de grupos com mensagens e chamadas criptografadas, mantendo a segurança mesmo em interações com múltiplos participantes.
 
@@ -102,12 +109,10 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
 
 <div style="text-align: center">
-<p>Imagem 1 - Rich Picture - Signal</p>
+<p>Imagem 2 - Rich Picture - Signal</p>
 </div>
 
-
 ![Rich Picture - Signal](imagens/rpcarlos.jpg)
-
 
 <p style="text-align: center;">Fonte - <a href="https://github.com/dudupaz">Carlos Paz</a></p>
 
@@ -136,7 +141,7 @@ O **Meu SUS Digital** é um aplicativo desenvolvido pelo Ministério da Saúde d
 O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviços mais acessíveis, transparentes e eficientes, simplificando o processo de utilização do SUS para milhões de brasileiros.
 
 <div style="text-align: center">
-<p>Imagem 1 - Rich Picture - Meu SUS Digital</p>
+<p>Imagem 3 - Rich Picture - Meu SUS Digital</p>
 </div>
 
 ![Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
@@ -175,4 +180,4 @@ O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de c
 
 | Versão | Data       | Descrição            | Autor                                            | Revisor                                            |
 | :----: | ---------- | -------------------- | ------------------------------------------------ | -------------------------------------------------- |
-| `1.0`  | 06/11/2024 | Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.0   | 06/11/2024 | Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |

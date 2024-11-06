@@ -11,6 +11,7 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Aplicativos Avaliados: planejamento/aplicativosAvaliados.md
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
+      - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
 
 
@@ -19,7 +20,7 @@ theme:
   language: pt-BR
   features:
     - navigation.instant
-    - navigation.sections  # Corrigir de 'section' para 'sections'
+    - navigation.sections 
     - navigation.top
     - navigation.tabs
     - search.suggest
