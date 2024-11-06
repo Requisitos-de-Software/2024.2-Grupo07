@@ -1,8 +1,8 @@
 # Grupo 07 - Requisitos de Software
 
- <center>
-  <img src="docs\planejamento\imagens\blueskylogo.jpg" align-self="center">
-  </center>
+  <div align="center">
+<img src="/docs/planejamento/imagens/blueskylogo.jpg" alt="" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
 
 ## Sobre o Bluesky
 
@@ -14,15 +14,16 @@ Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Bras
 
  ## 👨‍💻 Equipe
 
-<table>
-  <tr>
-     <td align="center"><a href="https://github.com/alanagabriele"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85856457?v=4" width="150px;" alt=""/><br /><sub><b>Alana Gabriele</b></sub></a><br />
-    <td align="center"><a href="https://github.com/dudupaz"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/122990784?v=4" width="150px;" alt=""/><br /><sub><b>Carlos Paz</b></sub></a><br />
-    <td align="center"><a href="https://github.com/GenilsonJrs"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61212256?v=4" width="150px;" alt=""/><br /><sub><b>Genilson Junior</b></sub></a><br />
-    <td align="center"><a href="https://github.com/SamuelRicosta"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90395032?v=4" width="150px;" alt=""/><br /><sub><b>Samuel Ribeiro</b></sub></a><br />
-
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/alanagabriele"><img style="border-radius: 200%;" src="https://avatars.githubusercontent.com/u/85856457?v=4" width="100px;" alt=""/><br /><sub><b>Alana Gabriele</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dudupaz"><img style="border-radius: 200%;" src="https://avatars.githubusercontent.com/u/122990784?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Paz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/GenilsonJrs"><img style="border-radius: 200%;" src="https://avatars.githubusercontent.com/u/61212256?v=4" width="100px;" alt=""/><br /><sub><b>Genilson Junior</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/SamuelRicosta"><img style="border-radius: 200%;" src="https://avatars.githubusercontent.com/u/90395032?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Ribeiro</b></sub></a><br /></td>
+    </tr>
+  </table>
+</div>
 
 
 ## Histórico de Versões
@@ -30,5 +31,5 @@ Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Bras
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
 |  1.0   | Criação do documento | [Carlos Paz](https://github.com/dudupaz) | 06/11/2024   | [Genilson Junior](https://github.com/GenilsonJrs) |
-|
+
 
