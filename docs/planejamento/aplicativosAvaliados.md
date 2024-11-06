@@ -108,13 +108,7 @@ O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviç
 </div>
 
 
-<!--
-<div align="center">
-    <img width="50%" title="Rich Picture - Meu SUS Digital" src="imagens/rpgenilson.jpg"/>
-<div>
--->
-
-![Descrição da imagem](imagens/rpgenilson.jpg)
+![Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
 
 
 <p style="text-align: center;">Fonte - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
