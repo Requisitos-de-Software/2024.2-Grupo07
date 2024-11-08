@@ -7,6 +7,7 @@ nav:
   - Atas: 
     - Ata 1: atas/ata1.md
   - Apresentação:
+    - Teste: index.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -17,7 +18,9 @@ nav:
   - Verificação:
     - Etapa 1:
       - Nosso Grupo (Grupo 7):
+        - Teste: index.md
       - Grupo +1 (Grupo 8):
+        - Teste: index.md
 
 
 theme:
