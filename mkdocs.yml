@@ -7,20 +7,39 @@ nav:
   - Atas: 
     - Ata 1: atas/ata1.md
   - Apresentação:
-    - Teste: index.md
+    - Entregas:
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
       - Aplicativos Avaliados: planejamento/aplicativosAvaliados.md
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
+      - Termo de Uso:
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
   - Verificação:
     - Etapa 1:
       - Nosso Grupo (Grupo 7):
-        - Teste: index.md
+        - Início:
+        - Apresentação:
+        - Heatmap:
+        - Cronograma:
+        - Ferramentas:
+        - Aplicativos Avaliados:
+        - Aplicativo Selecionado:
+        - Termo de Uso:
+        - Rich Picture:
+        - Metodologia:
       - Grupo +1 (Grupo 8):
-        - Teste: index.md
+        - Início:
+        - Apresentação:
+        - Heatmap:
+        - Cronograma:
+        - Ferramentas:
+        - Aplicativos Avaliados:
+        - Aplicativo Selecionado:
+        - Termo de Uso:
+        - Rich Picture:
+        - Metodologia:
 
 
 theme:
