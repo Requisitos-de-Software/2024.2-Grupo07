@@ -9,8 +9,6 @@ A verificação tem como propósito garantir que todos os requisitos de avaliaç
 ## Metodologia
 A verificação seguiu uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de um checklist para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes.
 
-<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=PnM20gaJa1g">YouTube.</a></p>
-
 <div style="text-align: center">
 <p>Tabela 1 - Checklist de Aplicativo Selecionado</p>
 </div>
@@ -25,7 +23,7 @@ A verificação seguiu uma lista de critérios de avaliação, desenvolvida conf
 | 6      | Os textos estão escritos em norma culta e sem erros de digitação? |Sim | v 1.0 - 08/11 |
 | 7      | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis? | Sim| v 1.0 - 08/11 |
 
-
+<p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Junior</a></p>
 
 ## Problemas
 O único problema identificado foi a ausência de um objetivo específico e datado apresentado em tópico. Embora pareça um detalhe simples, isso pode gerar questionamentos.
@@ -34,6 +32,8 @@ O único problema identificado foi a ausência de um objetivo específico e data
 Incluir um tópico dedicado aos objetivos, acompanhado de uma explicação mais detalhada sobre a finalidade do artefato.
 
 ## Gravação
+
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=PnM20gaJa1g">YouTube.</a></p>
 
 <div style="text-align: center">
 <p>Vídeo 1 - Verificação de Aplicativo Selecionado</p>
