@@ -6,6 +6,7 @@ nav:
   - Início: index.md
   - Atas: 
     - Ata 1: atas/ata1.md
+  - Apresentação:
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -13,6 +14,10 @@ nav:
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
+  - Verificação:
+    - Etapa 1:
+      - Nosso Grupo (Grupo 7):
+      - Grupo +1 (Grupo 8):
 
 
 theme:
