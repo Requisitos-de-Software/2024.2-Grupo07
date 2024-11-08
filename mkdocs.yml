@@ -14,7 +14,6 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Aplicativos Avaliados: planejamento/aplicativosAvaliados.md
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
-      - Termo de Uso: planejamento/termodeuso.md
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
   - Verificação:
@@ -29,9 +28,9 @@ nav:
         - Rich Picture: verificação/etapa1/Grupo7/riachpicture7.md
         - Metodologia: verificação/etapa1/Grupo7/metodologia7.md
       - Grupo +1 (Grupo 8):
-        - Home: verificação/etapa1/Grupo8/inicio8.md
+        - Home: verificação/etapa1/Grupo8/home8.md
         - Heatmap: verificação/etapa1/Grupo8/heatmap8.md
-        - Cronograma: verificação/etapa1/Grupo8/cronograma8.md
+        - Cronograma de Atividades: verificação/etapa1/Grupo8/cronogramadeatividades8.md
         - Ferramentas: verificação/etapa1/Grupo8/ferramentas8.md
         - Aplicativos Avaliados: verificação/etapa1/Grupo8/aplicativosavaliados8.md
         - Aplicativo Selecionado: verificação/etapa1/Grupo8/aplicativoselecionado8.md

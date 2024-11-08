@@ -1,4 +1,3 @@
-
 # Verifecação do cronograma 
 
 ## Introdução
@@ -19,17 +18,18 @@ As informações presentes nesta tabela foram extraídas diretamente da tabela f
 |--------|--------------------------------------------------------------------------|-----------|---------------------------|
 | 1      | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período de revisão deles? | Sim       | versão 1.0 08/11          |
 | 2      | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?                      | Sim       | versão 1.0 08/11          |
-| 3      | O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor?  | Sim       | versão 1.0 08/11          |
-| 4      | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim       | versão 1.0 08/11          |
-| 5      | Foram utilizadas referências bibliográficas adequadas?                   | Sim       | versão 1.0 08/11          |
-| 6      | Há um histórico de versão atualizado?                                    | Sim       | versão 1.0 08/11          |
-| 7      | Foram utilizadas referências bibliográficas adequadas?                   | Sim       | versão 1.0 08/11          |
-| 8      | As revisões foram realizadas por um membro diferente do autor original?  | Sim       | versão 1.0 08/11          |
+| 3      | O artefato inclui uma seção de escopo do projeto?                        | Sim       | versão 1.0 08/11          |
+| 4      | O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor?  | Sim       | versão 1.0 08/11          |
+| 5      | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim       | versão 1.0 08/11          |
+| 6      | Foram utilizadas referências bibliográficas adequadas?                   | Sim       | versão 1.0 08/11          |
+| 7      | Há um histórico de versão atualizado?                                    | Sim       | versão 1.0 08/11          |
+| 8      | Foram utilizadas referências bibliográficas adequadas?                   | Sim       | versão 1.0 08/11          |
+| 9      | As revisões foram realizadas por um membro diferente do autor original?  | Sim       | versão 1.0 08/11          |
 
 
 ## Video da conferencia 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5G9B8ALGJ0?si=9sthIMkHD6iTX6T2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u4hSuC_ZYkA?si=0r69p61vD5zRtw2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Dificuldades Observadas
 
@@ -43,4 +43,4 @@ Embora não tenha sido identificado nenhum erro, é importante manter a continui
 
 | Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                        |
 | ------ | :--------: | --------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 06/11/2024 | Ata 1     | [Samuel Ribeiro](https://github.com/SamuelRicosta) |  [Carlos Eduardo](https://github.com/dudupaz)      |
+| 1.0    | 06/11/2024 | Ata 1     | [Samuel Ribeiro](https://github.com/SamuelRicosta) |   [Genilson Silva](https://github.com/GenilsonJrs) |
