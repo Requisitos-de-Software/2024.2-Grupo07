@@ -1,4 +1,4 @@
-# Verificação do artefato de equipe
+# Verificação do artefato de Aplicativos Avaliados
 
 ## Introdução
 
@@ -28,6 +28,10 @@ A verificação foi conduzida utilizando uma lista de critérios de avaliação,
 | 9 | O artefato possui bibliografia ou referência bibliográfica? | Sim | v 1.1 - 08/11 |
 | 10 | O artefato possui histórico de versões, apresentando a versão, a data e os responsáveis? | Sim | v 1.1 - 08/11 |
 
+## Video de Verificação de Aplicativos Avaliados
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4lMiWf58Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Sugestões
 
 Seria benéfico incluir análises sobre a complexidade de cada aplicativo, destacando aspectos técnicos e funcionalidades.
@@ -36,4 +40,5 @@ Seria benéfico incluir análises sobre a complexidade de cada aplicativo, desta
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 08/11/2024 | Verificação do artefato de aplicativos avaliados |  Carlos Paz | Genilson Junior |
+|  1.0   | 08/11/2024 | Verificação do artefato de aplicativos avaliados |  [Carlos Paz](https://github.com/dudupaz) | [Genilson Junior](https://github.com/GenilsonJrs) |
+|  1.1   | 09/11/2024 | Inclusão do link do Youtube |  [Carlos Paz](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

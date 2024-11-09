@@ -42,4 +42,4 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) |             |
+| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Paz](https://github.com/dudupaz)         |

@@ -24,6 +24,10 @@ A verificação foi conduzida utilizando uma lista de critérios de avaliação,
 | 5 | A página apresenta todos os integrantes da equipe? | Sim | v 1.0 - 08/11 |
 | 6 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim | v 1.0 - 08/11 |
 
+## Video de Verificação da página Equipe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u07wc424Heo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Sugestões
 
 O artefato está conforme o esperado, assim, não há sugestões a serem feitas.
@@ -32,4 +36,5 @@ O artefato está conforme o esperado, assim, não há sugestões a serem feitas.
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 08/11/2024 | Verificação do artefato de equipe |  Carlos Paz | Alana Gabriele |
+|  1.0   | 08/11/2024 | Verificação do artefato de equipe |  [Carlos Paz](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.1   | 09/11/2024 | Inclusão do link do Youtube |  [Carlos Paz](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

@@ -23,6 +23,9 @@
 <br> Autor(a): Carlos Paz
 </p>
 
+## Video de Verificação da Metodologia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3NciP8LxHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Sugestões
 
@@ -34,6 +37,7 @@ O artefato está conforme o esperado, assim, não há sugestões a serem feitas.
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 09/11/2024 | Verificação do Rich Picture - Bluesky | Carlos Paz | Genilson Junior |
+|  1.0   | 09/11/2024 | Verificação do Rich Picture - Bluesky | [Carlos Paz](https://github.com/dudupaz) | [Genilson Junior](https://github.com/GenilsonJrs) |
+|  1.1   | 09/11/2024 | Inclusão do link do Youtube | [Carlos Paz](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/GenilsonJrs) |
 
 
