@@ -23,7 +23,7 @@
 <br> Autor(a): Carlos Paz
 </p>
 
-## Video de Verificação da Metodologia
+## Video de Verificação do Rich Picture - Bluesky
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3NciP8LxHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
