@@ -2,7 +2,9 @@
 
 Grupo 7 da disciplina de Requisitos de Software, ministrada pelo professor André Barros.
 
-O objetivo desta documentação é apresentar todo o trabalho realizado durante o desenvolvimento do projeto da disciplina.
+O objetivo desta documentação é apresentar o trabalho sobre o aplicativo BlueSky realizado durante o desenvolvimento do projeto da disciplina.
+
+![BlueSky](./bluesky.jpeg)
 
 ## Equipe do Projeto
 
@@ -40,6 +42,6 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                                 | Autor(es)                                          | Revisor(es) |
-| ------ | :--------: | ----------------------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Paz](https://github.com/dudupaz)         |
+| Versão |    Data    | Descrição                                 | Autor(es)                                          | Revisor(es)                              |
+| ------ | :--------: | ----------------------------------------- | -------------------------------------------------- | ---------------------------------------- |
+| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Paz](https://github.com/dudupaz) |
