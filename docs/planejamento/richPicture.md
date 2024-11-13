@@ -4,36 +4,41 @@ A Rich Picture é descrita como uma ferramenta visual informal que representa as
 
 ### Rich picture do Aplicativo escolhido
 
+
+
+![Rich Picture - BlueSky](imagens/rpAlana.png)
+
 <div style="text-align: center">
 <p>Imagem 1 - Rich Picture - BlueSky</p>
 </div>
+<font size="2"><p style="text-align: center"> Autor: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
-![Rich Picture - BlueSky](imagens/rpAlana.png)
-<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
+![Rich Picture - BlueSky](imagens/rp2Alana.png)
 <div style="text-align: center">
 <p>Imagem 2 - Tabela</p>
 </div>
-
-![Rich Picture - BlueSky](imagens/rp2Alana.png)
-<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
+<font size="2"><p style="text-align: center"> Autor: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
 ## Tabela de Verificação de Rich Pictures
 
-| Pergunta | Descrição | Verificação | Fonte | Imagem de Referência |
-|----------|-----------|-------------|-------|-----------------------|
-| Identificação dos atores e suas responsabilidades estão conforme? | Verificar se todos os atores do sistema e suas respectivas funções são identificadas. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 4 | ![](imagens/imgTabela/01.jpg) |
-| Identificação das operações e quem as executa? | Verificar se todas as operações e os responsáveis por executá-las foram definidos. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 4 | ![](imagens/imgTabela/02.jpg)|
-| Definição das necessidades de dados para cada operação? | Verificar se as necessidades de dados de cada operação foram claramente definidas. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 4 | ![](imagens/imgTabela/03.jpg) |
-| Representação dos fluxos de dados e sua direção? | Confirmar se os fluxos de dados e suas direções estão bem representados. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 3 | ![](imagens/imgTabela/04.jpg) |
-| Definição do limite do sistema? | Verificar se o limite do sistema está claramente definido. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 4 | ![](imagens/imgTabela/05.jpg) |
-| Uso de imagens, palavras-chave e rótulos descritivos para contar uma história? | Avaliar se há imagens, palavras-chave e rótulos descritivos que ajudam a contar a narrativa do sistema. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 3 | ![](imagens/imgTabela/06.jpg) |
-| Comunicação clara de entradas e saídas de dados? | Verificar se as entradas e saídas de dados são comunicadas de maneira clara. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 3 | ![](imagens/imgTabela/07.jpg) |
-| Clareza e legibilidade do rich picture? | Confirmar se o rich picture é claro e legível. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 3 | ![](imagens/imgTabela/08.jpg) |
-| Identificação de problemas e conflitos potenciais? | Avaliar se possíveis problemas e conflitos foram identificados. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 1 | ![](imagens/imgTabela/09.jpg) |
-| Representação de processos de negócios e seus requisitos de dados? | Verificar se os processos de negócios e seus requisitos de dados estão representados. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 1 | ![](imagens/imgTabela/10.jpg) |
-| Uso de uma variedade de elementos gráficos para diferenciar componentes? | Verificar se diferentes elementos gráficos foram usados para distinguir os componentes. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 2 | ![](imagens/imgTabela/11.jpg) |
-| Identificação e uso de palavras-chave relevantes? | Verificar se palavras-chave relevantes estão identificadas e utilizadas adequadamente. | ☑️ | Software Development Project, Introducing Rich Pictures, p. 2 | ![](imagens/imgTabela/11.jpg) |
+| Pergunta | Descrição | Verificação | Imagem de Referência | 
+|----------|-----------|-------------|----------------------|
+| Identificação dos atores e suas responsabilidades estão conforme? <br> **Autor:** [Alana Gabriele](https://github.com/alanagabriele) | Verificar se todos os atores do sistema e suas respectivas funções são identificadas. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/01.jpg) |  
+| Identificação das operações e quem as executa? <br> **Autor:** [Samuel Ribeiro](https://github.com/SamuelRicosta) | Verificar se todas as operações e os responsáveis por executá-las foram definidos. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/02.jpg) |  
+| Definição das necessidades de dados para cada operação? <br> **Autor:** [Carlos Eduardo](https://github.com/dudupaz) | Verificar se as necessidades de dados de cada operação foram claramente definidas. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/03.jpg) |  
+| Representação dos fluxos de dados e sua direção? <br> **Autor:** [Genilson Silva](https://github.com/GenilsonJrs) | Confirmar se os fluxos de dados e suas direções estão bem representados. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/04.jpg) |  
+| Definição do limite do sistema? <br> **Autor:** [Alana Gabriele](https://github.com/alanagabriele) | Verificar se o limite do sistema está claramente definido. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/05.jpg) |  
+| Uso de imagens, palavras-chave e rótulos descritivos para contar uma história? <br> **Autor:** [Samuel Ribeiro](https://github.com/SamuelRicosta) | Avaliar se há imagens, palavras-chave e rótulos descritivos que ajudam a contar a narrativa do sistema. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/06.jpg) |  
+| Comunicação clara de entradas e saídas de dados? <br> **Autor:** [Carlos Eduardo](https://github.com/dudupaz) | Verificar se as entradas e saídas de dados são comunicadas de maneira clara. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/07.jpg) |  
+| Clareza e legibilidade do rich picture? <br> **Autor:** [Genilson Silva](https://github.com/GenilsonJrs) | Confirmar se o rich picture é claro e legível. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/08.jpg) |  
+| Identificação de problemas e conflitos potenciais? <br> **Autor:** [Alana Gabriele](https://github.com/alanagabriele) | Avaliar se possíveis problemas e conflitos foram identificados. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 1](imagens/imgTabela/09.jpg) |  
+| Representação de processos de negócios e seus requisitos de dados? <br> **Autor:** [Samuel Ribeiro](https://github.com/SamuelRicosta) | Verificar se os processos de negócios e seus requisitos de dados estão representados. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 1](imagens/imgTabela/10.jpg) |  
+| Uso de uma variedade de elementos gráficos para diferenciar componentes? <br> **Autor:** [Carlos Eduardo](https://github.com/dudupaz) | Verificar se diferentes elementos gráficos foram usados para distinguir os componentes. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 2](imagens/imgTabela/11.jpg) |  
+| Identificação e uso de palavras-chave relevantes? <br> **Autor:** [Genilson Silva](https://github.com/GenilsonJrs) | Verificar se palavras-chave relevantes estão identificadas e utilizadas adequadamente. | ☑️ | [Software Development Project, Introducing Rich Pictures - p. 2](imagens/imgTabela/11.jpg) |  
+
+
+
 
 #### Legenda de Status
 
@@ -60,3 +65,4 @@ A Rich Picture é descrita como uma ferramenta visual informal que representa as
 | ------ | :--------: | --------------- | -------------------------------------------------- | ------------------------------------------------ |
 | 1.0    | 06/11/2024 | Criação da tela | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.1    | 06/11/2024 | Criação da tabela de verificação | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.2    | 06/11/2024 | Arrumando tabela e fonte | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz) |
