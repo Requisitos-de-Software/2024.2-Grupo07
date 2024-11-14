@@ -90,7 +90,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
 <h2>Gravação</h2>
 
 <div style="text-align: center">
-<p>Vídeo 1 - Verificação da Apresentação</p>
+<p>Vídeo 1 - Verificação do artefato</p>
 </div>
   <iframe
     width="560"
@@ -161,7 +161,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
 <h2>Gravação</h2>
 
 <div style="text-align: center">
-<p>Vídeo 2 - Verificação da Apresentação</p>
+<p>Vídeo 2 - Verificação do artefato</p>
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGBGxNVNgnw?si=a6zehiBE-U6mIU7C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -252,7 +252,7 @@ Embora não tenha sido identificado nenhum erro, é importante manter a continui
 <h2>Gravação</h2>
 
 <div style="text-align: center">
-<p>Vídeo 3 - Verificação da Apresentação</p>
+<p>Vídeo 3 - Verificação do artefato</p>
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5G9B8ALGJ0?si=9sthIMkHD6iTX6T2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -339,7 +339,7 @@ Adição do tópico de objetivos, juntamente com uma explicação mais clara do 
 <p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=1AzZJPX-sTY">YouTube.</a></p>
 
 <div style="text-align: center">
-<p>Vídeo 4 - Verificação de Ferramentas</p>
+<p>Vídeo 4 - Verificação do artefato</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AzZJPX-sTY?si=tAR8GL02sdYmXvr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -568,7 +568,7 @@ Criação de um limitador do sistema desenhado em volta das partes que forem nec
 <p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=uqR6vQndKd8">YouTube.</a></p>
 
 <div style="text-align: center">
-<p>Vídeo 6 - Verificação de Aplicativo Selecionado</p>
+<p>Vídeo 6 - Verificação do artefato</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqR6vQndKd8?si=F42-EOWg8XdyVGOL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -651,7 +651,7 @@ Criação de um limitador do sistema desenhado em volta das partes que forem nec
 <h2>Gravação</h2>
 
 <div style="text-align: center">
-<p>Vídeo 7 - Verificação de Aplicativo Selecionado</p>
+<p>Vídeo 7 - Verificação do artefato</p>
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3NciP8LxHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p style="text-align: center; font-size: 14px;">
@@ -732,7 +732,7 @@ Criação de um limitador do sistema desenhado em volta das partes que forem nec
 <h2>Gravação</h2>
 
 <div style="text-align: center">
-<p>Vídeo 8 - Verificação de Aplicativo Selecionado</p>
+<p>Vídeo 8 - Verificação do artefato</p>
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lm8t2ooq_nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
