@@ -746,6 +746,11 @@ Criação de um limitador do sistema desenhado em volta das partes que forem nec
 
 As verificações indicam que os artefatos atendem aos critérios esperados. A principal sugestão foi incluir objetivos em alguns documentos para maior clareza. As verificações foram realizadas por membros diferentes dos autores, assegurando imparcialidade. No geral, o projeto é bem estruturado, com poucas melhorias necessárias para aumentar a clareza.
 
+## Referências
+
+UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
+
+
 ## Histórico de Versão
 
 | Versão |    Data    |                                 Descrição                                  |                     Autor(es)                      |                    Revisor(es)                     |
@@ -756,3 +761,4 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 |  1.3   | 10/11/2024 |                         Verificação do cronograma                          | [Samuel Ribeiro](https://github.com/SamuelRicosta) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
 |  1.4   | 10/11/2024 | Verificação de ferramentas, aplicativos avaliados e aplicativo selecionado |  [Genilson Silva](https://github.com/GenilsonJrs)  |      [Carlos Paz](https://github.com/dudupaz)      |
 |  1.5   | 14/11/2024 |                      Ajuste da estrutura do documento                      | [Alana Gabriele](https://github.com/alanagabriele) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
+| 1.6    | 14/11/2024 | Adicionando referência                                | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Paz](https://github.com/dudupaz) |
