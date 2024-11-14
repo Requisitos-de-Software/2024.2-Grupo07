@@ -18,28 +18,21 @@ nav:
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
   - Verificação:
-    - Etapa 1:
-      - Nosso Grupo (Grupo 7): 
-        - Início: verificação/etapa1/Grupo7/inicio7.md
-        - Apresentação: verificação/etapa1/Grupo7/apresentação7.md
-        - Cronograma: verificação/etapa1/Grupo7/cronograma7.md
-        - Ferramentas: verificação/etapa1/Grupo7/ferramentas7.md
-        - Aplicativos Avaliados: verificação/etapa1/Grupo7/aplicativosavaliados7.md
-        - Aplicativo Selecionado: verificação/etapa1/Grupo7/aplicativoselecionado7.md
-        - Rich Picture: verificação/etapa1/Grupo7/riachpicture7.md
-        - Metodologia: verificação/etapa1/Grupo7/metodologia7.md
-      - Grupo +1 (Grupo 8):
-        - Home: verificação/etapa1/Grupo8/home8.md
-        - Heatmap: verificação/etapa1/Grupo8/heatmap8.md
-        - Cronograma de Atividades: verificação/etapa1/Grupo8/cronogramadeatividades8.md
-        - Ferramentas: verificação/etapa1/Grupo8/ferramentas8.md
-        - Aplicativos Avaliados: verificação/etapa1/Grupo8/aplicativosavaliados8.md
-        - Aplicativo Selecionado: verificação/etapa1/Grupo8/aplicativoselecionado8.md
+    - Nosso Grupo (Grupo 7): 
+      - Etapa 1: verificação/Grupo7/etapa1.md
+    - Grupo +1 (Grupo 8):
+      - Home: verificação/etapa1/Grupo8/home8.md
+      - Heatmap: verificação/etapa1/Grupo8/heatmap8.md
+      - Cronograma de Atividades: verificação/etapa1/Grupo8/cronogramadeatividades8.md
+      - Ferramentas: verificação/etapa1/Grupo8/ferramentas8.md
+      - Aplicativos Avaliados: verificação/etapa1/Grupo8/aplicativosavaliados8.md
+      - Aplicativo Selecionado: verificação/etapa1/Grupo8/aplicativoselecionado8.md
 
 
 theme:
   name: material
   language: pt-BR
+  logo: https://www.goiania.go.leg.br/imagens/Bluesky.png
   features:
     - navigation.instant
     - navigation.sections 
@@ -48,15 +41,15 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.footer
-  
+  theme:
   palette:
     - scheme: default
-      primary: blue grey
+      primary: blue
       toggle:
         icon: material/weather-night
         name: Modo noturno
     - scheme: slate
-      primary: blue grey
+      primary: blue 
       toggle:
         icon: material/weather-sunny
         name: Modo claro

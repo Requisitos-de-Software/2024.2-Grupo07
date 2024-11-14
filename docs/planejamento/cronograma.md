@@ -61,10 +61,17 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     </tr>
     <tr>
         <td>Verificação do grupo +1</td>
+        <td>Início : 06/11 <br> Fim : 06/11</td>
+        <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        <td>Início : 07/11 <br> Fim : 07/11</td>
+         <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+    </tr>
+    <tr>
+        <td>Verificação do nosso grupo</td>
         <td>Início : 07/11 <br> Fim : 07/11</td>
         <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         <td>Início : 07/11 <br> Fim : 07/11</td>
-        <td>Samuel Ribeiro</td>
+         <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
     </tr>
     <tr>
         <td>Correções pós-apresentação</td>
@@ -74,7 +81,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Genilson Silva</td>
     </tr>
 </table>
-    <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
     <h2> Cronograma Executado</h2>
     <p>Na <b>Tabela 2</b>  está o cronograma executado da etapa.</p>
     <font size="2"><p style="text-align: center">Tabela 2 - Cronograma executado de atividades da etapa 1 </p></font>
@@ -82,12 +89,14 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     <tr>
         <th>Atividade</th>
         <th>Período para o desenvolvimento da atividade</th>
+        <th>Período da execução da atividade</th>
         <th style="width: 100px;">Responsáveis</th>
         <th>Período da revisão</th>
         <th>Revisores</th>
     </tr>
     <tr>
         <td>Criação do GitPages</td>
+         <td>Início : 21/10 <br> Fim : 23/10</td>
         <td>Início : 21/10 <br> Fim : 21/10</td>
         <td>Alana Gabriele</td>
         <td>Início : 24/10 <br> Fim : 25/10</td>
@@ -95,6 +104,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     </tr>
     <tr>
         <td>Elaborar cronograma</td>
+         <td>Início: 29/10 <br> Fim: 31/10</td>
         <td>Início: 03/10 <br> Fim: 06/10</td>
         <td>Alana Gabriele</td>
         <td>Início: 06/11 <br> Fim: 06/11</td>
@@ -103,13 +113,15 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     <tr>
         <td>Definição das Ferramentas do Projeto</td>
         <td>Início : 28/10 <br> Fim : 29/10</td>
+        <td>Início : 28/10 <br> Fim : 29/10</td>
         <td>Alana Gabriele</td>
         <td>Início : 30/10 <br> Fim : 30/10</td>
         <td>Samuel Ribeiro</td>
     </tr>
     <tr>
         <td>Lista de aplicativos avaliados</td>
-        <td>Início : 04/11 <br> Fim : 05/11</td>
+        <td>Início : 01/11 <br> Fim : 03/11</td>
+        <td>Início : 04/11 <br> Fim : 06/11</td>
         <td>Genilson Silva</td>
         <td>Início : 05/11 <br> Fim : 05/11</td>
         <td>Alana Gabriele</td>
@@ -117,12 +129,14 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     <tr>
         <td>Aplicativo selecionado para o projeto</td>
         <td>Início : 31/10 <br> Fim : 03/11</td>
+        <td>Início : 03/10 <br> Fim : 05/11</td>
         <td>Carlos Eduardo</td>
         <td>Início : 04/11 <br> Fim : 05/11</td>
         <td>Samuel Ribeiro</td>
     </tr>
     <tr>
         <td>Gravação da Apresentação e Entrega</td>
+        <td>Início : 05/11 <br> Fim : 06/11</td>
         <td>Início : 06/11 <br> Fim : 06/11</td>
         <td>Alana Gabriele</td>
         <td>Início : 06/11 <br> Fim : 06/11</td>
@@ -131,19 +145,21 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     <tr>
         <td>Verificação do grupo +1</td>
         <td>Início : 07/11 <br> Fim : 09/11</td>
+        <td>Início : 07/11 <br> Fim : 09/11</td>
         <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         <td>Início : 07/11 <br> Fim : 09/11</td>
         <td>Samuel Ribeiro</td>
     </tr>
     <tr>
         <td>Correções pós-apresentação</td>
-        <td>Início :  <br> Fim : </td>
+        <td>Início: 12/11 <br> Fim : 13/11</td>
+        <td>Início: 12/11  <br> Fim: 14/11 </td>
         <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-        <td>Início : <br> Fim : </td>
+        <td>Início: 14/11 <br> Fim: 15/11 </td>
         <td>Genilson Silva</td>
     </tr>
 </table>
-    <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
 </details>
 
 <details>
@@ -161,7 +177,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
         <tr>
             <td>Criação de personas e pesquisa de perfis de usuários</td>
-            <td>Início: 09/11 <br> Fim: 13/11</td>
+            <td>Início: 14/11 <br> Fim: 17/11</td>
             <td>Alana Gabriele e Carlos Eduardo</td>
             <td>Início: 12/11 <br> Fim: 12/11</td>
             <td>Genilson Silva</td>
@@ -175,21 +191,21 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
         <tr>
             <td>Observação para elicitação de requisitos</td>
-            <td>Início: 17/11 <br> Fim: 20/11</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
             <td>Genilson Silva</td>
             <td>Início: 15/11 <br> Fim: 15/11</td>
             <td>Carlos Eduardo</td>
         </tr>
         <tr>
             <td>Brainstorm para elicitação de requisitos</td>
-            <td>Início: 17/11 <br> Fim: 20/11</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
             <td>Samuel Ribeiro</td>
             <td>Início: 17/11 <br> Fim: 17/11</td>
             <td>Genilson Silva</td>
         </tr>
         <tr>
             <td>Entrevista para elicitação de requisitos</td>
-            <td>Início: 17/11 <br> Fim: 20/11</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
             <td>Alana Gabriele</td>
             <td>Início: 19/11 <br> Fim: 19/11</td>
             <td>Samuel Ribeiro</td>
@@ -210,27 +226,34 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
-            <td>Início: 23/11 <br> Fim: 24/11</td>
+            <td>Início: 23/11 <br> Fim: 23/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 24/11 <br> Fim: 24/11</td>
             <td>Alana Gabriele</td>
         </tr>
         <tr>
             <td>Verificação do grupo +1</td>
-            <td>Início : 25/11 <br> Fim : 25/11</td>
+            <td>Início : 24/11 <br> Fim : 24/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 25/11 <br> Fim : 25/11</td>
-            <td>Alana Gabriele</td>
+           <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 25/11 <br> Fim : 25/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 07/11 <br> Fim : 07/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Correções pós-apresentação</td>
-            <td>Início: 26/11 <br> Fim: 27/11</td>
+            <td>Início: 26/11 <br> Fim: 28/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início: 27/11 <br> Fim: 28/11</td>
+            <td>Início: 28/11 <br> Fim: 28/11</td>
             <td>Carlos Eduardo</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
 </details>
 
 <details>
@@ -276,27 +299,34 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
-            <td>Início: 07/12 <br> Fim: 08/12</td>
+            <td>Início: 05/12 <br> Fim: 05/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 08/12 <br> Fim: 08/12</td>
             <td>Carlos Eduardo</td>
         </tr>
         <tr>
             <td>Verificação do grupo +1</td>
-            <td>Início : 09/12 <br> Fim : 09/12</td>
+            <td>Início : 06/12 <br> Fim : 07/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 09/12 <br> Fim : 09/12</td>
-            <td>Samuel Ribeiro</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 08/12 <br> Fim : 09/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 09/11 <br> Fim : 09/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Correções pós-apresentação</td>
-            <td>Início: 10/12 <br> Fim: 11/12</td>
+            <td>Início: 10/12 <br> Fim: 12/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 12/12 <br> Fim: 13/12</td>
             <td>Genilson Silva</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
 </details>
 
 <details>
@@ -342,17 +372,24 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
-            <td>Início: 14/12 <br> Fim: 15/12</td>
+            <td>Início: 14/12 <br> Fim: 14/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 08/12 <br> Fim: 08/12</td>
             <td>Alana Gabriele</td>
         </tr>
         <tr>
             <td>Verificação do grupo +1</td>
-            <td>Início : 16/12 <br> Fim : 16/12</td>
+            <td>Início : 15/12 <br> Fim : 15/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 16/12 <br> Fim : 16/12</td>
-            <td>Samuel Ribeiro</td>
+           <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 16/12 <br> Fim : 16/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 16/11 <br> Fim : 16/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Correções pós-apresentação</td>
@@ -362,7 +399,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Carlos Eduardo</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Fonte: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
 </details>
 
 <details>
@@ -463,7 +500,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Fonte: Equipe do Projeto</p></font>
+    <font size="2"><p style="text-align: center">Autora: Alana Gabriele</p></font>
 </details>
 <details>
     <summary>Etapa 6 - Pós-Rastreabilidade</summary>
@@ -501,20 +538,27 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         </tr>
          <tr>
             <td>Verificação do grupo +1</td>
-            <td>Início : 20/01 <br> Fim : 20/01</td>
+            <td>Início : 17/01 <br> Fim : 19/01</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início : 16/12 <br> Fim : 16/12</td>
-            <td>Samuel Ribeiro</td>
+            <td>Início : 19/12 <br> Fim : 20/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+         <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 20/12 <br> Fim : 20/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 20/11 <br> Fim : 20/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Correção pós-apresentação</td>
-            <td>Início: 21/01 <br> Fim: 22/01</td>
+            <td>Início: 21/01 <br> Fim: 23/01</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 23/01 <br> Fim: 24/01</td>
             <td>Alana Gabriele</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Fonte: Equipe do Projeto</p></font>
+    <font size="2"><p style="text-align: center">Autora: Equipe do Projeto</p></font>
 </details>
 
 ## Bibliografia
@@ -525,6 +569,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                                              | Revisor                                          |
-| ------ | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
-| 1.0    | 05/11/2024 | Criação do Documento | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| Versão | Data       | Descrição                                                         | Autor                                              | Revisor                                          |
+| ------ | ---------- | ----------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 05/11/2024 | Criação do Documento                                              | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1    | 13/11/2024 | Ajuste de datas e adição do período de verificação do nosso grupo | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |

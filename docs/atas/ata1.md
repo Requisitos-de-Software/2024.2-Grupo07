@@ -1,7 +1,8 @@
 ## Informações Básicas
 
 - **Data:** 29 de Outubro
-- **Hora:** 19h
+- **Hora de Início:** 19:30
+- **Hora de Término:** 19h40
 - **Local:** Plataforma de Comunicação - Teams
 - **Participantes:**
 
@@ -31,6 +32,7 @@
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                        |
-| ------ | :--------: | --------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 06/11/2024 | Ata 1     | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| Versão |    Data    | Descrição                   | Autor(es)                                          | Revisor(es)                                        |
+| ------ | :--------: | --------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 06/11/2024 | Ata 1                       | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.1    | 06/11/2024 | Horário de início e término | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

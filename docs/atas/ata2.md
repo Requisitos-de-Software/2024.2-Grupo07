@@ -25,6 +25,7 @@
 ### Correções Necessárias (Prazo: 14/11)
 
 - **Nomenclatura**:
+
   - Padronizar a ordem como **Fonte - Autor**.
   - Legendas: **Encima** da figura e **Autor Embaixo**.
   - Substituir "Imagem" por **Figura** onde necessário.
@@ -32,16 +33,20 @@
   - Organizar listas, evitando múltiplos elementos em uma única pergunta.
 
 - **Rich Picture**:
+
   - Samuel irá **adicionar as imagens como links** e ajustar os nomes dos itens.
   - **Atribuir responsável** por cada item no Rich Picture.
 
 - **Ata 1**:
-  - Samuel ficou responsável por adicionar **horário de início e término**.
+
+  - Alana ficou responsável por adicionar **horário de início e término**.
 
 - **Planejamento**:
+
   - Carlos será responsável por **detalhar o Termo de Uso** do aplicativo escolhido.
 
 - **Cronograma**:
+
   - Alana fará a **alteração do título**, incluirá a **tabela com tarefas do grupo** e adicionará o **período já executado**.
 
 - **Verificação**:
@@ -54,6 +59,6 @@
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                        |
-| ------ | :--------: | --------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 06/11/2024 | Ata 1     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+| Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                      |
+| ------ | :--------: | --------- | -------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 11/11/2024 | Ata 2     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |

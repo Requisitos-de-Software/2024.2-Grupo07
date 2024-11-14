@@ -46,10 +46,9 @@ Após a criação dos rich pictures e das análises individuais, o grupo se reun
     <td>Rocket Chat</td>
   </tr>
 </table>
-
 </div>
 
-<p style="text-align: center;">Fonte - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+<font size="2"><p style="text-align: center"> Autor: [Genilson Silva](https://github.com/GenilsonJrs) </p></font>
 
 <div style="text-align: center;">
   <h2>Bluesky - Alana</h2>
@@ -76,11 +75,11 @@ O **BlueSky** é um aplicativo de rede social descentralizada, focado em criar u
 O **BlueSky** é uma alternativa inovadora às redes sociais tradicionais, proporcionando um espaço onde a privacidade e o controle do usuário estão no centro da experiência. Ele busca transformar a forma como interagimos online, com uma ênfase na descentralização e na transparência.
 
 <div style="text-align: center">
-<p>Imagem 1 - Rich Picture - BlueSky</p>
+<p>Figura 1 - Rich Picture - BlueSky</p>
 </div>
 
 ![Rich Picture - BlueSky](imagens/rp3Alana.png)
-<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
+<font size="2"><p style="text-align: center"> Autora: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
 <div style="text-align: center;">
   <h2>Signal - Carlos</h2>
@@ -109,12 +108,12 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
 
 <div style="text-align: center">
-<p>Imagem 2 - Rich Picture - Signal</p>
+<p>Figura 2 - Rich Picture - Signal</p>
 </div>
 
 ![Rich Picture - Signal](imagens/rpcarlos.jpg)
 
-<p style="text-align: center;">Fonte - <a href="https://github.com/dudupaz">Carlos Paz</a></p>
+<font size="2"><p style="text-align: center"> Autor: [Carlos Paz](https://github.com/dudupaz) </p></font>
 
 <div style="text-align: center;">
   <h2>Meu SUS Digital - Genilson</h2>
@@ -141,12 +140,12 @@ O **Meu SUS Digital** é um aplicativo desenvolvido pelo Ministério da Saúde d
 O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviços mais acessíveis, transparentes e eficientes, simplificando o processo de utilização do SUS para milhões de brasileiros.
 
 <div style="text-align: center">
-<p>Imagem 3 - Rich Picture - Meu SUS Digital</p>
+<p>Figura 3 - Rich Picture - Meu SUS Digital</p>
 </div>
 
 ![Rich Picture - Meu SUS Digital](imagens/rpgenilson.jpg)
 
-<p style="text-align: center;">Fonte - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+<font size="2"><p style="text-align: center"> Autor: [Genilson Silva](https://github.com/GenilsonJrs) </p></font>
 
 <div style="text-align: center;">
   <h2>Rocket Chat - Samuel Ribeiro</h2>
@@ -174,19 +173,19 @@ O **Rocket.Chat** é uma plataforma de comunicação colaborativa de código abe
 
 O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de comunicação flexível, escalável e segura, oferecendo uma plataforma completa de mensagens, chamadas e colaboração, com o benefício adicional de ser totalmente personalizável e controlada pela própria organização.
 
-
 <div style="text-align: center">
-<p>Imagem 4 - Rich Picture - Rocket Chat</p>
+<p>Figura 4 - Rich Picture - Rocket Chat</p>
 </div>
 
 ![Rich Picture - Rocket Chat](imagens/rpsamuel.jpeg)
 
-<p style="text-align: center;">Fonte - <a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></p>
+<font size="2"><p style="text-align: center"> Autor: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 
 ## Bibliografia
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                                            | Revisor                                            |
-| :----: | ---------- | -------------------- | ------------------------------------------------ | -------------------------------------------------- |
-|  1.0   | 06/11/2024 | Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
+| Versão | Data       | Descrição            | Autor                                              | Revisor                                            |
+| :----: | ---------- | -------------------- | -------------------------------------------------- | -------------------------------------------------- |
+|  1.0   | 06/11/2024 | Criação do documento | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.0   | 13/11/2024 | Ajuste das fontes    | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
