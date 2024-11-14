@@ -1,6 +1,6 @@
 ## Introdução
 
-Esta página apresenta os resultados da avaliação do artefato de equipe desenvolvido pelo grupo 07, focado em verificar o projeto do aplicativo Sympla, do grupo 8. O documento inclui o checklist aplicado na inspeção do artefato de equipe e, ao final, detalha os resultados obtidos durante essa verificação.
+Esta página apresenta os resultados da avaliação do artefato de equipe desenvolvido pelo grupo 07, focado em verificar o projeto do aplicativo Sympla, do grupo 8. O documento inclui uma Lista de Verificação aplicada na inspeção do artefato de equipe e, ao final, detalha os resultados obtidos durante essa verificação.
 
 ## Objetivo
 
@@ -8,7 +8,7 @@ A verificação tem como propósito garantir que todos os requisitos de avaliaç
 
 ## Metodologia
 
-A verificação seguiu uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de um checklist para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes.
+As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente as Listas de Verificações nas Tabelas de 1 a 6.
 
 ## Responsáveis pelas Verificações
 
