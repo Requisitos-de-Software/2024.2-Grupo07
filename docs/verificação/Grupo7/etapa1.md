@@ -368,29 +368,6 @@ Adição do tópico de objetivos, juntamente com uma explicação mais clara do 
 
 <h2>Verificação do Rich Picture do Rocket Chat</h2>
 
-<table border="1"> 
-    <tr> 
-        <th>Pergunta</th> 
-        <th>Descrição</th> 
-        <th>Verificação</th> 
-        <th>Imagem de Referência</th> 
-    </tr> 
-    <tr> 
-        <td>Identificação dos atores e suas responsabilidades estão conforme?</td> 
-        <td>Verificar se todos os atores do sistema e suas respectivas funções são identificadas.</td> 
-        <td>Sim</td> 
-        <td>[Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/01.jpg)</td> 
-    </tr> 
-    <tr> 
-        <td>Identificação das operações e quem as executa?</td> 
-        <td>Verificar se todas as operações e os responsáveis por executá-las foram definidos.</td> 
-        <td>Sim</td> 
-        <td><a href="imagens/imgTabela/02.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td> 
-    </tr> 
-    <!-- Continue com o restante da tabela conforme o modelo original -->
-</table>
-
-
 <h2>Problemas</h2>
 O único problema encontrado foi a falta de um limitador do sistema que não se encontra completo ou diretamente visivel.
 
