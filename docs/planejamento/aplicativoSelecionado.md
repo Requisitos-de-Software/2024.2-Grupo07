@@ -23,7 +23,41 @@ O Bluesky é uma rede social que surgiu com o objetivo de descentralizar a comun
 
 ## Termos de Uso
 
-Para assegurar que o projeto será desenvolvido conforme as normas éticas e legais, o grupo revisou os Termos de Uso do Bluesky. O presente projeto tem como único intuito aplicar os conhecimentos adquiridos em aula, o que se enquadra nas permissões permitidas. Além disso, Bluesky define diretrizes para o uso e compartilhamento de dados dentro de um modelo de rede descentralizada.
+Para assegurar que o projeto será desenvolvido conforme as normas éticas e legais, o grupo revisou os Termos de Uso do Bluesky. O presente projeto tem como único intuito aplicar os conhecimentos adquiridos em aula, o que se enquadra nas permissões permitidas. Além disso, Bluesky define diretrizes para o uso e compartilhamento de dados dentro de um modelo de rede descentralizada. Abaixo, apresentamos as Figuras 1 a 4, correspondentes aos termos de uso/serviço do aplicativo Bluesky.
+
+<div align="center">
+
+<p><strong> Figura 1 - Termos de Uso/Serviço</strong></p>
+
+<img src="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/planejamento/imagens/termo_de_uso_fig1.png?raw=true" alt="" />
+
+<p>Autor: <a href="https://github.com/dudupaz">Calos Paz</a></p>
+<p>Fonte: <a href="https://bsky.social/about/support/tos">Bluesky Social</a>. Acesso em: 14 nov. 2024.</p>
+
+<p><strong> Figura 2 - Termos de Uso/Serviço</strong></p>
+
+<img src="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/planejamento/imagens/termo_de_uso_fig2.png?raw=true" alt="" />
+
+<p>Autor: <a href="https://github.com/dudupaz">Calos Paz</a></p>
+<p>Fonte: <a href="https://bsky.social/about/support/tos">Bluesky Social</a>. Acesso em: 14 nov. 2024.</p>
+
+<p><strong> Figura 3 - Termos de Uso/Serviço</strong></p>
+
+<img src="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/planejamento/imagens/termo_de_uso_fig3.png?raw=true" alt="" />
+
+<p>Autor: <a href="https://github.com/dudupaz">Calos Paz</a></p>
+<p>Fonte: <a href="https://bsky.social/about/support/tos">Bluesky Social</a>. Acesso em: 14 nov. 2024.</p>
+
+<p><strong> Figura 4 - Termos de Uso/Serviço</strong></p>
+
+<img src="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/planejamento/imagens/termo_de_uso_fig4.png?raw=true" alt="" />
+
+<p>Autor: <a href="https://github.com/dudupaz">Calos Paz</a></p>
+<p>Fonte: <a href="https://bsky.social/about/support/tos">Bluesky Social</a>. Acesso em: 14 nov. 2024.</p>
+
+</div>
+
+
 
 ## Bibliografia
 
@@ -35,3 +69,5 @@ Para assegurar que o projeto será desenvolvido conforme as normas éticas e leg
 | Versão | Data       | Descrição            | Autor                                        | Revisor                                          |
 | :----: | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 |  1.0   | 05/11/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |
+|  1.1   | 14/11/2024 | Adição das figuras do termo de uso/serviço | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+
