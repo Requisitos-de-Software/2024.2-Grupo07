@@ -4,7 +4,15 @@ Grupo 7 da disciplina de Requisitos de Software, ministrada pelo professor Andr�
 
 O objetivo desta documentação é apresentar o trabalho sobre o aplicativo BlueSky realizado durante o desenvolvimento do projeto da disciplina.
 
+Logo abaixo, está a logo do aplicativo escolhido para ser trabalhado nesse projeto, o BlueSky (Figura 1).
+
+<div style="text-align: center">
+<p>Figura 1 - Logo do BlueSky</p>
+</div>
+
 ![BlueSky](./bluesky.jpeg)
+
+<font size="2"><p style="text-align: center"> Fonte: [BlueSky](https://bsky.app) </p></font>
 
 ## Equipe do Projeto
 
