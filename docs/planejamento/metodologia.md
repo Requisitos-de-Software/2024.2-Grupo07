@@ -12,9 +12,17 @@ Foi criado um **mapa de calor de disponibilidade** (figura 1), onde cada membro 
 <li> Sempre durante a noite, em especial nas terças e quando for possivel nas quintas no mesmos dias das aulas.</li>
 </ul>
 
+Abaixo é possível vizualizar o Heatmap de Disponibilidade na Figura 1.
+
+<div style="text-align: center">
+<p>Figura 1 - Heatmap de Disponibilidade</p>
+</div>
+
 ![Descrição da imagem](imagens/heatmap.png)
 
-<font size="2"><p style="text-align: center"> Figura 1 - Heatmap de Disponibilidade </p></font>
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro</a>
+</p>
 
 # Metodologia: SCRUM
 
