@@ -30,4 +30,4 @@ Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Bras
 | Versão |        Descrição        |                       Autor                        |    Data    |                      Revisor                      |
 | :----: | :---------------------: | :------------------------------------------------: | :--------: | :-----------------------------------------------: |
 |  1.0   |  Criação do documento   |      [Carlos Paz](https://github.com/dudupaz)      | 06/11/2024 | [Genilson Junior](https://github.com/GenilsonJrs) |
-|  2.0   | Alteração do aplicativo | [Alana Gabriele](https://github.com/alanagabriele) | 06/11/2024 |     [Carlos Paz](https://github.com/dudupaz)      |
+|  2.0   | Alteração do aplicativo | [Alana Gabriele](https://github.com/alanagabriele) | 21/11/2024 |     [Carlos Paz](https://github.com/dudupaz)      |
