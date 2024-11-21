@@ -1,18 +1,18 @@
 # Grupo 07 - Requisitos de Software
 
   <div align="center">
-<img src="/docs/planejamento/imagens/blueskylogo.jpg" alt="" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="/docs/thumbnail.png" alt="" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
 ## Sobre o Bluesky
 
-O Bluesky é um aplicativo de rede social descentralizada, focado em criar um ambiente digital mais seguro, transparente e controlado pelos próprios usuários. Desenvolvido com a proposta de oferecer maior privacidade e autonomia, o aplicativo permite que os usuários escolham e administrem como seu conteúdo é compartilhado, promovendo uma experiência mais personalizada e menos centralizada.
+O Threads é um aplicativo de rede social que permite aos usuários compartilhar postagens curtas, como textos, imagens e vídeos, interagir com outros por meio de curtidas, respostas e compartilhamentos, e criar discussões por meio de threads conectadas. Com integração direta ao Instagram, o app se destaca por sua simplicidade e foco em conversas públicas, oferecendo uma experiência leve e dinâmica
 
 ## Sobre o projeto
 
-Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), referente ao segundo semestre de 2024. Neste repositório, estão organizados todos os artefatos produzidos pelo nosso grupo ao longo da disciplina. O objetivo do projeto é analisar e documentar os requisitos do aplicativo Bluesky, aplicando os conceitos teóricos discutidos em sala de aula para aprimorar a compreensão do projeto.
+Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Brasília (UnB), referente ao segundo semestre de 2024. Neste repositório, estão organizados todos os artefatos produzidos pelo nosso grupo ao longo da disciplina. O objetivo do projeto é analisar e documentar os requisitos do aplicativo Threads, aplicando os conceitos teóricos discutidos em sala de aula para aprimorar a compreensão do projeto.
 
- ## 👨‍💻 Equipe
+## 👨‍💻 Equipe
 
 <div align="center">
   <table>
@@ -25,11 +25,9 @@ Somos o Grupo 07 da disciplina de Requisitos de Software da Universidade de Bras
   </table>
 </div>
 
-
 ## Histórico de Versões
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     | 
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|
-|  1.0   | Criação do documento | [Carlos Paz](https://github.com/dudupaz) | 06/11/2024   | [Genilson Junior](https://github.com/GenilsonJrs) |
-
-
+| Versão |        Descrição        |                       Autor                        |    Data    |                      Revisor                      |
+| :----: | :---------------------: | :------------------------------------------------: | :--------: | :-----------------------------------------------: |
+|  1.0   |  Criação do documento   |      [Carlos Paz](https://github.com/dudupaz)      | 06/11/2024 | [Genilson Junior](https://github.com/GenilsonJrs) |
+|  2.0   | Alteração do aplicativo | [Alana Gabriele](https://github.com/alanagabriele) | 06/11/2024 |     [Carlos Paz](https://github.com/dudupaz)      |
