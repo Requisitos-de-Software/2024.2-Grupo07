@@ -1,4 +1,4 @@
-site_name: Bluesky
+site_name: Threads
 repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo07
 repo_name: Requisitos-de-Software/2024.2-Grupo07
 
@@ -27,7 +27,7 @@ nav:
 theme:
   name: material
   language: pt-BR
-  logo: https://www.goiania.go.leg.br/imagens/Bluesky.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1920px-Threads_%28app%29.png
   features:
     - navigation.instant
     - navigation.sections 
@@ -39,12 +39,12 @@ theme:
   theme:
   palette:
     - scheme: default
-      primary: blue
+      primary: black
       toggle:
         icon: material/weather-night
         name: Modo noturno
     - scheme: slate
-      primary: blue 
+      primary: black 
       toggle:
         icon: material/weather-sunny
         name: Modo claro

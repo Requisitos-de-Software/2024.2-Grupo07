@@ -2,9 +2,9 @@
 
 Grupo 7 da disciplina de Requisitos de Software, ministrada pelo professor André Barros.
 
-O objetivo desta documentação é apresentar o trabalho sobre o aplicativo BlueSky realizado durante o desenvolvimento do projeto da disciplina.
+O objetivo desta documentação é apresentar o trabalho sobre o aplicativo Threads realizado durante o desenvolvimento do projeto da disciplina.
 
-![BlueSky](./bluesky.jpeg)
+![Threads](./thumbnail.png)
 
 ## Equipe do Projeto
 
