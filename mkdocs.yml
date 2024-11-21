@@ -17,6 +17,8 @@ nav:
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
+  - Elicitacao:
+      - Introspeccao: Elicitacao/introspeccao.md
   - Verificação:
     - Nosso Grupo (Grupo 7): 
       - Etapa 1: verificação/Grupo7/etapa1.md
