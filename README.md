@@ -4,7 +4,7 @@
 <img src="/docs/thumbnail.png" alt="" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
-## Sobre o Bluesky
+## Sobre o Threads
 
 O Threads é um aplicativo de rede social que permite aos usuários compartilhar postagens curtas, como textos, imagens e vídeos, interagir com outros por meio de curtidas, respostas e compartilhamentos, e criar discussões por meio de threads conectadas. Com integração direta ao Instagram, o app se destaca por sua simplicidade e foco em conversas públicas, oferecendo uma experiência leve e dinâmica
 
