@@ -49,13 +49,13 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 
 | **Identificador** | **Requisito**                                                                 | **Tipo** |  
 |-------------------|-----------------------------------------------------------------------------|---------|  
-| INT01             | O aplicativo deve apresentar os posts mais recentes na tela inicial.        | RF      |  
-| INT02             | Deve ser possível criar posts com texto, imagens e links.                  | RF      |  
-| INT03             | O sistema deve permitir curtir, comentar e repostar publicações.           | RF      |  
-| INT04             | O sistema deve sugerir conteúdos relevantes para o usuário.                | RF      |  
-| INT05             | A alternância entre contas públicas e privadas deve ocorrer sem demora.    | RF      |  
-| INT06             | O tempo de resposta ao interagir com o aplicativo deve ser inferior a 1 segundo. | RNF    |  
-| INT07             | O design deve ser intuitivo, facilitando o uso por novos usuários.         | RNF     |  
+| 01             | O aplicativo deve apresentar os posts mais recentes na tela inicial.        | RF      |  
+| 02             | Deve ser possível criar posts com texto, imagens e links.                  | RF      |  
+| 03             | O sistema deve permitir curtir, comentar e repostar publicações.           | RF      |  
+| 04             | O sistema deve sugerir conteúdos relevantes para o usuário.                | RF      |  
+| 05             | A alternância entre contas públicas e privadas deve ocorrer sem demora.    | RF      |  
+| 06             | O tempo de resposta ao interagir com o aplicativo deve ser inferior a 1 segundo. | RNF    |  
+| 07             | O design deve ser intuitivo, facilitando o uso por novos usuários.         | RNF     |  
 
 <font size="2"><p style="text-align: center"> Autora: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 ---
@@ -71,4 +71,4 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
-| 1.0        | 21/11/2024     | Criação do documento.       | [SEU NOME]    | [REVISOR(A)]    |  
+| 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)    |  
