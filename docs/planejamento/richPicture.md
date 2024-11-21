@@ -2,7 +2,9 @@
 
 A Rich Picture é descrita como uma ferramenta visual informal que representa as principais características, relacionamentos e complexidades de um sistema ou situação. Desenvolvida dentro da Metodologia de Sistemas Soft (Soft Systems Methodology), criada por Peter Checkland nos anos 1980, ela é projetada para auxiliar no entendimento de problemas complexos, principalmente aqueles que envolvem diversos fatores humanos e interconexões.
 
-### Rich picture do Aplicativo escolhido
+Na Figura 1 e 2 é possível observar o Rich Picture e a Tabela Descritiva do aplicativo escolhido. Logo abaixo também está presente a Lista de Verificação em Tabela 1.
+
+## Rich picture do Aplicativo escolhido
 
 <p style="text-align: center">Figura 1 - Rich Picture do BlueSky</p>
 
@@ -20,6 +22,12 @@ A Rich Picture é descrita como uma ferramenta visual informal que representa as
 
 ## Tabela de Verificação do Rich Picture
 
+A Lista de Verificação do Rich Picture feito pelo grupo em conjunto e unificada para o aplicativo escolhido, disponível em Tabela 1.
+
+<div style="text-align: center">
+<p>Tabela 1 - Lista de Verificação do Rich Picture</p>
+</div>
+
 | Pergunta                                                                                                                                          | Descrição                                                                                               | Status | Imagem de Referência                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | Identificação dos atores e suas responsabilidades estão conforme? <br> **Autor:** [Alana Gabriele](https://github.com/alanagabriele)              | Verificar se todos os atores do sistema e suas respectivas funções são identificadas.                   | ✅     | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/01.jpg) |
@@ -35,6 +43,10 @@ A Rich Picture é descrita como uma ferramenta visual informal que representa as
 | Uso de uma variedade de elementos gráficos para diferenciar componentes? <br> **Autor:** [Carlos Eduardo](https://github.com/dudupaz)             | Verificar se diferentes elementos gráficos foram usados para distinguir os componentes.                 | ✅     | [Software Development Project, Introducing Rich Pictures - p. 2](imagens/imgTabela/11.jpg) |
 | Identificação e uso de palavras-chave relevantes? <br> **Autor:** [Genilson Silva](https://github.com/GenilsonJrs)                                | Verificar se palavras-chave relevantes estão identificadas e utilizadas adequadamente.                  | ✅     | [Software Development Project, Introducing Rich Pictures - p. 2](imagens/imgTabela/11.jpg) |
 
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
+
 #### Legenda de status da verificação
 
 - ✅: Requisito atendido
@@ -43,8 +55,18 @@ A Rich Picture é descrita como uma ferramenta visual informal que representa as
 
 ## Video de Verificação do Rich Picture
 
+A verificação do Rich Picture feito pelo grupo para o aplicativo escolhido, disponível no Vídeo 1.
+
+<div style="text-align: center">
+<p>Vídeo 1 - Verificação em grupo do Rich Picture</p>
+</div>
+
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j7kqMQ2KPno?si=Fq73EOX0I2VZZzHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
 ## Bibliografia
 

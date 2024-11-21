@@ -4,7 +4,15 @@ Grupo 7 da disciplina de Requisitos de Software, ministrada pelo professor Andr�
 
 O objetivo desta documentação é apresentar o trabalho sobre o aplicativo Threads realizado durante o desenvolvimento do projeto da disciplina.
 
+Logo abaixo, está a logo do aplicativo escolhido para ser trabalhado nesse projeto, o Threads (Figura 1).
+
+<div style="text-align: center">
+<p>Figura 1 - Logo do Threads</p>
+</div>
+
 ![Threads](./thumbnail.png)
+
+<font size="2"><p style="text-align: center"> Fonte: [Threads](https://threads.net/?hl=pt-br) </p></font>
 
 ## Equipe do Projeto
 
@@ -42,6 +50,7 @@ O objetivo desta documentação é apresentar o trabalho sobre o aplicativo Thre
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                                 | Autor(es)                                          | Revisor(es)                              |
-| ------ | :--------: | ----------------------------------------- | -------------------------------------------------- | ---------------------------------------- |
-| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Paz](https://github.com/dudupaz) |
+| Versão |    Data    | Descrição                                 | Autor(es)                                          | Revisor(es)                                        |
+| ------ | :--------: | ----------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 17/10/2024 | Criação da página e da tabela integrantes | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Paz](https://github.com/dudupaz)           |
+| 2.0    | 21/11/2024 | Mudança da logo do aplicativo escolhido   | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

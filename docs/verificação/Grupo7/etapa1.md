@@ -1,14 +1,14 @@
 ## Introdução
 
-Esta página apresenta os resultados da avaliação do artefato desenvolvido pelo grupo 07, focado no projeto do aplicativo Bluesky. O documento inclui os checklists aplicados nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
+Esta página apresenta os resultados da avaliação do artefato desenvolvido pelo grupo 07, focado no projeto do aplicativo Bluesky. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
 
 ## Objetivo
 
-A verificações tem como propósito garantir que todos os requisitos de avaliação sejam atendidos de forma completa. Para isso, é realizada uma análise minuciosa do conteúdo e da estrutura dos artefatos, com o objetivo de elevar sua qualidade.
+A verificação tem como propósito garantir que todos os requisitos de avaliação sejam atendidos de forma completa. Para isso, é realizada uma análise minuciosa do conteúdo e da estrutura dos artefatos, com o objetivo de elevar sua qualidade.
 
 ## Metodologia
 
-As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de um checklist por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes.
+As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente as Listas de Verificações nas Tabelas de 1 a 8.
 
 ## Responsáveis pelas Verificações
 
@@ -360,100 +360,8 @@ Adição do tópico de objetivos, juntamente com uma explicação mais clara do 
     <p><strong>Tabela 5: Lista de Verificação</strong></p>
   </div>
 
-<table border="1">
-    <tr>
-        <th>Pergunta</th>
-        <th>Descrição</th>
-        <th>Verificação</th>
-        <th>Fonte</th>
-        <th>Imagem de Referência</th>
-    </tr>
-    <tr>
-        <td>Identificação dos atores e suas responsabilidades estão conforme?</td>
-        <td>Verificar se todos os atores do sistema e suas respectivas funções são identificadas.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 4</td>
-        <td>
-        <img src="imagens/imgTabela/01.jpg" alt="Imagem 01"> </td>
-    </tr>
-    <tr>
-        <td>Identificação das operações e quem as executa?</td>
-        <td>Verificar se todas as operações e os responsáveis por executá-las foram definidos.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 4</td>
-        <td><img src="imagens/imgTabela/02.jpg" alt="Imagem 02"></td>
-    </tr>
-    <tr>
-        <td>Definição das necessidades de dados para cada operação?</td>
-        <td>Verificar se as necessidades de dados de cada operação foram claramente definidas.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 4</td>
-        <td><img src="imagens/imgTabela/03.jpg" alt="Imagem 03"></td>
-    </tr>
-    <tr>
-        <td>Representação dos fluxos de dados e sua direção?</td>
-        <td>Confirmar se os fluxos de dados e suas direções estão bem representados.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 3</td>
-        <td><img src="imagens/imgTabela/04.jpg" alt="Imagem 04"></td>
-    </tr>
-    <tr>
-        <td>Definição do limite do sistema?</td>
-        <td>Verificar se o limite do sistema está claramente definido.</td>
-        <td>Incompleto</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 4</td>
-        <td><img src="imagens/imgTabela/05.jpg" alt="Imagem 05"></td>
-    </tr>
-    <tr>
-        <td>Uso de imagens, palavras-chave e rótulos descritivos para contar uma história?</td>
-        <td>Avaliar se há imagens, palavras-chave e rótulos descritivos que ajudam a contar a narrativa do sistema.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 3</td>
-        <td><img src="imagens/imgTabela/06.jpg" alt="Imagem 06"></td>
-    </tr>
-    <tr>
-        <td>Comunicação clara de entradas e saídas de dados?</td>
-        <td>Verificar se as entradas e saídas de dados são comunicadas de maneira clara.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 3</td>
-        <td><img src="imagens/imgTabela/07.jpg" alt="Imagem 07"></td>
-    </tr>
-    <tr>
-        <td>Clareza e legibilidade do rich picture?</td>
-        <td>Confirmar se o rich picture é claro e legível.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 3</td>
-        <td><img src="imagens/imgTabela/08.jpg" alt="Imagem 08"></td>
-    </tr>
-    <tr>
-        <td>Identificação de problemas e conflitos potenciais?</td>
-        <td>Avaliar se possíveis problemas e conflitos foram identificados.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 1</td>
-        <td><img src="imagens/imgTabela/09.jpg" alt="Imagem 09"></td>
-    </tr>
-    <tr>
-        <td>Representação de processos de negócios e seus requisitos de dados?</td>
-        <td>Verificar se os processos de negócios e seus requisitos de dados estão representados.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 1</td>
-        <td><img src="imagens/imgTabela/10.jpg" alt="Imagem 10"></td>
-    </tr>
-    <tr>
-        <td>Uso de uma variedade de elementos gráficos para diferenciar componentes?</td>
-        <td>Verificar se diferentes elementos gráficos foram usados para distinguir os componentes.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 2</td>
-        <td><img src="imagens/imgTabela/11.jpg" alt="Imagem 11"></td>
-    </tr>
-    <tr>
-        <td>Identificação e uso de palavras-chave relevantes?</td>
-        <td>Verificar se palavras-chave relevantes estão identificadas e utilizadas adequadamente.</td>
-        <td>Sim</td>
-        <td>Software Development Project, Introducing Rich Pictures, p. 2</td>
-        <td><img src="imagens/imgTabela/11.jpg" alt="Imagem 11"></td>
-    </tr>
-</table>
+<table border="1"> <tr> <th>Pergunta</th> <th>Descrição</th> <th>Verificação</th> <th>Imagem de Referência</th> </tr> <tr> <td>Identificação dos atores e suas responsabilidades estão conforme?</td> <td>Verificar se todos os atores do sistema e suas respectivas funções são identificadas.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/01.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td> </tr> <tr> <td>Identificação das operações e quem as executa?</td> <td>Verificar se todas as operações e os responsáveis por executá-las foram definidos.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/02.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td> </tr> <tr> <td>Definição das necessidades de dados para cada operação?</td> <td>Verificar se as necessidades de dados de cada operação foram claramente definidas.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/03.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td> </tr> <tr> <td>Representação dos fluxos de dados e sua direção?</td> <td>Confirmar se os fluxos de dados e suas direções estão bem representados.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/04.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td> </tr> <tr> <td>Definição do limite do sistema?</td> <td>Verificar se o limite do sistema está claramente definido.</td> <td>Incompleto</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/05.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td> </tr> <tr> <td>Uso de imagens, palavras-chave e rótulos descritivos para contar uma história?</td> <td>Avaliar se há imagens, palavras-chave e rótulos descritivos que ajudam a contar a narrativa do sistema.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/06.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td> </tr> <tr> <td>Comunicação clara de entradas e saídas de dados?</td> <td>Verificar se as entradas e saídas de dados são comunicadas de maneira clara.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/07.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td> </tr> <tr> <td>Clareza e legibilidade do rich picture?</td> <td>Confirmar se o rich picture é claro e legível.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/08.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td> </tr> <tr> <td>Identificação de problemas e conflitos potenciais?</td> <td>Avaliar se possíveis problemas e conflitos foram identificados.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/09.jpg">Software Development Project, Introducing Rich Pictures - p. 1</a></td> </tr> <tr> <td>Representação de processos de negócios e seus requisitos de dados?</td> <td>Verificar se os processos de negócios e seus requisitos de dados estão representados.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/10.jpg">Software Development Project, Introducing Rich Pictures - p. 1</a></td> </tr> <tr> <td>Uso de uma variedade de elementos gráficos para diferenciar componentes?</td> <td>Verificar se diferentes elementos gráficos foram usados para distinguir os componentes.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/11.jpg">Software Development Project, Introducing Rich Pictures - p. 2</a></td> </tr> <tr> <td>Identificação e uso de palavras-chave relevantes?</td> <td>Verificar se palavras-chave relevantes estão identificadas e utilizadas adequadamente.</td> <td>Sim</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/imgTabela/12.jpg">Software Development Project, Introducing Rich Pictures - p. 2</a></td> </tr> </table>
+
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
@@ -746,6 +654,11 @@ Criação de um limitador do sistema desenhado em volta das partes que forem nec
 
 As verificações indicam que os artefatos atendem aos critérios esperados. A principal sugestão foi incluir objetivos em alguns documentos para maior clareza. As verificações foram realizadas por membros diferentes dos autores, assegurando imparcialidade. No geral, o projeto é bem estruturado, com poucas melhorias necessárias para aumentar a clareza.
 
+## Referências
+
+UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
+
+
 ## Histórico de Versão
 
 | Versão |    Data    |                                 Descrição                                  |                     Autor(es)                      |                    Revisor(es)                     |
@@ -756,3 +669,4 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 |  1.3   | 10/11/2024 |                         Verificação do cronograma                          | [Samuel Ribeiro](https://github.com/SamuelRicosta) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
 |  1.4   | 10/11/2024 | Verificação de ferramentas, aplicativos avaliados e aplicativo selecionado |  [Genilson Silva](https://github.com/GenilsonJrs)  |      [Carlos Paz](https://github.com/dudupaz)      |
 |  1.5   | 14/11/2024 |                      Ajuste da estrutura do documento                      | [Alana Gabriele](https://github.com/alanagabriele) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
+| 1.6    | 14/11/2024 | Adicionando referência                                | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Paz](https://github.com/dudupaz) |

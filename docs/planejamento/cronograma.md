@@ -81,7 +81,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Genilson Silva</td>
     </tr>
 </table>
-    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
     <h2> Cronograma Executado</h2>
     <p>Na <b>Tabela 2</b>  está o cronograma executado da etapa.</p>
     <font size="2"><p style="text-align: center">Tabela 2 - Cronograma executado de atividades da etapa 1 </p></font>
@@ -159,7 +161,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <td>Genilson Silva</td>
     </tr>
 </table>
-    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
 </details>
 
 <details>
@@ -253,7 +257,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Carlos Eduardo</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
 </details>
 
 <details>
@@ -326,7 +332,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Genilson Silva</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
 </details>
 
 <details>
@@ -399,7 +407,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Carlos Eduardo</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Autora: <a>Alana Gabriele</a></p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
 </details>
 
 <details>
@@ -500,7 +510,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Autora: Alana Gabriele</p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
 </details>
 <details>
     <summary>Etapa 6 - Pós-Rastreabilidade</summary>
@@ -558,7 +570,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele</td>
         </tr>
     </table>
-    <font size="2"><p style="text-align: center">Autora: Equipe do Projeto</p></font>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p></font>
 </details>
 
 ## Bibliografia

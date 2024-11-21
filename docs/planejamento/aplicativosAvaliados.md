@@ -12,7 +12,7 @@ O objetivo deste documento é realizar uma análise detalhada dos aplicativos e 
 
 Para conduzir essa análise, cada membro do Grupo 7 selecionou um aplicativo específico e elaborou um rich picture que representa visualmente as principais funcionalidades e a estrutura de cada um. Os aplicativos foram analisados de acordo com critérios previamente estabelecidos, tais como a usabilidade, acessibilidade, potencial de impacto na comunidade e facilidade de aplicação prática.
 
-Após a criação dos rich pictures e das análises individuais, o grupo se reunirá para uma discussão comparativa, considerando a facilidade de identificação de usuários em potencial e a viabilidade de trabalho com o aplicativo escolhido. Esse processo permitirá a seleção do aplicativo que melhor se ajusta às necessidades de um estudo aprofundado e ao desenvolvimento do projeto de requisitos.
+Após a criação dos rich pictures e das análises individuais, o grupo se reunirá para uma discussão comparativa, considerando a facilidade de identificação de usuários em potencial e a viabilidade de trabalho com o aplicativo escolhido. Esse processo permitirá a seleção do aplicativo que melhor se ajusta às necessidades de um estudo aprofundado e ao desenvolvimento do projeto de requisitos. Abaixo é possível vizualizar a Tabela 1, com os membros e respectivos aplicativos escolhidos.
 
 <div style="text-align: center;">
   <h2>Aplicativos Avaliados Pelo Grupo 7</h2>
@@ -74,6 +74,8 @@ O **BlueSky** é um aplicativo de rede social descentralizada, focado em criar u
 
 O **BlueSky** é uma alternativa inovadora às redes sociais tradicionais, proporcionando um espaço onde a privacidade e o controle do usuário estão no centro da experiência. Ele busca transformar a forma como interagimos online, com uma ênfase na descentralização e na transparência.
 
+Abaixo é possível vizualizar o Rich Picture na Figura 1.
+
 <div style="text-align: center">
 <p>Figura 1 - Rich Picture - BlueSky</p>
 </div>
@@ -107,6 +109,8 @@ O **Signal** é um aplicativo de mensagens focado em privacidade e segurança, d
 
 O **Signal** é uma ótima escolha para aqueles que priorizam a privacidade e segurança em suas comunicações. A plataforma fornece uma experiência de uso que valoriza a liberdade do usuário, sem comprometer a proteção de dados pessoais e sem publicidade ou rastreamento, sendo um dos aplicativos de mensagens mais seguros e confiáveis disponíveis atualmente.
 
+Abaixo é possível vizualizar o Rich Picture na Figura 2.
+
 <div style="text-align: center">
 <p>Figura 2 - Rich Picture - Signal</p>
 </div>
@@ -138,6 +142,8 @@ O **Meu SUS Digital** é um aplicativo desenvolvido pelo Ministério da Saúde d
 7. **Acompanhamento de Campanhas de Saúde Pública**: O aplicativo mantém o usuário informado sobre campanhas de vacinação e outras ações importantes promovidas pelo SUS.
 
 O **Meu SUS Digital** busca democratizar o acesso à saúde, tornando os serviços mais acessíveis, transparentes e eficientes, simplificando o processo de utilização do SUS para milhões de brasileiros.
+
+Abaixo é possível vizualizar o Rich Picture na Figura 3.
 
 <div style="text-align: center">
 <p>Figura 3 - Rich Picture - Meu SUS Digital</p>
@@ -172,6 +178,8 @@ O **Rocket.Chat** é uma plataforma de comunicação colaborativa de código abe
 8. **Controle de Administração**: Os administradores têm acesso a um painel completo de gerenciamento de usuários, permissões e configurações, além de ferramentas de monitoramento e relatórios, garantindo que a plataforma seja gerida de maneira eficiente e segura.
 
 O **Rocket.Chat** é ideal para empresas e equipes que buscam uma solução de comunicação flexível, escalável e segura, oferecendo uma plataforma completa de mensagens, chamadas e colaboração, com o benefício adicional de ser totalmente personalizável e controlada pela própria organização.
+
+Abaixo é possível vizualizar o Rich Picture na Figura 4.
 
 <div style="text-align: center">
 <p>Figura 4 - Rich Picture - Rocket Chat</p>
