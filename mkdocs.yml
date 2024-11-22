@@ -18,6 +18,7 @@ nav:
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
   - Elicitacao:
+      - Entrevista: Elicitacao/entrevista.md
       - Introspeccao: Elicitacao/introspeccao.md
   - Verificação:
     - Nosso Grupo (Grupo 7): 
