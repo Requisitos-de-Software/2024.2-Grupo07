@@ -18,15 +18,17 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="4"><p style="text-align: center"><b>Figura 1 - Persona Primária:</b> Gabriel Almeida </p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.jpg" alt="Texto alternativo" width="300" height="300">
-
-<figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a><a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+<figure style="text-align: center;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.jpg?raw=true" alt="" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a>.<a id="" href=""><sup></sup></a></p></font></figcaption>
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Persona 1: Gabriel Almeida</p></font>
 
 
 | **Aspecto**                | Descrição                                                                                                                                                                                      |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**              | Gabriel Almeida                                                                                                                                                                                |
 | **Status**              | Persona Primária                                                                                                                                                                                |
 | **Gênero**              | Masculino                                                                                                                                                                                          |
 | **Idade**               | 21 anos                                                                                                                                                                                            |
@@ -46,14 +48,17 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 2 - Persona Primária:</b> Larissa Costa </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/larissacosta.jpg" alt="João" style="height: 300px; width: 300px;">
-    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/larissacosta.jpg?raw=true" alt="" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="" href=""><sup></sup></a></p></font></figcaption>
 </figure>
+
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Persona 1: Larissa Costa</p></font>
 
 | **Aspecto**                | Descrição                                                                                                                                                                                       |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**              | Larissa Costa                                                                                                                                                                                |
 | **Status**              | Persona Primária                                                                                                                                                                                   |
 | **Gênero**              | Feminino                                                                                                                                                                                           |
 | **Idade**               | 22 anos                                                                                                                                                                                            |
@@ -74,8 +79,8 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 3 - Persona Secundária:</b> Rafael Nogueira </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/rafaelnogueira.jpg" alt="João" style="height: 300px; width: 300px;">
-    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/rafaelnogueira.jpg?raw=true" alt="" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona 1: Rafael Nogueira</p></font>
@@ -83,6 +88,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 | **Aspecto**                | Descrição                                                                                                                                                                                      |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**              | Rafael Nogueira                                                                                                                                                                                |
 | **Status**              | Persona Secundária                                                                                                                                                                                 |
 | **Gênero**              | Masculino                                                                                                                                                                                          |
 | **Idade**               | 31 anos                                                                                                                                                                                            |
@@ -102,8 +108,8 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 4 - Persona Secundária:</b> Beatriz Souza </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/beatrizsouza.jpg" alt="João" style="height: 300px; width: 300px;">
-    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/beatrizsouza.jpg?raw=true" alt="" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="" href=""><sup></sup></a></p></font></figcaption>
 </figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Persona 4: Beatriz Souza</p></font>
@@ -111,6 +117,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 | **Aspecto**                | **Descrição**                                                                                                                                                                                                 |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**                   | Beatriz Souza                                                                                                                                                                                                |
 | **Status**                 | Persona Secundária                                                                                                                                                                                          |
 | **Gênero**                 | Feminino                                                                                                                                                                                                     |
 | **Idade**                  | 30 anos                                                                                                                                                                                                     |
@@ -130,14 +137,15 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 5 - Persona Antipersona:</b> João Batista </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/joaobatista.jpg" alt="João" style="height: 300px; width: 300px;">
-    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/joaobatista.jpg?raw=true" alt="" style="height: 300px; width: 300px;">
+    <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="" href=""><sup></sup></a></p></font></figcaption>
 </figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Persona 5: João Batista</p></font>
 
 | **Aspecto**                | **Descrição**                                                                                                                                                                                                 |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**              | João Batista                                                                                                                                                                                |
 | **Status**                 | Antipersona                                                                                                                                                                                                  |
 | **Gênero**                 | Masculino                                                                                                                                                                                                     |
 | **Idade**                  | 60 anos                                                                                                                                                                                                      |
