@@ -18,7 +18,13 @@ A entrevista foi realizada presencialmente , com duração de 3 a 5 minutos, e o
 
 <h2>Video da entrevista</h2>
 
+<font size="2"><p style="text-align: center">video 1  - Entrevisa  </p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wq3BgQpwTAY?si=kSfwfkboyVbq5QpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a>
+</p></font>
 
 
 <h2>Perguntas e Respostas</h2>
@@ -52,7 +58,9 @@ A entrevista foi realizada presencialmente , com duração de 3 a 5 minutos, e o
 
 <h2>Resultados</h2>
 
-<p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados:</p>
+<p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 1:</p>
+
+<font size="2"><p style="text-align: center">tabela 1  - Requisitos elicitados  </p></font>
 
 <table border="1">
   <tr>
@@ -82,6 +90,10 @@ A entrevista foi realizada presencialmente , com duração de 3 a 5 minutos, e o
   </tr>
 </table>
 
+<font size="2"><p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a>
+</p></font>
+
 
 </details>
 
@@ -100,4 +112,5 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
-| 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)  
+| 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)  | 
+| 1.1        | 23/11/2024     | colcoando legendas.         | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Carlos Eduardo](https://github.com/dudupaz)   | 
