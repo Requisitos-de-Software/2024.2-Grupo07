@@ -9,20 +9,20 @@ nav:
     - Ata 2: atas/ata2.md
   - Apresentação:
     - Entregas:
-      - Entrega 1: apresentação/entregas/entrega1.md
+      - Entrega 1: apresentacao/entregas/entrega1.md
   - Planejamento:
-      - Cronograma: planejamento/cronograma.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Aplicativos Avaliados: planejamento/aplicativosAvaliados.md
-      - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
-      - Rich Picture: planejamento/richPicture.md
-      - Metodologia: planejamento/metodologia.md
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Aplicativos Avaliados: planejamento/aplicativosAvaliados.md
+    - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
+    - Rich Picture: planejamento/richPicture.md
+    - Metodologia: planejamento/metodologia.md
   - Elicitação:
-    - Perfil de Usuário: elicitacao\perfildeusuario.md
-    - Personas: elicitacao\personas.md
+    - Perfil de Usuário: elicitacao/perfildeusuario.md
+    - Personas: elicitacao/personas.md
     - Técnicas:
-      - Entrevista: elicitacao\tecnicas\entrevista.md
-      - Introspecção: elicitacao\tecnicas\introspeccao.md
+      - Entrevista: elicitacao/tecnicas/entrevista.md
+      - Introspecção: elicitacao/tecnicas/introspeccao.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
