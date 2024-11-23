@@ -18,11 +18,11 @@ nav:
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
   - Elicitação:
-      - Perfil de Usuário: Elicitacao\perfildeusuario.md
-      - Personas: Elicitacao\personas.md
-      - Técnicas:
-        - Entrevista: Elicitacao\Técnicas\entrevista.md
-        - Introspeccao: Elicitacao\Técnicas\introspeccao.md
+    - Perfil de Usuário: elicitacao\perfildeusuario.md
+    - Personas: elicitacao\personas.md
+    - Técnicas:
+      - Entrevista: elicitacao\tecnicas\entrevista.md
+      - Introspecção: elicitacao\tecnicas\introspeccao.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
