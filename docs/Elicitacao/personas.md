@@ -18,9 +18,20 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="4"><p style="text-align: center"><b>Figura 1 - Persona Primária:</b> Gabriel Almeida </p></font>
 
+<img src="../elicitacao/imagens/personas/gabrielalmeida.jpg" alt="Texto alternativo" width="300" height="200">
+
+<img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.jpg" alt="Texto alternativo" width="300" height="200">
+
+![Texto alternativo](./imagens/personas/gabrielalmeida.jpg)
+
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.jpg" alt="" style="height: 300px; width: 300px;">
+    <img src="./imagens/personas/gabrielalmeida.jpg" alt="" style="height: 300px; width: 300px;">
         <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a><a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
+</figure>
+
+<figure>
+![Descrição da Imagem](./imagens/personas/gabrielalmeida.jpg){: style="width:400px;"}
+<figcaption>Legenda da imagem</figcaption>
 </figure>
 
 
