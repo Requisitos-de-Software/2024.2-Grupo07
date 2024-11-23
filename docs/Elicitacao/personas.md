@@ -19,7 +19,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 1 - Persona Primária:</b> Gabriel Almeida </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.png" alt="" style="height: 300px; width: 300px;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/gabrielalmeida.jpg" alt="" style="height: 300px; width: 300px;">
         <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank">This Person Does Not Exist</a><a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 2 - Persona Primária:</b> Larissa Costa </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/larissacosta.png" alt="João" style="height: 300px; width: 300px;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/larissacosta.jpg" alt="João" style="height: 300px; width: 300px;">
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 3 - Persona Secundária:</b> Rafael Nogueira </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/rafaelnogueira.png" alt="João" style="height: 300px; width: 300px;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/rafaelnogueira.jpg" alt="João" style="height: 300px; width: 300px;">
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 4 - Persona Secundária:</b> Beatriz Souza </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/beatrizsouza.png" alt="João" style="height: 300px; width: 300px;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/beatrizsouza.jpg" alt="João" style="height: 300px; width: 300px;">
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 <font size="4"><p style="text-align: center"><b>Figura 5 - Persona Antipersona:</b> João Batista </p></font>
 
 <figure style="text-align: center;">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/joaobatista.png" alt="João" style="height: 300px; width: 300px;">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/imagens/personas/joaobatista.jpg" alt="João" style="height: 300px; width: 300px;">
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem elaborada por <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="TEC1" href="#QT1"><sup></sup></a></p></font></figcaption>
 </figure>
 
