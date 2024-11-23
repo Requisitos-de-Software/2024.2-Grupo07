@@ -96,6 +96,8 @@ A partir da descoberta do perfil do usuário serão elaboradas as personas e tam
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
 
+> Cooper, Alan, et al. About Face 3 : The Essentials of Interaction Design. Indianapolis, Ind., Wiley, 2007. Disponível em: https://aprender3.unb.br/pluginfile.php/2972438/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acesso em: 23 de nov. 2024. <br>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor                                              | Revisor                                          |
