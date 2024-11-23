@@ -18,8 +18,9 @@ nav:
     - Rich Picture: planejamento/richPicture.md
     - Metodologia: planejamento/metodologia.md
   - Elicitação:
-    - Perfil de Usuário: Elicitacao/perfildeusuario.md
-    - Personas: Elicitacao/personas.md
+    - Elicitação dos Requisitos:
+      - Perfil de Usuário: Elicitacao/perfildeusuario.md
+      - Personas: Elicitacao/personas.md
     - Técnicas:
       - Entrevista: Elicitacao/tecnicas/entrevista.md
       - Introspecção: Elicitacao/tecnicas/introspeccao.md
