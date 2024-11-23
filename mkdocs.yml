@@ -21,8 +21,8 @@ nav:
     - Perfil de Usuário: Elicitacao/perfildeusuario.md
     - Personas: Elicitacao/personas.md
     - Técnicas:
-      - Entrevista: elicitacao/tecnicas/entrevista.md
-      - Introspecção: elicitacao/tecnicas/introspeccao.md
+      - Entrevista: Elicitacao/tecnicas/entrevista.md
+      - Introspecção: Elicitacao/tecnicas/introspeccao.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
