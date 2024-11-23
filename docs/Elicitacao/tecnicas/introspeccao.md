@@ -39,7 +39,7 @@ A **Tabela 1** apresenta os cenários de uso do aplicativo Threads e as observa�
 | Exploração de conteúdo            | O sistema deve sugerir conteúdos relevantes com base em interesses do usuário.                    |  
 | Configurações de privacidade      | Deve ser possível alternar entre contas públicas e privadas rapidamente.                          |  
 
-<font size="2"><p style="text-align: center"> Autora: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
+<font size="2"><p style="text-align: center"> Autor: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 ---
 
 ## Requisitos elicitados  
@@ -57,7 +57,7 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 | 06             | O tempo de resposta ao interagir com o aplicativo deve ser inferior a 1 segundo. | RNF    |  
 | 07             | O design deve ser intuitivo, facilitando o uso por novos usuários.         | RNF     |  
 
-<font size="2"><p style="text-align: center"> Autora: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
+<font size="2"><p style="text-align: center"> Autor: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 ---
 
 ## Referências  
@@ -72,3 +72,4 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
 | 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)    |  
+| 1.1        | 23/11/2024     | Arrumado legenda            | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Alana Gabriele](https://github.com/alanagabriele)    |  
