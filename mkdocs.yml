@@ -4,11 +4,11 @@ repo_name: Requisitos-de-Software/2024.2-Grupo07
 
 nav:
   - Início: index.md
-  - Atas: 
+  - Atas:
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
   - Apresentação:
-    - Entregas: 
+    - Entregas:
       - Entrega 1: apresentação/entregas/entrega1.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
@@ -17,11 +17,14 @@ nav:
       - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
       - Rich Picture: planejamento/richPicture.md
       - Metodologia: planejamento/metodologia.md
-  - Elicitacao:
-      - Entrevista: Elicitacao/entrevista.md
-      - Introspeccao: Elicitacao/introspeccao.md
+  - Elicitação:
+      - Perfil de Usuário: Elicitacao\perfildeusuario.md
+      - Personas: Elicitacao\personas.md
+      - Técnicas:
+        - Entrevista: Elicitacao\Técnicas\entrevista.md
+        - Introspeccao: Elicitacao\Técnicas\introspeccao.md
   - Verificação:
-    - Nosso Grupo (Grupo 7): 
+    - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
     - Grupo +1 (Grupo 8):
       - Etapa 1: verificação/Grupo8/etapa1.md
