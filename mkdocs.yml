@@ -27,6 +27,10 @@ nav:
       - Introspecção: Elicitacao/tecnicas/introspeccao.md
       - Questionário: Elicitacao/tecnicas/questionario.md
       - Brainstorming: Elicitacao/tecnicas/brainstorming.md
+    - Priorização:
+      - First Thing First: Elicitacao/priorizacao/FirstThingFirst.md
+      - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
+      - In or Out: Elicitacao/priorizacao/InorOut.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
