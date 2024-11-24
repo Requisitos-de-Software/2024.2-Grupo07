@@ -315,7 +315,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 3 - Requisitos elicitados </p></font>
 
-<table border="1">
+<table>
   <tr>
     <th><strong>Identificador</strong></th>
     <th><strong>Requisito</strong></th>
@@ -356,10 +356,10 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 
 ## Bibliografia
 
-1. VAZQUEZ, Carlos; SIMÕES, Guilherme. _Engenharia de requisitos_. Editora Brasport, 10 ago. 2016.
-2. Pressman, Roger S. _Engenharia de Software: Uma Abordagem Profissional_. McGraw-Hill, 8ª edição, 2016.
-3. Sommerville, Ian. _Software Engineering_. Pearson, 10ª edição, 2015.
-4. Dados coletados diretamente por meio da aplicação da técnica de entrevista com usuários do Threads (2023).
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. _Engenharia de requisitos_. Editora Brasport, 10 ago. 2016.
+> Pressman, Roger S. _Engenharia de Software: Uma Abordagem Profissional_. McGraw-Hill, 8ª edição, 2016.
+> Sommerville, Ian. _Software Engineering_. Pearson, 10ª edição, 2015.
+> Dados coletados diretamente por meio da aplicação da técnica de entrevista com usuários do Threads (2023).
 
 ## Histórico de Versão
 
