@@ -11,14 +11,14 @@ No presente trabalho, foi aplicada a técnica com o objetivo de analisar e levan
 Optou-se pela **entrevista estruturada**, combinando questões abertas e fechadas, seguindo o formato diamante. Este formato inicia com perguntas mais específicas e diretas, evoluindo para questões amplas que permitem ao entrevistado expor suas opiniões, retornando posteriormente para perguntas mais específicas.
 
 
-A entrevista foi realizada presencialmente , com duração de 3 a 5 minutos, e os dados coletados foram analisados para gerar requisitos funcionais e não funcionais que auxiliam no aperfeiçoamento do Threads.
+As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos em média, e os dados coletados foram analisados para gerar requisitos funcionais e não funcionais que auxiliam no aperfeiçoamento do Threads.
 
 <details>
   <summary>Entrevista 1 </summary>
 
 <h2>Video da entrevista</h2>
 
-<font size="2"><p style="text-align: center">video 1  - Entrevisa  </p></font>
+<font size="2"><p style="text-align: center">Video 1  - Entrevista  </p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wq3BgQpwTAY?si=kSfwfkboyVbq5QpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,6 +97,108 @@ A entrevista foi realizada presencialmente , com duração de 3 a 5 minutos, e o
 
 </details>
 
+<details>
+  <summary>Entrevista 2 </summary>
+
+<h2>Video da entrevista</h2>
+
+<font size="2"><p style="text-align: center">Video 2  - Entrevista  </p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukV5jFL8EJM?si=ZYQUmu9E649sWFEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva </a>
+</p></font>
+
+
+<h2>Perguntas e Respostas</h2>
+
+<p><strong>1. Quantas horas por dia você costuma utilizar a rede social?</strong></p>
+<p><strong>Resposta:</strong> 4 a 6 horas.</p>
+
+<p><strong>2. De que funcionalidades do Threads você mais gosta?</strong></p>
+<p><strong>Resposta:</strong> Rapidez na informação, conteúdos curtos e dinâmicos.</p>
+
+<p><strong>3. Você encontra alguma dificuldade ao utilizar o Threads?</strong></p>
+<p><strong>Resposta:</strong> Não.</p>
+
+<p><strong>4. Existe algo no Threads que não agrada você?</strong></p>
+<p><strong>Resposta:</strong> Muito Bot e aleatoriedades. </p>
+
+<p><strong>5. Você sente falta de alguma funcionalidade no Threads que outros aplicativos oferecem?</strong></p>
+<p><strong>Resposta:</strong> Não.</p>
+
+<p><strong>6. Quão fácil é encontrar e seguir pessoas ou tópicos no Threads?</strong></p>
+<p><strong>Resposta:</strong> É tranquilo, não tenho dificuldades em encontrar.</p>
+
+<p><strong>7. Quais redes sociais você costuma usar além do Threads? Como compara sua experiência com elas?</strong></p>
+<p><strong>Resposta:</strong> Twitter é superior, com mais tempo de mercado.</p>
+
+<p><strong>8. Há recursos específicos de segurança que você considera indispensáveis?</strong></p>
+<p><strong>Resposta:</strong> Proteção de conteúdo, privacidade, autenticação e verificação de notas públicas.</p>
+
+<p><strong>9. Você acha necessário ter um tema escuro ou outras opções de personalização visual no Threads?</strong></p>
+<p><strong>Resposta:</strong> Sim, traz um ambiente particular para o usuário. Acho interessante ter formatação dos caracteres e fundo personalizado.</p>
+
+<h2>Resultados</h2>
+
+<p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 2:</p>
+
+<font size="2"><p style="text-align: center">tabela 2  - Requisitos elicitados  </p></font>
+
+<table border="1">
+  <tr>
+    <th><strong>Identificador</strong></th>
+    <th><strong>Requisito</strong></th>
+    <th><strong>Tipo</strong></th>
+  </tr>
+  <tr>
+    <td><strong>01</strong></td>
+    <td>Personalização Visual.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td>Verificação de FakeNews.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td>Mecanismos de moderação para redução de bots e publicações irrelevantes.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+  <tr>
+    <td><strong>04</strong></td>
+    <td>Autenticação avançada.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+   </tr>
+  <tr>
+    <td><strong>05</strong></td>
+    <td>Proteção de conteúdo.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+  <tr>
+    <td><strong>06</strong></td>
+    <td>Facilidade de busca e conexão.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+   <tr>
+    <td><strong>07</strong></td>
+    <td>Controle de privacidade.</td>
+    <td><strong>RF</strong></td>
+  </tr>
+  
+  
+</table>
+
+<font size="2"><p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenisonJrs" target="_blank">Genilson Silva </a>
+</p></font>
+
+
+</details>
+
 ## Conclusão
 
 A aplicação da técnica de entrevista mostrou-se eficiente para coletar insights dos usuários sobre o Threads, identificando pontos fortes, fraquezas e possíveis melhorias. A integração das sugestões levantadas pode contribuir para tornar o Threads mais competitivo no mercado de redes sociais.
@@ -113,4 +215,5 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
 | 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)  | 
-| 1.1        | 23/11/2024     | colcoando legendas.         | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Carlos Eduardo](https://github.com/dudupaz)   | 
+| 1.1        | 23/11/2024     | Colocando legendas.         | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Carlos Eduardo](https://github.com/dudupaz)   | 
+| 1.2        | 24/11/2024     | Adicionando Entrevista 2.       | [Genilson Silva](https://github.com/GenilsonJrs)   | [Carlos Eduardo](https://github.com/dudupaz)  | 
