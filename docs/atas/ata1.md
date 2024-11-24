@@ -2,7 +2,7 @@
 
 - **Data:** 29 de Outubro
 - **Hora de Início:** 19:30
-- **Hora de Término:** 19h40
+- **Hora de Término:** 19:40
 - **Local:** Plataforma de Comunicação - Teams
 - **Participantes:**
 
