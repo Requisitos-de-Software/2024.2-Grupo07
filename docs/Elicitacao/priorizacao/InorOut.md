@@ -33,7 +33,7 @@ Os requisitos foram, então, categorizados como:
 - **Out**: Desejáveis, mas não essenciais no momento.
 
 ## 3. Consolidação dos Resultados
-Os requisitos classificados foram organizados em uma tabela para visualização clara e objetiva.
+Os requisitos classificados foram organizados nas tabelas para visualização clara e objetiva.
 
 ---
 
