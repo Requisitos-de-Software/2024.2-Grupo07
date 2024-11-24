@@ -60,7 +60,7 @@ As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 1:</p>
 
-<font size="2"><p style="text-align: center">tabela 1  - Requisitos elicitados  </p></font>
+<font size="2"><p style="text-align: center">Tabela 1  - Requisitos elicitados  </p></font>
 
 <table border="1">
   <tr>
@@ -144,7 +144,7 @@ As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 2:</p>
 
-<font size="2"><p style="text-align: center">tabela 2  - Requisitos elicitados  </p></font>
+<font size="2"><p style="text-align: center">Tabela 2  - Requisitos elicitados  </p></font>
 
 <table border="1">
   <tr>
@@ -198,6 +198,11 @@ As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos
 
 
 </details>
+
+ *Legenda para as Tabelas*
+
+ - **RF**: Requisito Funcional  
+ - **RNF**: Requisito Não Funcional  
 
 ## Conclusão
 
