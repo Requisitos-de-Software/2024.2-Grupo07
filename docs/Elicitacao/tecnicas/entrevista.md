@@ -214,6 +214,6 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
-| 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)  | 
-| 1.1        | 23/11/2024     | Colocando legendas.         | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Carlos Eduardo](https://github.com/dudupaz)   | 
-| 1.2        | 24/11/2024     | Adicionando Entrevista 2.       | [Genilson Silva](https://github.com/GenilsonJrs)   | [Carlos Eduardo](https://github.com/dudupaz)  | 
+| 1.0        | 21/11/2024     | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)  | 
+| 1.1        | 23/11/2024     | Colocando legendas         | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Carlos Eduardo](https://github.com/dudupaz)   | 
+| 1.2        | 24/11/2024     | Adicionando Entrevista 2       | [Genilson Silva](https://github.com/GenilsonJrs)   | [Carlos Eduardo](https://github.com/dudupaz)  | 

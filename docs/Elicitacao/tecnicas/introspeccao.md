@@ -71,5 +71,5 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
 |------------|----------------|-----------------------------|---------------|-----------------|  
-| 1.0        | 21/11/2024     | Criação do documento.       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)    |  
+| 1.0        | 21/11/2024     | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Genilson Silva](https://github.com/GenilsonJrs)    |  
 | 1.1        | 23/11/2024     | Arrumado legenda            | [Samuel Ribeiro](https://github.com/SamuelRicosta)   | [Alana Gabriele](https://github.com/alanagabriele)    |  
