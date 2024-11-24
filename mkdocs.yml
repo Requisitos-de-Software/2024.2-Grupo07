@@ -7,6 +7,7 @@ nav:
   - Atas:
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
+    - Ata 3: atas/ata3.md
   - Apresentação:
     - Entregas:
       - Entrega 1: apresentacao/entregas/entrega1.md
@@ -32,6 +33,7 @@ nav:
       - Etapa 2: verificação/Grupo7/etapa2.md
     - Grupo +1 (Grupo 8):
       - Etapa 1: verificação/Grupo8/etapa1.md
+      - Etapa 1: verificação/Grupo8/etapa2.md
 
 
 theme:
