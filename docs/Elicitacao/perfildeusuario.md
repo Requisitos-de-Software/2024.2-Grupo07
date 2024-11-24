@@ -78,6 +78,8 @@ Com base nas informações obtidas podemos montar o perfil do usuário contido n
 
 <font size="2"><p style="text-align: center"> Tabela 1 - Perfil do Usuário </p></font>
 
+<div style="display: table; margin: auto;">
+
 | Característica                                   | Descrição                  |
 | ------------------------------------------------ | -------------------------- |
 | Idade                                            | Jovens de 18 a 24 anos     |
@@ -87,6 +89,8 @@ Com base nas informações obtidas podemos montar o perfil do usuário contido n
 | Frequência de uso das redes sociais              | Várias vezes ao dia        |
 | Dispositivo utilizado para acessar redes sociais | Celular                    |
 | Motivo para usar redes sociais                   | Entretenimento             |
+
+</div>
 
 <font size="2"><p style="text-align: center"> Autor: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 

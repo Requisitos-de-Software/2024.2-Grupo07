@@ -12,6 +12,51 @@ Optou-se pela **entrevista estruturada**, combinando questões abertas e fechada
 
 As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos em média, e os dados coletados foram analisados para gerar requisitos funcionais e não funcionais que auxiliam no aperfeiçoamento do Threads.
 
+## Perguntas
+
+<table>
+  <tr>
+    <th><strong>Número</strong></th>
+    <th><strong>Pergunta</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td>Quantas horas por dia você costuma utilizar a rede social?</td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td>De que funcionalidades do Threads você mais gosta?</td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td>Você encontra alguma dificuldade ao utilizar o Threads?</td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td>Existe algo no Threads que não agrada você?</td>
+  </tr>
+  <tr>
+    <td><strong>5</strong></td>
+    <td>Você sente falta de alguma funcionalidade no Threads que outros aplicativos oferecem?</td>
+  </tr>
+  <tr>
+    <td><strong>6</strong></td>
+    <td>Quão fácil é encontrar e seguir pessoas ou tópicos no Threads?</td>
+  </tr>
+  <tr>
+    <td><strong>7</strong></td>
+    <td>Quais redes sociais você costuma usar além do Threads? Como compara sua experiência com elas?</td>
+  </tr>
+  <tr>
+    <td><strong>8</strong></td>
+    <td>Há recursos específicos de segurança que você considera indispensáveis?</td>
+  </tr>
+  <tr>
+    <td><strong>9</strong></td>
+    <td>Você acha necessário ter um tema escuro ou outras opções de personalização visual no Threads?</td>
+  </tr>
+</table>
+
 ## Entrevistas
 
 <div style="display: table; margin: auto;">
