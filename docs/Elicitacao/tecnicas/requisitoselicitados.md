@@ -35,13 +35,13 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 | **Identificador** | **Requisito**                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------- |
-| **18**            | O sistema deve evitar a sobrecarga de notificações irrelevantes.                          |
-| **19**            | O sistema deve garantir uma interface simples e intuitiva para novos usuários.            |
-| **20**            | O sistema deve implementar moderação para redução de bots e publicações irrelevantes.     |
-| **21**            | O sistema deve oferecer autenticação avançada para segurança do usuário.                  |
-| **22**            | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais. |
-| **23**            | O sistema deve apresentar layouts modernos, minimalistas e acessíveis.                    |
-| **24**            | O sistema deve permitir personalização do perfil com opções multimídia exclusivas.        |
+| **1**             | O sistema deve evitar a sobrecarga de notificações irrelevantes.                          |
+| **2**             | O sistema deve garantir uma interface simples e intuitiva para novos usuários.            |
+| **3**             | O sistema deve implementar moderação para redução de bots e publicações irrelevantes.     |
+| **4**             | O sistema deve oferecer autenticação avançada para segurança do usuário.                  |
+| **5**             | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais. |
+| **6**             | O sistema deve apresentar layouts modernos, minimalistas e acessíveis.                    |
+| **7**             | O sistema deve permitir personalização do perfil com opções multimídia exclusivas.        |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
