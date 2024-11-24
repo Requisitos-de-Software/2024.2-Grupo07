@@ -66,7 +66,7 @@ A sessão de brainstorming foi realizada no dia 21 de novembro de 2024, às 10:3
 <p><strong>12. Como você descreveria a interface ideal para o Threads?</strong></p>
 <p><strong>Resposta:</strong> Ferramentas para definir o que você quer ver. Questionário sobre os interesses. Indicar pessoas do nicho para seguir. Ter o chat. Alterar a cor dos elementos. Ter novidades. Customização ampla.</p>
 
-## Requisitos Elicitados
+<h2>Requisitos Elicitados</h2>
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, conforme a Tabela 1:</p>
 
@@ -138,10 +138,12 @@ A sessão de brainstorming foi realizada no dia 21 de novembro de 2024, às 10:3
     <td>Interface ideal (ferramentas de personalização, indicadores de interesses, acesso rápido a novos conteúdos).</td>
     <td><strong>RF</strong></td>
   </tr>
+  
 </table>
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
  *Legenda*
 
