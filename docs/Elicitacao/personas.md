@@ -25,23 +25,22 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Persona 1: Gabriel Almeida</p></font>
 
+| **Aspecto**           | Descrição                                                                                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nome**              | Gabriel Almeida                                                                                                                      |
+| **Status**            | Persona Primária                                                                                                                     |
+| **Gênero**            | Masculino                                                                                                                            |
+| **Idade**             | 21 anos                                                                                                                              |
+| **Profissão**         | Estudante de Ciência da Computação                                                                                                   |
+| **Escolaridade**      | Ensino superior incompleto                                                                                                           |
+| **Interação virtual** | Muito ativo nas redes sociais: compartilha memes, comenta em postagens e interage em comunidades de tecnologia                       |
+| **Habilidades**       | Usuário intermediário, explora configurações avançadas das redes sociais e utiliza filtros para organizar seu conteúdo               |
+| **Objetivos**         | Busca entretenimento, interação social e networking acadêmico                                                                        |
+| **Expectativas**      | Espera uma interface intuitiva com recomendações personalizadas e notificações úteis                                                 |
+| **Requisitos**        | Busca ferramentas que priorizem velocidade, personalização e um design moderno                                                       |
+| **Atividades**        | Gabriel acessa o Threads várias vezes ao dia, principalmente em intervalos de estudos, utilizando o celular para se manter conectado |
 
-| **Aspecto**                | Descrição                                                                                                                                                                                      |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**              | Gabriel Almeida                                                                                                                                                                                |
-| **Status**              | Persona Primária                                                                                                                                                                                |
-| **Gênero**              | Masculino                                                                                                                                                                                          |
-| **Idade**               | 21 anos                                                                                                                                                                                            |
-| **Profissão**           | Estudante de Ciência da Computação                                                                                                                                                                 |
-| **Escolaridade**        | Ensino superior incompleto                                                                                                                                                                         |
-| **Interação virtual** | Muito ativo nas redes sociais: compartilha memes, comenta em postagens e interage em comunidades de tecnologia                                                                                      |
-| **Habilidades**         | Usuário intermediário, explora configurações avançadas das redes sociais e utiliza filtros para organizar seu conteúdo                                                                               |
-| **Objetivos**          | Busca entretenimento, interação social e networking acadêmico                                                                                                                                      |
-| **Expectativas**        | Espera uma interface intuitiva com recomendações personalizadas e notificações úteis                                                                                                               |
-| **Requisitos**          | Busca ferramentas que priorizem velocidade, personalização e um design moderno                                                                                                                     |
-| **Atividades**             | Gabriel acessa o Threads várias vezes ao dia, principalmente em intervalos de estudos, utilizando o celular para se manter conectado                                                             |  
-
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>  
+<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -52,29 +51,26 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
     <figcaption><font size="3"><p style="text-align: center"><b>Fonte:</b> Imagem gerada pela ferramenta: <a href="https://this-person-does-not-exist.com/en" target="_blank"> This Person Does Not Exist</a>.<a id="" href=""><sup></sup></a></p></font></figcaption>
 </figure>
 
-
-
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Persona 1: Larissa Costa</p></font>
 
-| **Aspecto**                | Descrição                                                                                                                                                                                       |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**              | Larissa Costa                                                                                                                                                                                |
-| **Status**              | Persona Primária                                                                                                                                                                                   |
-| **Gênero**              | Feminino                                                                                                                                                                                           |
-| **Idade**               | 22 anos                                                                                                                                                                                            |
-| **Profissão**           | Estudante de Publicidade e Propaganda                                                                                                                                                               |
-| **Escolaridade**        | Ensino superior incompleto                                                                                                                                                                         |
-| **Interação virtual** | Muito engajada em redes sociais: cria conteúdos multimídia, responde mensagens e interage em nichos criativos                                                                                       |
-| **Habilidades**         | Experiente em edição de vídeos e imagens, utiliza métricas para avaliar seu alcance e impactar sua audiência                                                                                        |
-| **Objetivos**                    | Promover sua marca pessoal, compartilhar portfólio e interagir com potenciais clientes e parceiros                                                                                                 |
-| **Expectativas**        | Ferramentas robustas para edição e criação de conteúdo visual, com métricas claras de desempenho                                                                                                    |
-| **Requisitos**          | Busca suporte para uploads rápidos, organização de postagens e integração com plataformas externas de marketing digital                                                                             |
-| **Atividades**             | Publica diariamente, geralmente utilizando o celular, aproveitando momentos livres entre compromissos profissionais e acadêmicos                                                                   |  
+| **Aspecto**           | Descrição                                                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**              | Larissa Costa                                                                                                                    |
+| **Status**            | Persona Primária                                                                                                                 |
+| **Gênero**            | Feminino                                                                                                                         |
+| **Idade**             | 22 anos                                                                                                                          |
+| **Profissão**         | Estudante de Publicidade e Propaganda                                                                                            |
+| **Escolaridade**      | Ensino superior incompleto                                                                                                       |
+| **Interação virtual** | Muito engajada em redes sociais: cria conteúdos multimídia, responde mensagens e interage em nichos criativos                    |
+| **Habilidades**       | Experiente em edição de vídeos e imagens, utiliza métricas para avaliar seu alcance e impactar sua audiência                     |
+| **Objetivos**         | Promover sua marca pessoal, compartilhar portfólio e interagir com potenciais clientes e parceiros                               |
+| **Expectativas**      | Ferramentas robustas para edição e criação de conteúdo visual, com métricas claras de desempenho                                 |
+| **Requisitos**        | Busca suporte para uploads rápidos, organização de postagens e integração com plataformas externas de marketing digital          |
+| **Atividades**        | Publica diariamente, geralmente utilizando o celular, aproveitando momentos livres entre compromissos profissionais e acadêmicos |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>  
+<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
-
 
 <font size="4"><p style="text-align: center"><b>Figura 3 - Persona Secundária:</b> Rafael Nogueira </p></font>
 
@@ -85,23 +81,22 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona 1: Rafael Nogueira</p></font>
 
+| **Aspecto**           | Descrição                                                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**              | Rafael Nogueira                                                                                                              |
+| **Status**            | Persona Secundária                                                                                                           |
+| **Gênero**            | Masculino                                                                                                                    |
+| **Idade**             | 31 anos                                                                                                                      |
+| **Profissão**         | Designer gráfico freelancer                                                                                                  |
+| **Escolaridade**      | Ensino superior completo                                                                                                     |
+| **Interação virtual** | Utiliza redes sociais para buscar inspiração, seguir tendências e compartilhar projetos com clientes e comunidades criativas |
+| **Habilidades**       | Especializado em ferramentas de design e edição de imagens, com amplo conhecimento de marketing digital e branding           |
+| **Objetivos**         | Expandir sua rede de contatos, divulgar seu portfólio e conquistar novos clientes                                            |
+| **Expectativas**      | Ferramentas de rede social que ofereçam integração com plataformas de design e facilitem a visualização de portfólios        |
+| **Requisitos**        | Preferência por uma interface limpa e organizada, que destaque o conteúdo visual                                             |
+| **Atividades**        | Acessa o Threads raramente, geralmente após finalizar projetos para compartilhar e buscar feedback                           |
 
-| **Aspecto**                | Descrição                                                                                                                                                                                      |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**              | Rafael Nogueira                                                                                                                                                                                |
-| **Status**              | Persona Secundária                                                                                                                                                                                 |
-| **Gênero**              | Masculino                                                                                                                                                                                          |
-| **Idade**               | 31 anos                                                                                                                                                                                            |
-| **Profissão**           | Designer gráfico freelancer                                                                                                                                                                        |
-| **Escolaridade**        | Ensino superior completo                                                                                                                                                                           |
-| **Interação virtual** | Utiliza redes sociais para buscar inspiração, seguir tendências e compartilhar projetos com clientes e comunidades criativas                                                                        |
-| **Habilidades**         | Especializado em ferramentas de design e edição de imagens, com amplo conhecimento de marketing digital e branding                                                                                  |
-| **Objetivos**                   | Expandir sua rede de contatos, divulgar seu portfólio e conquistar novos clientes                                                                                                                  |
-| **Expectativas**        | Ferramentas de rede social que ofereçam integração com plataformas de design e facilitem a visualização de portfólios                                                                                |
-| **Requisitos**          | Preferência por uma interface limpa e organizada, que destaque o conteúdo visual                                                                                                                   |
-| **Atividades**             | Acessa o Threads raramente, geralmente após finalizar projetos para compartilhar e buscar feedback                                                                                 |  
-
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>  
+<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -114,23 +109,21 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Persona 4: Beatriz Souza</p></font>
 
+| **Aspecto**           | **Descrição**                                                                                                                                                   |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**              | Beatriz Souza                                                                                                                                                   |
+| **Status**            | Persona Secundária                                                                                                                                              |
+| **Gênero**            | Feminino                                                                                                                                                        |
+| **Idade**             | 30 anos                                                                                                                                                         |
+| **Escolaridade**      | Ensino superior completo                                                                                                                                        |
+| **Interação virtual** | Moderadamente ativa, acessa o Threads algumas vezes por semana, geralmente à noite. Prefere conteúdos leves e compartilha atualizações pessoais ocasionalmente. |
+| **Habilidades**       | Usuária básica. Usa redes sociais de forma funcional e evita explorar recursos avançados. Prefere interfaces simples e limpas.                                  |
+| **Objetivos**         | Manter contato com amigos e familiares, além de consumir conteúdos interessantes e relaxantes.                                                                  |
+| **Expectativas**      | Privacidade e simplicidade no uso, com ferramentas que limitem a exposição pública de interações.                                                               |
+| **Requisitos**        | Procura um design intuitivo e fácil de usar, que permita navegar rapidamente e encontrar o que precisa sem dificuldade.                                         |
+| **Atividades**        | Beatriz utiliza o celular para acessar a rede social em momentos de descanso, interage em grupos privados e consome conteúdo que a ajude a relaxar.             |
 
-| **Aspecto**                | **Descrição**                                                                                                                                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**                   | Beatriz Souza                                                                                                                                                                                                |
-| **Status**                 | Persona Secundária                                                                                                                                                                                          |
-| **Gênero**                 | Feminino                                                                                                                                                                                                     |
-| **Idade**                  | 30 anos                                                                                                                                                                                                     |
-| **Escolaridade**           | Ensino superior completo                                                                                                                                                                                    |
-| **Interação virtual**  | Moderadamente ativa, acessa o Threads algumas vezes por semana, geralmente à noite. Prefere conteúdos leves e compartilha atualizações pessoais ocasionalmente.                                                       |
-| **Habilidades**            | Usuária básica. Usa redes sociais de forma funcional e evita explorar recursos avançados. Prefere interfaces simples e limpas.                                                                               |
-|**Objetivos**                      | Manter contato com amigos e familiares, além de consumir conteúdos interessantes e relaxantes.                                                                                                              |
-| **Expectativas**           | Privacidade e simplicidade no uso, com ferramentas que limitem a exposição pública de interações.                                                                                                           |
-| **Requisitos**             | Procura um design intuitivo e fácil de usar, que permita navegar rapidamente e encontrar o que precisa sem dificuldade.                                                                                      |
-| **Atividades**              | Beatriz utiliza o celular para acessar a rede social em momentos de descanso, interage em grupos privados e consome conteúdo que a ajude a relaxar.                                                          |
-
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>  
-
+<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -143,22 +136,21 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Persona 5: João Batista</p></font>
 
-| **Aspecto**                | **Descrição**                                                                                                                                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**              | João Batista                                                                                                                                                                                |
-| **Status**                 | Antipersona                                                                                                                                                                                                  |
-| **Gênero**                 | Masculino                                                                                                                                                                                                     |
-| **Idade**                  | 60 anos                                                                                                                                                                                                      |
-| **Escolaridade**           | Ensino fundamental incompleto                                                                                                                                                                                        |
-| **Interação virtual**  | Pouco ativo, acessa redes sociais apenas quando necessário para resolver algo pontual. Prefere métodos de comunicação tradicionais.                                                                           |
-| **Habilidades**            | Usuário com dificuldade em entender novas interfaces e configurações. Prefere instruções detalhadas e tutoriais para realizar tarefas simples.                                                               |
-| **Objetivos**                       | Utilizar a rede apenas para resolver problemas pontuais, como buscar contatos ou links recomendados por terceiros.                                                                                          |
-| **Expectativas**           | Prefere plataformas simples, sem mudanças frequentes no design ou interface, que o permitam realizar tarefas de forma rápida e sem confusão.                                                                |
-| **Requisitos**             | Ferramentas que sejam objetivas, com funções claras e de fácil acesso, evitando qualquer complexidade técnica.                                                                                               |
-| **Atividades**               | João utiliza o computador ocasionalmente para acessar redes sociais. Raramente interage publicamente e não se envolve em comunidades ou grupos online.                                                       |
+| **Aspecto**           | **Descrição**                                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nome**              | João Batista                                                                                                                                           |
+| **Status**            | Antipersona                                                                                                                                            |
+| **Gênero**            | Masculino                                                                                                                                              |
+| **Idade**             | 60 anos                                                                                                                                                |
+| **Escolaridade**      | Ensino fundamental incompleto                                                                                                                          |
+| **Interação virtual** | Pouco ativo, acessa redes sociais apenas quando necessário para resolver algo pontual. Prefere métodos de comunicação tradicionais.                    |
+| **Habilidades**       | Usuário com dificuldade em entender novas interfaces e configurações. Prefere instruções detalhadas e tutoriais para realizar tarefas simples.         |
+| **Objetivos**         | Utilizar a rede apenas para resolver problemas pontuais, como buscar contatos ou links recomendados por terceiros.                                     |
+| **Expectativas**      | Prefere plataformas simples, sem mudanças frequentes no design ou interface, que o permitam realizar tarefas de forma rápida e sem confusão.           |
+| **Requisitos**        | Ferramentas que sejam objetivas, com funções claras e de fácil acesso, evitando qualquer complexidade técnica.                                         |
+| **Atividades**        | João utiliza o computador ocasionalmente para acessar redes sociais. Raramente interage publicamente e não se envolve em comunidades ou grupos online. |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/seu_usuario), 2024.</p></font>  
-
+<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/seu_usuario), 2024.</p></font>
 
 ## Bibliografia
 
@@ -170,8 +162,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                                        | Revisor                                          |
-| :----: | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
+| Versão | Data       | Descrição            | Autor                                        | Revisor                                            |
+| :----: | ---------- | -------------------- | -------------------------------------------- | -------------------------------------------------- |
 |  1.0   | 22/11/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-|  1.1   | 23/11/2024 | Criação de personas | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele) |
-
+|  1.1   | 23/11/2024 | Criação de personas  | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele) |

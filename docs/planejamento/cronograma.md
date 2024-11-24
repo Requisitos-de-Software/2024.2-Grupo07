@@ -194,7 +194,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele</td>
         </tr>
         <tr>
-            <td>Observação para elicitação de requisitos</td>
+            <td>Introspecção para elicitação de requisitos</td>
             <td>Início: 17/11 <br> Fim: 19/11</td>
             <td>Genilson Silva</td>
             <td>Início: 15/11 <br> Fim: 15/11</td>
@@ -245,6 +245,110 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Verificação do nosso grupo</td>
             <td>Início : 25/11 <br> Fim : 25/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 07/11 <br> Fim : 07/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Correções pós-apresentação</td>
+            <td>Início: 26/11 <br> Fim: 28/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 28/11 <br> Fim: 28/11</td>
+            <td>Carlos Eduardo</td>
+        </tr>
+    </table>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</p></font>
+
+  <h2> Cronograma Executado</h2>
+    <p>Na <b>Tabela 4</b> está o cronograma executado da etapa</p>
+    <font size="2"><p style="text-align: center"><b>Tabela 4</b> - Cronograma executado de atividades da etapa 2 </p></font>
+    <table border="1">
+        <tr>
+            <th>Atividade</th>
+            <th>Período para o desenvolvimento da atividade</th>
+            <th>Período da execução da atividade</th>
+            <th style="width: 100px;">Responsáveis</th>
+            <th>Período da revisão</th>
+            <th>Revisores</th>
+        </tr>
+        <tr>
+            <td>Criação de personas e pesquisa de perfis de usuários</td>
+            <td>Início: 14/11 <br> Fim: 17/11</td>
+            <td>Início: 20/11 <br> Fim: 23/11</td>
+            <td>Alana Gabriele e Carlos Eduardo</td>
+            <td>Início: 21/11 <br> Fim: 24/11</td>
+            <td>Genilson Silva</td>
+        </tr>
+        <tr>
+            <td>Entendimento das técnicas de elicitação de requisitos e definição para o projeto</td>
+            <td>Início: 14/11 <br> Fim: 17/11</td>
+            <td>Início: 20/11 <br> Fim: 24/11</td>
+            <td>Genilson Silva e Samuel Ribeiro</td>
+            <td>Início: 22/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele</td>
+        </tr>
+        <tr>
+            <td>Introspecção para elicitação de requisitos</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
+            <td>Início: 21/11 <br> Fim: 23/11</td>
+            <td>Genilson Silva</td>
+            <td>Início: 22/11 <br> Fim: 22/11</td>
+            <td>Carlos Eduardo</td>
+        </tr>
+        <tr>
+            <td>Brainstorm para elicitação de requisitos</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
+            <td>Início: 21/11 <br> Fim: 21/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 22/11 <br> Fim: 22/11</td>
+            <td>Genilson Silva</td>
+        </tr>
+        <tr>
+            <td>Entrevista para elicitação de requisitos</td>
+            <td>Início: 17/11 <br> Fim: 19/11</td>
+            <td>Início: 21/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele</td>
+            <td>Início:23/11 <br> Fim: 19/11</td>
+            <td>Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Entendimento das técnicas de priorização de requisitos e seleção para o projeto</td>
+            <td>Início: 18/11 <br> Fim: 19/11</td>
+            <td>Início: 23/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele, Genilson Silva e Samuel Ribeiro</td>
+            <td>Início: 24/11 <br> Fim: 24/11</td>
+            <td>Genilson Silva</td>
+        </tr>
+        <tr>
+            <td>Aplicação das técnicas de priorização dos requisitos levantados</td>
+            <td>Início: 20/11 <br> Fim: 22/11</td>
+            <td>Início: 24/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele, Genilson Silva e Samuel Ribeiro</td>
+            <td>Início: 22/11 <br> Fim: 22/11</td>
+            <td>Carlos Eduardo</td>
+        </tr>
+        <tr>
+            <td>Gravação da Apresentação e Entrega</td>
+            <td>Início: 23/11 <br> Fim: 23/11</td>
+            <td>Início: 24/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 24/11 <br> Fim: 24/11</td>
+            <td>Alana Gabriele</td>
+        </tr>
+        <tr>
+            <td>Verificação do grupo +1</td>
+            <td>Início : 24/11 <br> Fim : 24/11</td>
+            <td>Início : 25/11 <br> Fim : 25/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 25/11 <br> Fim : 25/11</td>
+           <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 25/11 <br> Fim : 25/11</td>
+            <td>Início : 24/11 <br> Fim : 24/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 07/11 <br> Fim : 07/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
