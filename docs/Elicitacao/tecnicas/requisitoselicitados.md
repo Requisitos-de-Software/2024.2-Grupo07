@@ -6,24 +6,23 @@ Este documento apresenta os requisitos levantados para o projeto, que foram iden
 
 <font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais </p></font>
 
-| **Identificador** | **Requisito**                                                                                       | **Origem**    |
-| ----------------- | --------------------------------------------------------------------------------------------------- | ------------- |
-| **01**            | O usuário deve ser capaz de curtir publicações.                                                     | Introspecção  |
-| **02**            | O usuário deve ser capaz de comentar publicações.                                                   | Introspecção  |
-| **03**            | O usuário deve ser capaz de repostar publicações.                                                   | Introspecção  |
-| **04**            | O usuário deve ser capaz de personalizar o visual do aplicativo.                                    | Brainstorming |
-| **05**            | O usuário deve ser capaz de receber notificações baseadas no uso do aplicativo.                     | Brainstorming |
-| **06**            | O usuário deve ser capaz de personalizar o feed.                                                    | Brainstorming |
-| **07**            | O usuário deve ser capaz de integrar ou desconectar a conta do Instagram.                           | Brainstorming |
-| **8**             | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                          | Entrevista    |
-| **9**             | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.                 | Introspecção  |
-| **10**            | O sistema deve permitir a criação de publicações com texto, imagens e links.                        | Introspecção  |
-| **11**            | O usuário deve ser capaz de configurar a visibilidade de sua conta como pública ou privada.         | Entrevista    |
-| **12**            | O sistema deve criar "Trend Topics" para destacar os assuntos mais discutidos.                      | Entrevista    |
-| **13**            | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.           | Questionário  |
-| **14**            | O sistema deve verificar contas com base em número de telefone e email cadastrado.                  | Brainstorming |
-| **15**            | O sistema deve melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.            | Entrevista    |
-| **16**            | O sistema deve implementar mecanismos de moderação para redução de bots e publicações irrelevantes. | Entrevista    |
+| **Identificador** | **Requisito**                                                                               | **Origem**    |
+| ----------------- | ------------------------------------------------------------------------------------------- | ------------- |
+| **01**            | O usuário deve ser capaz de curtir publicações.                                             | Introspecção  |
+| **02**            | O usuário deve ser capaz de comentar publicações.                                           | Introspecção  |
+| **03**            | O usuário deve ser capaz de repostar publicações.                                           | Introspecção  |
+| **04**            | O usuário deve ser capaz de personalizar o visual do aplicativo.                            | Brainstorming |
+| **05**            | O usuário deve ser capaz de receber notificações baseadas no uso do aplicativo.             | Brainstorming |
+| **06**            | O usuário deve ser capaz de personalizar o feed.                                            | Brainstorming |
+| **07**            | O usuário deve ser capaz de integrar ou desconectar a conta do Instagram.                   | Brainstorming |
+| **8**             | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                  | Entrevista    |
+| **9**             | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.         | Introspecção  |
+| **10**            | O sistema deve permitir a criação de publicações com texto, imagens e links.                | Introspecção  |
+| **11**            | O usuário deve ser capaz de configurar a visibilidade de sua conta como pública ou privada. | Entrevista    |
+| **12**            | O sistema deve criar "Trend Topics" para destacar os assuntos mais discutidos.              | Entrevista    |
+| **13**            | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.   | Questionário  |
+| **14**            | O sistema deve verificar contas com base em número de telefone e email cadastrado.          | Brainstorming |
+| **15**            | O sistema deve melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.    | Entrevista    |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>

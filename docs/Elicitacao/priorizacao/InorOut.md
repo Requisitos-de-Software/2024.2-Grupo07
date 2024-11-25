@@ -36,7 +36,7 @@ Os requisitos foram, então, categorizados como:
 
 ## 3. Consolidação dos Resultados
 
-Os requisitos classificados foram organizados nas tabelas para visualização clara e objetiva.
+Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualização clara e objetiva.
 
 ---
 
@@ -44,24 +44,23 @@ Os requisitos classificados foram organizados nas tabelas para visualização cl
 
 <font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais </p></font>
 
-| **Identificador** | **Requisito**                                                                                       | **In or Out** |
-| ----------------- | --------------------------------------------------------------------------------------------------- | ------------- |
-| **01**            | O usuário deve ser capaz de curtir publicações.                                                     |               |
-| **02**            | O usuário deve ser capaz de comentar publicações.                                                   |               |
-| **03**            | O usuário deve ser capaz de repostar publicações.                                                   |               |
-| **04**            | O usuário deve ser capaz de personalizar o visual do aplicativo.                                    |               |
-| **05**            | O usuário deve ser capaz de receber notificações baseadas no uso do aplicativo.                     |               |
-| **06**            | O usuário deve ser capaz de personalizar o feed.                                                    |               |
-| **07**            | O usuário deve ser capaz de integrar ou desconectar a conta do Instagram.                           |               |
-| **8**             | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                          |               |
-| **9**             | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.                 |               |
-| **10**            | O sistema deve permitir a criação de publicações com texto, imagens e links.                        |               |
-| **11**            | O usuário deve ser capaz de configurar a visibilidade de sua conta como pública ou privada.         |               |
-| **12**            | O sistema deve criar "Trend Topics" para destacar os assuntos mais discutidos.                      |               |
-| **13**            | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.           |               |
-| **14**            | O sistema deve verificar contas com base em número de telefone e email cadastrado.                  |               |
-| **15**            | O sistema deve melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.            |               |
-| **16**            | O sistema deve implementar mecanismos de moderação para redução de bots e publicações irrelevantes. |               |
+| **Identificador** | **Requisito**                                                                               | **In or Out** |
+| ----------------- | ------------------------------------------------------------------------------------------- | ------------- |
+| **01**            | O usuário deve ser capaz de curtir publicações.                                             | in            |
+| **02**            | O usuário deve ser capaz de comentar publicações.                                           | in            |
+| **03**            | O usuário deve ser capaz de repostar publicações.                                           | out           |
+| **04**            | O usuário deve ser capaz de personalizar o visual do aplicativo.                            | in            |
+| **05**            | O usuário deve ser capaz de receber notificações baseadas no uso do aplicativo.             | out           |
+| **06**            | O usuário deve ser capaz de personalizar o feed.                                            | in            |
+| **07**            | O usuário deve ser capaz de integrar ou desconectar a conta do Instagram.                   | out           |
+| **8**             | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                  | in            |
+| **9**             | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.         | in            |
+| **10**            | O sistema deve permitir a criação de publicações com texto, imagens e links.                | in            |
+| **11**            | O usuário deve ser capaz de configurar a visibilidade de sua conta como pública ou privada. | in            |
+| **12**            | O sistema deve criar "Trend Topics" para destacar os assuntos mais discutidos.              | in            |
+| **13**            | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.   | in            |
+| **14**            | O sistema deve verificar contas com base em número de telefone e email cadastrado.          | in            |
+| **15**            | O sistema deve melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.    | in            |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
@@ -74,12 +73,21 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 | **Identificador** | **Requisito**                                                                             | **In or Out** |
 | ----------------- | ----------------------------------------------------------------------------------------- | ------------- |
-| **1**             | O sistema deve evitar a sobrecarga de notificações irrelevantes.                          |               |
-| **2**             | O sistema deve garantir uma interface simples e intuitiva para novos usuários.            |               |
-| **3**             | O sistema deve implementar moderação para redução de bots e publicações irrelevantes.     |               |
-| **4**             | O sistema deve oferecer autenticação avançada para segurança do usuário.                  |               |
-| **5**             | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais. |               |
-| **6**             | O sistema deve oferecer o controle de privacidade.                                        |
+| **1**             | O sistema deve evitar a sobrecarga de notificações irrelevantes.                          | in            |
+| **2**             | O sistema deve garantir uma interface simples e intuitiva para novos usuários.            | in            |
+| **3**             | O sistema deve implementar moderação para redução de bots e publicações irrelevantes.     | in            |
+| **4**             | O sistema deve oferecer autenticação avançada para segurança do usuário.                  | in            |
+| **5**             | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais. | in            |
+| **6**             | O sistema deve oferecer o controle de privacidade.                                        | in            |
+
+<font size="2"><p style="text-align: center; font-size: 14px;">
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+
+### Gravação
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Técnica </p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTi0p7XrYQs?si=gmhDAIAwduneENdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>

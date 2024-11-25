@@ -658,7 +658,6 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 
 UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-
 ## Histórico de Versão
 
 | Versão |    Data    |                                 Descrição                                  |                     Autor(es)                      |                    Revisor(es)                     |
@@ -669,4 +668,4 @@ UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**
 |  1.3   | 10/11/2024 |                         Verificação do cronograma                          | [Samuel Ribeiro](https://github.com/SamuelRicosta) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
 |  1.4   | 10/11/2024 | Verificação de ferramentas, aplicativos avaliados e aplicativo selecionado |  [Genilson Silva](https://github.com/GenilsonJrs)  |      [Carlos Paz](https://github.com/dudupaz)      |
 |  1.5   | 14/11/2024 |                      Ajuste da estrutura do documento                      | [Alana Gabriele](https://github.com/alanagabriele) |  [Genilson Silva](https://github.com/GenilsonJrs)  |
-| 1.6    | 14/11/2024 | Adicionando referência                                | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Paz](https://github.com/dudupaz) |
+|  1.6   | 14/11/2024 |                           Adicionando referência                           | [Samuel Ribeiro](https://github.com/SamuelRicosta) |      [Carlos Paz](https://github.com/dudupaz)      |
