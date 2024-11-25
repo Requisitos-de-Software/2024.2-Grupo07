@@ -1,10 +1,10 @@
 ## Introdução
-Neste espaço, você encontrará todas as gravações das apresentações realizadas no Teams e disponibilizadas no YouTube, registrando cada uma das entregas da disciplina de Requisitos de software.
 
+Neste espaço, você encontrará todas as gravações das apresentações realizadas no Teams e disponibilizadas no YouTube, registrando cada uma das entregas da disciplina de Requisitos de software.
 
 # Etapa 1
 
-A apresentação da primeira entrega Etapa 1, onde foi apresentado o nosso planeajmento disponível abaixo em Vídeo 1. 
+A apresentação da primeira entrega Etapa 1, onde foi apresentado o nosso planeajmento disponível abaixo em Vídeo 1.
 
 <div style="text-align: center">
 <p>Vídeo 1 - Entrega da Etapa 1</p>
@@ -18,6 +18,6 @@ A apresentação da primeira entrega Etapa 1, onde foi apresentado o nosso plane
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                        |
-| ------ | :--------: | --------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 06/11/2024 | Ata 1     | [Samuel Ribeiro](https://github.com/SamuelRicosta) |   [Genilson Silva](https://github.com/GenilsonJrs) |
+| Versão |    Data    | Descrição      | Autor(es)                                          | Revisor(es)                                      |
+| ------ | :--------: | -------------- | -------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 06/11/2024 | Apresentação 1 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
