@@ -181,8 +181,44 @@ Nenhuma sugestão a ser apontada.
 </details>  
 
 <details>  
-  <summary>Persona</summary>  
-  <!-- Detalhes sobre as verificações -->  
+    <summary>Persona</summary>
+
+<!-- Personas  -->
+<h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 4: Lista de Verificação de Personas</strong></p>
+  </div>
+
+<table border="1"> <tr> <th>Pergunta</th> <th>Descrição</th> <th>Verificação</th> <th>Versão</th> <th>Imagem de Referência</th> </tr> <tr> <td>As personas têm nome e sobrenome?</td> <td>Verificar se as personas possuem nome e sobrenome completos, permitindo identificá-las de forma única.</td> <td>Não</td> <td>v1.0 - 25/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref1.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 167.</a></td> </tr> <tr> <td>As personas têm objetivos relacionados ao produto?</td> <td>Verificar se as personas possuem objetivos claros e específicos em relação ao uso do produto, para garantir a adequação do design.</td> <td>Sim</td> <td>v1.0 - 25/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref2.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>As personas possuem especialidade?</td> <td>Verificar se as personas possuem uma especialidade ou área de atuação que define seu perfil de uso do produto.</td> <td>Não</td> <td>v1.0 - 25/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref3.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>Tem descrito o que as personas precisam?</td> <td>Verificar se as necessidades das personas estão claramente descritas para orientar o design do produto.</td> <td>Sim</td> <td>v1.0 - 25/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref4.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>O elenco de personas tem entre 3 e 12 personas distintas?</td> <td>Verificar se o número de personas está dentro do intervalo adequado (entre 3 e 12), garantindo diversidade de perfis sem sobrecarga de informações.</td> <td>Sim</td> <td>v1.0 - 25/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref5.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 169.</a></td> </tr> </table>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
+
+<h2>Verificação de Personas</h2>
+
+<h2>Problemas</h2>
+As personas não possuem sobrenome e nem especialidades.
+
+<h2>Sugestões</h2>
+
+Adicionar um sobrenome vinculado ao nome fictício das pesonas, tornando-as completa e autêntica, assim como a adição de especialidades.
+
+<h2>Gravação</h2>
+
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=NBJYGwcDW6g">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 4 - Verificação de Personas </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NBJYGwcDW6g?si=j6xXnvGSvDrEQ5Yt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
+
 </details>  
 
 ## Análise dos Resultados  
@@ -199,3 +235,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |  
 | 1.0        | 25/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |  
 | 1.1        | 25/11/2024 | Implementação do perfil de usuário   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele)   |  
+| 1.2        | 25/11/2024 | Verificação Personas   | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)   |  

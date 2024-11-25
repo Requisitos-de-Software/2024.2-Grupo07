@@ -270,48 +270,7 @@ Nenhuma sugestão a ser apontada.
     <p><strong>Tabela 4: Lista de Verificação de Personas</strong></p>
   </div>
 
-<table border="1">
-  <tr>
-    <th>Pergunta</th>
-    <th>Descrição</th>
-    <th>Verificação</th>
-    <th>Imagem de Referência</th>
-  </tr>
-  <tr>
-    <td>As personas têm nome e sobrenome?</td>
-    <td>Verificar se as personas possuem nome e sobrenome completos, permitindo identificá-las de forma única.</td>
-    <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref1.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 167.</a></td>
-  </tr>
-  <tr>
-    <td>As personas têm objetivos relacionados ao produto?</td>
-    <td>Verificar se as personas possuem objetivos claros e específicos em relação ao uso do produto, para garantir a adequação do design.</td>
-    <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref2.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
-  </tr>
-  <tr>
-    <td>As personas possuem especialidade?</td>
-    <td>Verificar se as personas possuem uma especialidade ou área de atuação que define seu perfil de uso do produto.</td>
-    <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref3.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
-  </tr>
-  <tr>
-    <td>Tem descrito o que as personas precisam?</td>
-    <td>Verificar se as necessidades das personas estão claramente descritas para orientar o design do produto.</td>
-    <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref4.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
-  </tr>
-  <tr>
-    <td>O elenco de personas tem entre 3 e 12 personas distintas?</td>
-    <td>Verificar se o número de personas está dentro do intervalo adequado (entre 3 e 12), garantindo diversidade de perfis sem sobrecarga de informações.</td>
-    <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref5.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 169.</a></td>
-  </tr>
-</table>
-
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
-  </p>
+<table border="1"> <tr> <th>Pergunta</th> <th>Descrição</th> <th>Verificação</th> <th>Versão</th> <th>Imagem de Referência</th> </tr> <tr> <td>As personas têm nome e sobrenome?</td> <td>Verificar se as personas possuem nome e sobrenome completos, permitindo identificá-las de forma única.</td> <td>Sim</td> <td>v1.0 - 24/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref1.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 167.</a></td> </tr> <tr> <td>As personas têm objetivos relacionados ao produto?</td> <td>Verificar se as personas possuem objetivos claros e específicos em relação ao uso do produto, para garantir a adequação do design.</td> <td>Sim</td> <td>v1.0 - 24/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref2.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>As personas possuem especialidade?</td> <td>Verificar se as personas possuem uma especialidade ou área de atuação que define seu perfil de uso do produto.</td> <td>Sim</td> <td>v1.0 - 24/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref3.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>Tem descrito o que as personas precisam?</td> <td>Verificar se as necessidades das personas estão claramente descritas para orientar o design do produto.</td> <td>Sim</td> <td>v1.0 - 24/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref4.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td> </tr> <tr> <td>O elenco de personas tem entre 3 e 12 personas distintas?</td> <td>Verificar se o número de personas está dentro do intervalo adequado (entre 3 e 12), garantindo diversidade de perfis sem sobrecarga de informações.</td> <td>Sim</td> <td>v1.0 - 24/11</td> <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref5.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 169.</a></td> </tr> </table> <p style="text-align: center; font-size: 14px;"> Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a> </p>
 
 <h2>Verificação de Personas</h2>
 
@@ -351,5 +310,6 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**          | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 21/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 25/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.0        | 25/11/2024 | Perfil do usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 24/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 24/11/2024 | Perfil do usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.3        | 24/11/2024 | Adição de personas e correções      | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)   |
