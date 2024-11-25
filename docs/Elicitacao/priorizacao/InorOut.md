@@ -4,8 +4,6 @@ Após a elicitação de requisitos utilizando técnicas como **Entrevista**, **I
 
 Neste contexto, foi adotada a técnica **In or Out**, que organiza os requisitos em duas categorias principais: **In**, representando os requisitos essenciais, e **Out**, que abrange os itens que, embora desejáveis, não são indispensáveis para o escopo atual do projeto. Essa abordagem ajuda a alinhar expectativas com os recursos disponíveis, concentrando esforços no que é realmente importante.
 
----
-
 # Metodologia
 
 O método **In or Out** foi aplicado com base nos seguintes passos:
@@ -38,8 +36,6 @@ Os requisitos foram, então, categorizados como:
 
 Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualização clara e objetiva.
 
----
-
 ## In or Out
 
 <font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais </p></font>
@@ -64,8 +60,6 @@ Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualizaç
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
-
----
 
 ### Requisitos Não Funcionais (RNF)
 
@@ -92,22 +86,16 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
----
-
 ## Conclusão
 
 A técnica **In or Out** permitiu uma priorização clara e objetiva, auxiliando a equipe no alinhamento entre os objetivos do projeto e os recursos disponíveis. Com os requisitos indispensáveis claramente definidos como **In**, o desenvolvimento poderá focar no que é essencial, garantindo entregas de valor no menor tempo possível. Os itens classificados como **Out** poderão ser revisados para inclusão em futuras iterações do projeto, caso necessário.
 
----
-
 ## Referências
 
-1. Milene, Profa.; Maurício, Prof. _Elicitação de requisitos: técnicas - priorização._ Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: 23 nov. 2024.
-2. _Requisitos de Software: Elicitação - In or Out._ Disponível em: [link](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out). Acesso em: 23 nov. 2024.
-3. Sommerville, I. (2011). _Engenharia de Software_ (9ª ed.). Pearson.
-4. Preece, J., Rogers, Y., & Sharp, H. (2015). _Design de Interação: Além da Interação Homem-Computador_ (4ª ed.). Bookman.
-
----
+> Milene, Profa.; Maurício, Prof. _Elicitação de requisitos: técnicas - priorização._ Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: 23 nov. 2024.
+> _Requisitos de Software: Elicitação - In or Out._ Disponível em: [link](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out). Acesso em: 23 nov. 2024.
+> Sommerville, I. (2011). _Engenharia de Software_ (9ª ed.). Pearson.
+> Preece, J., Rogers, Y., & Sharp, H. (2015). _Design de Interação: Além da Interação Homem-Computador_ (4ª ed.). Bookman.
 
 ## Histórico de Versão
 
