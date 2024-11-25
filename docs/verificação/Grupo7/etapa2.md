@@ -111,8 +111,78 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </details>
 
 <details>
-
   <summary>Perfil do usuário</summary>
+
+    <div style="text-align: center;">
+    <p><strong>Tabela 3: Lista de Verificação</strong></p>
+  </div>
+
+  <table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte</th>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>O Perfil do Usuário inclui a faixa etária (criança, jovem, adulto, terceira idade, etc.)?</td>
+        <td>Sim</td>
+        <td>versão 1.0, 24/11</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>O Perfil do Usuário contém informações sobre a experiência (iniciante, leigo, especializado)?</td>
+        <td>Sim</td>
+        <td>versão 1.0, 24/11</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>O Perfil do Usuário apresenta informações sobre atitudes (tecnófilos, tecnófobos)?</td>
+        <td>Sim</td>
+        <td>versão 1.0, 24/11</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>O perfil do usuário fornece dados sobre as tarefas principais?</td>
+        <td>Sim</td>
+        <td>versão 1.0, 24/11</td>
+        <td>
+  <img src="imagens/imgTabela/Tabela1.jpg" alt="Minha Imagem" width="150" height="150">
+</td>
+    </tr>
+  </table>
+
+  <p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
+
+  <h2>Verificação de Personas</h2>
+
+<h2>Problemas</h2>
+Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+<h2>Sugestões</h2>
+
+Nenhuma sugestão a ser apontada.
+
+<h2>Gravação</h2>
+
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=sIH35BJKDB8">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 3 - Verificação de Personas </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iq64qa6kbRQ?si=IEfyaqcUDpryui0z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
 
 </details>
 
@@ -209,3 +279,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 21/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 25/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.0        | 25/11/2024 | Perfil do usuário     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
