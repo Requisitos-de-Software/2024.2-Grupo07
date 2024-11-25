@@ -59,7 +59,7 @@ Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualizaç
 | **15**            | O sistema deve melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.    | in            |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
-Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a></font>
 
 ### Requisitos Não Funcionais (RNF)
 
@@ -75,7 +75,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 | **6**             | O sistema deve oferecer o controle de privacidade.                                        | in            |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
-Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a></font>
 
 ### Gravação
 
@@ -85,6 +85,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</font>
 
 ## Conclusão
 
