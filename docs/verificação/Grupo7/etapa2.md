@@ -24,10 +24,80 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 ## Verificações
 
 <details>
-
   <summary>Técnicas de priorização</summary>
 
+  <!-- Técnicas de priorização  -->
+  <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 1: Lista de Verificação de Técnicas de Priorização</strong></p>
+  </div>
+
+<table border="1">
+  <tr>
+    <th>Número</th>
+    <th>Critério</th>
+    <th>Avaliação</th>
+    <th>Versão e Data da Última Avaliação</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>O processo de priorização contou com a participação ativa do cliente ou da persona do projeto?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Foram utilizadas pelo menos duas técnicas de priorização distintas, como MOSCOW, 100 dólares, First Things First, ROI, QFD ou outras técnicas reconhecidas?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>A técnica de MoSCoW ou 100 dólares foi aplicada apenas após a utilização de outras duas técnicas de priorização no projeto?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>A atividade de priorização foi registrada por meio de gravações ou outros registros adequados?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>Versão 1.0 - 24/11/2024</td>
+  </tr>
+</table>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.</p>
+
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/GVi_IoCutf8?si=bZ9Z_nNz3fojDfRq">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 4 - Verificação de Técnicas de Priorização</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GVi_IoCutf8?si=bZ9Z_nNz3fojDfRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+</p>
 </details>
+
 
 <details>
 
@@ -87,7 +157,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td>v1.3 - 24/11</td>
           <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/entrevista.png">IHC - Cap 7 - Técnicas de definição dos requisitos de IHC</a></td>
     </tr>
-    
+
 </table>
 
 <p style="text-align: center; font-size: 14px;">
