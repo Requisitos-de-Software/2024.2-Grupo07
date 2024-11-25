@@ -63,31 +63,31 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>As personas têm nome e sobrenome?</td>
     <td>Verificar se as personas possuem nome e sobrenome completos, permitindo identificá-las de forma única.</td>
     <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificacao/Grupo7/imagens/imgTabela/01.jpg">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 167.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref1.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 167.</a></td>
   </tr>
   <tr>
     <td>As personas têm objetivos relacionados ao produto?</td>
     <td>Verificar se as personas possuem objetivos claros e específicos em relação ao uso do produto, para garantir a adequação do design.</td>
     <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificacao/Grupo7/imagens/imgTabela/02.jpg">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref2.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
   </tr>
   <tr>
     <td>As personas possuem especialidade?</td>
     <td>Verificar se as personas possuem uma especialidade ou área de atuação que define seu perfil de uso do produto.</td>
     <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificacao/Grupo7/imagens/imgTabela/03.jpg">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref3.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
   </tr>
   <tr>
     <td>Tem descrito o que as personas precisam?</td>
     <td>Verificar se as necessidades das personas estão claramente descritas para orientar o design do produto.</td>
     <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificacao/Grupo7/imagens/imgTabela/04.jpg">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref4.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 168.</a></td>
   </tr>
   <tr>
     <td>O elenco de personas tem entre 3 e 12 personas distintas?</td>
     <td>Verificar se o número de personas está dentro do intervalo adequado (entre 3 e 12), garantindo diversidade de perfis sem sobrecarga de informações.</td>
     <td>Sim</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificacao/Grupo7/imagens/imgTabela/05.jpg">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 169.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/planejamento/imagens/ref5.png">BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Capítulo 8, item 8.2, p. 169.</a></td>
   </tr>
 </table>
 
