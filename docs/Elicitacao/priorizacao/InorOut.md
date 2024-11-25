@@ -49,8 +49,8 @@ Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualizaç
 | **05**            | O usuário deve ser capaz de receber notificações baseadas no uso do aplicativo.             | out           |
 | **06**            | O usuário deve ser capaz de personalizar o feed.                                            | in            |
 | **07**            | O usuário deve ser capaz de integrar ou desconectar a conta do Instagram.                   | out           |
-| **8**             | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                  | in            |
-| **9**             | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.         | in            |
+| **08**            | O usuário deve ser capaz de controlar quem pode visualizar suas postagens.                  | in            |
+| **09**            | O sistema deve sugerir conteúdos relevantes ao usuário com base em seus interesses.         | in            |
 | **10**            | O sistema deve permitir a criação de publicações com texto, imagens e links.                | in            |
 | **11**            | O usuário deve ser capaz de configurar a visibilidade de sua conta como pública ou privada. | in            |
 | **12**            | O sistema deve criar "Trend Topics" para destacar os assuntos mais discutidos.              | in            |
