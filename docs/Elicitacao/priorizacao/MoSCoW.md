@@ -15,6 +15,7 @@ Should Have (Deveria Ter): Requisitos importantes que agregam valor significativ
 Could Have (Poderia Ter): Requisitos desejáveis que podem ser incluídos caso haja tempo e recursos disponíveis.
 Won't Have (Não Terá): Requisitos que não serão incluídos na versão atual, mas podem ser considerados para futuras iterações.
 A classificação é realizada em colaboração com as partes interessadas, garantindo alinhamento e priorização com base no impacto do requisito e nos objetivos do projeto. Isso possibilita uma tomada de decisão informada e eficiente, promovendo um desenvolvimento ágil e focado.
+Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
 
 ## Gravação
 
@@ -67,6 +68,7 @@ A classificação é realizada em colaboração com as partes interessadas, gara
 
 ## Conclusão
 A aplicação da técnica MoSCoW no processo de priorização de requisitos para o aplicativo Threads demonstrou ser uma abordagem eficaz e estratégica. A classificação dos requisitos em categorias como "Deve Ter", "Deveria Ter", "Poderia Ter" e "Não Terá" permitiu uma visão clara das funcionalidades mais essenciais e críticas para a experiência do usuário. Esse processo facilitou a tomada de decisões informadas sobre quais recursos deveriam ser entregues imediatamente e quais poderiam ser adiados para versões futuras. A priorização ajudou a focar nos requisitos que têm maior impacto no sucesso do aplicativo, garantindo uma entrega alinhada com as expectativas dos usuários e as metas do projeto. Dessa forma, o MoSCoW contribuiu significativamente para o aprimoramento do Threads, otimizando o uso de recursos e promovendo um desenvolvimento mais ágil e eficiente.
+
 
 ## Referências
 

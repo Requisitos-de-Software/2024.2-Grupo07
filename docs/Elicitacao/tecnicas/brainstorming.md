@@ -9,6 +9,7 @@ O principal objetivo deste brainstorming foi elicitar requisitos funcionais e n�
 ## Metodologia
 
 A sessão foi realizada com 11 participantes, respeitando a recomendação de um número ideal de integrantes para fomentar a troca de ideias sem comprometer a dinâmica do grupo. Antes do início da atividade, todos os participantes autorizaram o uso de imagens e gravações realizadas durante o encontro. A metodologia seguiu denifição do tema, dinâmica de ideias, registro de ideias, agrupamento das questões e priorização dos requisitos.
+Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
 
 ## Informações da sessão 
 

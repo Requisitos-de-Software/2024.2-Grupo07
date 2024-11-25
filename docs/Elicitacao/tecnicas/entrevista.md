@@ -12,6 +12,8 @@ Optou-se pela **entrevista estruturada**, combinando questões abertas e fechada
 
 As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos em média, e os dados coletados foram analisados para gerar requisitos funcionais e não funcionais que auxiliam no aperfeiçoamento do Threads.
 
+Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
+
 ## Perguntas
 
 <table>
