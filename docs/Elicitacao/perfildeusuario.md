@@ -78,7 +78,7 @@ Com base nas informações obtidas podemos montar o perfil do usuário contido n
 
 <font size="2"><p style="text-align: center"> Tabela 1 - Perfil do Usuário </p></font>
 
-<div style="display: table; margin: auto;">
+
 
 | Característica                                   | Descrição                  |
 | ------------------------------------------------ | -------------------------- |
@@ -90,7 +90,7 @@ Com base nas informações obtidas podemos montar o perfil do usuário contido n
 | Dispositivo utilizado para acessar redes sociais | Celular                    |
 | Motivo para usar redes sociais                   | Entretenimento             |
 
-</div>
+
 
 <font size="2"><p style="text-align: center"> Autor: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
@@ -108,3 +108,4 @@ A partir da descoberta do perfil do usuário serão elaboradas as personas e tam
 | :----: | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
 |  1.0   | 22/11/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs) |
 |  1.1   | 23/11/2024 | Perfil do usuário    | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)     |
+|  1.2   | 24/11/2024 | Arrumando erros      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele)     |
