@@ -63,13 +63,17 @@ Os requisitos foram organizados em uma matriz que define os seguintes quadrantes
 
 ## 4. Apresentação em Tabela
 
-Os resultados foram organizados em uma tabela com as seguintes colunas:
+Os resultados foram organizados em uma tabela (Tabela 1) com as seguintes colunas:
 - **Requisito**: Nome ou descrição do requisito.
 - **Importância**: Classificação atribuída.
 - **Urgência**: Classificação atribuída.
 - **Decisão**: Ação sugerida com base na priorização.
 
 # Tabela de Priorização de Requisitos
+
+<div style="text-align: center">
+<p>Tabela 1 - First Thing First</p>
+</div>
 
 | Ítem | Requisito                                                                 | Tipo          | Importância | Urgência | Decisão                                    |
 |------|---------------------------------------------------------------------------|---------------|-------------|----------|--------------------------------------------|
