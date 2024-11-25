@@ -33,6 +33,80 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
   <summary>Técnicas de elicitação</summary>
 
+  <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 2: Lista de Verificação</strong></p>
+  </div>
+
+<table border="1">
+     <tr>
+        <th>Número</th>
+        <th>O GitHub Pages possui:</th>
+        <th>Avaliação</th>
+        <th>Versão e Data da Última Avaliação</th>
+    </tr>
+   <tr>
+        <td>1</td>
+        <td>Tem participação do cliente e/ou persona no processo de elicitação?</td>
+        <td>Sim</td>
+        <td>v1.0 - 24/11</td>
+        <td>
+        <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino - RE 022024 - Turma 02, versão 1</a>
+         </td>
+    </tr>
+     <tr>
+        <td>2</td>
+        <td>Tem a gravação dos processos de elicitação?</td>
+        <td>Sim</td>
+        <td>v1.0 - 24/11</td>
+        <td>
+        <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino - RE 022024 - Turma 02, versão 1</a>
+         </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Tem um moderador na sessão do brainstorming?</td>
+        <td>Sim</td>
+        <td>v1.0 - 24/11</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/brainstorming.png">IHC - Cap 7 - Técnicas de definição dos requisitos de IHC</a></td>
+    </tr>
+        <tr>
+        <td>4</td>
+        <td>Os itens do questionário são claros?</td>
+        <td>Sim</td>
+        <td>v1.0 - 21/11</td>
+         <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/questionario.png">Milene, Profa.; Maurício, Prof. Elicitação de requisitos: técnicas - priorização</a></td>
+    </tr>
+     </tr>
+        <tr>
+        <td>5</td>
+        <td>As perguntas da entrevista são curtas e claras?</td>
+        <td>Sim</td>
+        <td>v1.3 - 24/11</td>
+          <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/entrevista.png">IHC - Cap 7 - Técnicas de definição dos requisitos de IHC</a></td>
+    </tr>
+    
+</table>
+
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+  </p>
+
+<h2>Resultado</h2>
+
+<p>Nenhum problema foi encontrado.</p>
+
+<h2>Gravação</h2>
+
+<div style="text-align: center">
+<p>Vídeo 2 - Verificação do artefato</p>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEXrb-UMyUQ?si=q4lXH6JL-sYR4Fxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+  </p>
+
 </details>
 
 <details>
