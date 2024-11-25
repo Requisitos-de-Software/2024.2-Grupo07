@@ -130,30 +130,31 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td>O Perfil do Usuário inclui a faixa etária (criança, jovem, adulto, terceira idade, etc.)?</td>
         <td>Sim</td>
         <td>versão 1.0, 24/11</td>
-        <td></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verifica%C3%A7%C3%A3o/Grupo7/imagens/imgTabela/Captura%20de%20tela%202024-11-24%20205414.jpg">Fonte</a></td>
+    </tr>
     </tr>
     <tr>
         <td>02</td>
         <td>O Perfil do Usuário contém informações sobre a experiência (iniciante, leigo, especializado)?</td>
         <td>Sim</td>
         <td>versão 1.0, 24/11</td>
-        <td></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verifica%C3%A7%C3%A3o/Grupo7/imagens/imgTabela/Captura%20de%20tela%202024-11-24%20205414.jpg">Fonte</a></td>
+    </tr>
     </tr>
     <tr>
         <td>03</td>
         <td>O Perfil do Usuário apresenta informações sobre atitudes (tecnófilos, tecnófobos)?</td>
         <td>Sim</td>
         <td>versão 1.0, 24/11</td>
-        <td></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verifica%C3%A7%C3%A3o/Grupo7/imagens/imgTabela/Captura%20de%20tela%202024-11-24%20205414.jpg">Fonte</a></td>
+    </tr>
     </tr>
     <tr>
         <td>04</td>
         <td>O perfil do usuário fornece dados sobre as tarefas principais?</td>
         <td>Sim</td>
         <td>versão 1.0, 24/11</td>
-        <td>
-  <img src="imagens/imgTabela/Tabela1.jpg" alt="Minha Imagem" width="150" height="150">
-</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verifica%C3%A7%C3%A3o/Grupo7/imagens/imgTabela/Captura%20de%20tela%202024-11-24%20205414.jpg">Fonte</a></td>
     </tr>
   </table>
 
