@@ -112,6 +112,8 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 <details>
   <summary>Perfil do usuário</summary>
+  
+  <h2>Lista de Verificação</h2>
 
     <div style="text-align: center;">
     <p><strong>Tabela 3: Lista de Verificação</strong></p>
