@@ -16,6 +16,7 @@ O objetivo da técnica First Thing First é garantir que os requisitos ou ativid
 # Metodologia 
 
 Nesta seção, apresentamos os passos seguidos para aplicar o método **First Things First** na priorização de requisitos, utilizando informações coletadas por meio de diversas técnicas de elicitação.
+Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
 
 # Gravação
 

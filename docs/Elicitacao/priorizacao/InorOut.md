@@ -3,6 +3,7 @@
 Após a elicitação de requisitos utilizando técnicas como **Entrevista**, **Introspecção**, **Questionário** e **Brainstorming**, é essencial priorizar os requisitos para definir claramente o escopo do projeto.
 
 Neste contexto, foi adotada a técnica **In or Out**, que organiza os requisitos em duas categorias principais: **In**, representando os requisitos essenciais, e **Out**, que abrange os itens que, embora desejáveis, não são indispensáveis para o escopo atual do projeto. Essa abordagem ajuda a alinhar expectativas com os recursos disponíveis, concentrando esforços no que é realmente importante.
+Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
 
 # Metodologia
 
