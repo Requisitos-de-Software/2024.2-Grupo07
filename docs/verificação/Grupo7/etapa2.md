@@ -45,6 +45,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <th>O GitHub Pages possui:</th>
         <th>Avaliação</th>
         <th>Versão e Data da Última Avaliação</th>
+        <th>Imagem de Referência</th>
     </tr>
    <tr>
         <td>1</td>
@@ -111,7 +112,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 <details>
 
-  <summary>Perfil do usuáriol</summary>
+  <summary>Perfil do usuário</summary>
 
 </details>
 
@@ -165,7 +166,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   </tr>
 </table>
 
-
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
@@ -205,6 +205,7 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versão
 
-| **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                      | **Revisor(es)**                                  |
-| ---------- | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
-| 1.0        | 21/11/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| **Versão** | **Data**   | **Descrição**          | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 21/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 25/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
