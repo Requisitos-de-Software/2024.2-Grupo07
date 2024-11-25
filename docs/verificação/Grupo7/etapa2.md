@@ -112,7 +112,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 <details>
   <summary>Perfil do usuário</summary>
-  
+
   <h2>Lista de Verificação</h2>
 
     <div style="text-align: center;">
@@ -175,7 +175,7 @@ Nenhuma sugestão a ser apontada.
 
 <h2>Gravação</h2>
 
-<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=sIH35BJKDB8">YouTube.</a></p>
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/embed/iq64qa6kbRQ?si=IEfyaqcUDpryui0z">YouTube.</a></p>
 
 <div style="text-align: center">
 <p>Vídeo 3 - Verificação de Personas </p>
@@ -282,4 +282,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 21/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 25/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.0        | 25/11/2024 | Perfil do usuário     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.0        | 25/11/2024 | Perfil do usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
