@@ -36,45 +36,45 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <table border="1">
   <tr>
     <th>Número</th>
-    <th>Critério</th>
-    <th>Avaliação</th>
-    <th>Versão e Data da Última Avaliação</th>
+    <th>Critério (Pergunta)</th>
+    <th>Avaliação (Sim ou Não)</th>
+    <th>Fonte</th>
   </tr>
   <tr>
     <td>1</td>
     <td>O processo de priorização contou com a participação ativa do cliente ou da persona do projeto?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image1.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Foram utilizadas pelo menos duas técnicas de priorização distintas, como MOSCOW, 100 dólares, First Things First, ROI, QFD ou outras técnicas reconhecidas?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image2.png?raw?true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>A técnica de MoSCoW ou 100 dólares foi aplicada apenas após a utilização de outras duas técnicas de priorização no projeto?</td>
+    <td>A técnica de MoSCOW ou 100 dólares foi aplicada apenas após a utilização de outras duas técnicas de priorização no projeto?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image3.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>4</td>
     <td>A atividade de priorização foi registrada por meio de gravações ou outros registros adequados?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image4.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
     <td>Sim</td>
-    <td>Versão 1.0 - 24/11/2024</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
   </tr>
 </table>
 
