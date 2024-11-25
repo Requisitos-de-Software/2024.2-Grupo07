@@ -23,10 +23,80 @@ As verificações foram realizadas com base em uma lista de critérios de avalia
 
 ## Verificações  
 
-<details>  
-  <summary>Técnicas de priorização</summary>  
-  <!-- Detalhes sobre as verificações -->  
-</details>  
+<details>
+  <summary>Técnicas de priorização</summary>
+
+  <!-- Técnicas de priorização  -->
+  <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 1: Lista de Verificação de Técnicas de Priorização</strong></p>
+  </div>
+
+<table border="1">
+  <tr>
+    <th>Número</th>
+    <th>Critério</th>
+    <th>Avaliação</th>
+    <th>Fonte</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>O processo de priorização contou com a participação ativa do cliente ou da persona do projeto?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image1.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Foram utilizadas pelo menos duas técnicas de priorização distintas, como MOSCOW, 100 dólares, First Things First, ROI, QFD ou outras técnicas reconhecidas?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image2.png?raw?true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>A técnica de MoSCOW ou 100 dólares foi aplicada apenas após a utilização de outras duas técnicas de priorização no projeto?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image3.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>A atividade de priorização foi registrada por meio de gravações ou outros registros adequados?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image4.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
+    <td>Sim</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+</table>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.</p>
+
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=5pi_p0FsLLo">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 4 - Verificação de Técnicas de Priorização</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5pi_p0FsLLo?si=2IvyD9VaAv-1VGng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+</p>
+</details>
 
 <details>  
   <summary>Técnicas de elicitação</summary>  
