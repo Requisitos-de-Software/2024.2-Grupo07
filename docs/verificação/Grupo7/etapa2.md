@@ -36,8 +36,8 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <table border="1">
   <tr>
     <th>Número</th>
-    <th>Critério (Pergunta)</th>
-    <th>Avaliação (Sim ou Não)</th>
+    <th>Critério</th>
+    <th>Avaliação</th>
     <th>Fonte</th>
   </tr>
   <tr>
