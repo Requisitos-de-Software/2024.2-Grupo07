@@ -61,7 +61,7 @@ A classificação é realizada em colaboração com as partes interessadas, gara
 | 21   | O sistema deve oferecer o controle de privacidade.                        | Deve Ter          |
 
 <p style="text-align: center; font-size: 14px;">
-    Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
 
 
