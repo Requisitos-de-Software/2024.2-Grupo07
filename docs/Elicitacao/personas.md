@@ -40,7 +40,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 | **Requisitos**        | Busca ferramentas que priorizem velocidade, personalização e um design moderno                                                       |
 | **Atividades**        | Gabriel acessa o Threads várias vezes ao dia, principalmente em intervalos de estudos, utilizando o celular para se manter conectado |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -68,7 +68,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 | **Requisitos**        | Busca suporte para uploads rápidos, organização de postagens e integração com plataformas externas de marketing digital          |
 | **Atividades**        | Publica diariamente, geralmente utilizando o celular, aproveitando momentos livres entre compromissos profissionais e acadêmicos |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -96,7 +96,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 | **Requisitos**        | Preferência por uma interface limpa e organizada, que destaque o conteúdo visual                                             |
 | **Atividades**        | Acessa o Threads raramente, geralmente após finalizar projetos para compartilhar e buscar feedback                           |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -123,7 +123,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 | **Requisitos**        | Procura um design intuitivo e fácil de usar, que permita navegar rapidamente e encontrar o que precisa sem dificuldade.                                         |
 | **Atividades**        | Beatriz utiliza o celular para acessar a rede social em momentos de descanso, interage em grupos privados e consome conteúdo que a ajude a relaxar.             |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Carlos Eduardo](https://github.com/dudupaz), 2024.</p></font>
 
 ---
 
@@ -150,7 +150,7 @@ As figuras e tabelas de 1 a 5 apresentam elenco de personas.
 | **Requisitos**        | Ferramentas que sejam objetivas, com funções claras e de fácil acesso, evitando qualquer complexidade técnica.                                         |
 | **Atividades**        | João utiliza o computador ocasionalmente para acessar redes sociais. Raramente interage publicamente e não se envolve em comunidades ou grupos online. |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/seu_usuario), 2024.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Carlos Eduardo](https://github.com/seu_usuario), 2024.</p></font>
 
 ## Bibliografia
 
