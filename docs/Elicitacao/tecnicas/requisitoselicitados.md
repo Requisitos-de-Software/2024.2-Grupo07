@@ -43,7 +43,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
-## Histórico de Versão
+## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**          | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |

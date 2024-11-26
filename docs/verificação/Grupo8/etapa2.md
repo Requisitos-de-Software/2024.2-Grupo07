@@ -1,27 +1,27 @@
-# Verificação dos Artefatos do Projeto Sympla  
+# Verificação dos Artefatos do Projeto Sympla
 
-## Introdução  
+## Introdução
 
-Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 07, focados no projeto do aplicativo Sympla. O documento inclui as Listas de Verificação aplicadas durante as inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos com essas verificações.  
+Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 07, focados no projeto do aplicativo Sympla. O documento inclui as Listas de Verificação aplicadas durante as inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos com essas verificações.
 
-## Objetivo  
+## Objetivo
 
-A verificação tem como propósito assegurar que todos os requisitos de avaliação sejam atendidos de forma completa e consistente. A análise minuciosa dos artefatos visa garantir a qualidade do projeto, identificando eventuais inconsistências e propondo melhorias quando necessário.  
+A verificação tem como propósito assegurar que todos os requisitos de avaliação sejam atendidos de forma completa e consistente. A análise minuciosa dos artefatos visa garantir a qualidade do projeto, identificando eventuais inconsistências e propondo melhorias quando necessário.
 
-## Metodologia  
+## Metodologia
 
-As verificações foram realizadas com base em uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. O grupo elaborou uma Lista de Verificação específica para analisar os artefatos conforme os critérios estabelecidos. Durante o processo, foram registrados comentários e observações relevantes, garantindo a rastreabilidade das análises. Para assegurar imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.  
+As verificações foram realizadas com base em uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. O grupo elaborou uma Lista de Verificação específica para analisar os artefatos conforme os critérios estabelecidos. Durante o processo, foram registrados comentários e observações relevantes, garantindo a rastreabilidade das análises. Para assegurar imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
 
-## Responsáveis pelas Verificações  
+## Responsáveis pelas Verificações
 
-| Artefato                | Verificador                                        |  
-| ----------------------- | -------------------------------------------------- |  
-| Técnicas de priorização | [Carlos Paz](https://github.com/dudupaz)           |  
-| Técnicas de elicitação  | [Alana Gabriele](https://github.com/alanagabriele) |  
-| Perfil do usuário       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |  
-| Persona                 | [Genilson Silva](https://github.com/GenilsonJrs)   |  
+| Artefato                | Verificador                                        |
+| ----------------------- | -------------------------------------------------- |
+| Técnicas de priorização | [Carlos Paz](https://github.com/dudupaz)           |
+| Técnicas de elicitação  | [Alana Gabriele](https://github.com/alanagabriele) |
+| Perfil do usuário       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| Persona                 | [Genilson Silva](https://github.com/GenilsonJrs)   |
 
-## Verificações  
+## Verificações
 
 <details>
   <summary>Técnicas de priorização</summary>
@@ -45,42 +45,42 @@ As verificações foram realizadas com base em uma lista de critérios de avalia
     <td>1</td>
     <td>O processo de priorização contou com a participação ativa do cliente ou da persona do projeto?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image1.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Foram utilizadas pelo menos duas técnicas de priorização distintas, como MOSCOW, 100 dólares, First Things First, ROI, QFD ou outras técnicas reconhecidas?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image2.png?raw?true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>3</td>
     <td>A técnica de MoSCOW ou 100 dólares foi aplicada apenas após a utilização de outras duas técnicas de priorização no projeto?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image3.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>4</td>
     <td>A atividade de priorização foi registrada por meio de gravações ou outros registros adequados?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/image4.png?raw=true"> Plano de ensino - RE 022024 - Turma 02, versão 1</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td>Diretriz metodológica utilizada no projeto</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
     <td>Sim</td>
-    <td>versão 1.0 - 24/11</td>
+    <td>versão 1.1 - 24/11</td>
     <td>Diretriz metodológica utilizada no projeto</td>
   </tr>
 </table>
@@ -107,8 +107,82 @@ As verificações foram realizadas com base em uma lista de critérios de avalia
 
 <details>  
   <summary>Técnicas de elicitação</summary>  
-  <!-- Detalhes sobre as verificações -->  
-</details>  
+   <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 2: Lista de Verificação</strong></p>
+  </div>
+
+<table border="1">
+     <tr>
+        <th>Número</th>
+        <th>O GitHub Pages possui:</th>
+        <th>Avaliação</th>
+        <th>Versão e Data da Última Avaliação</th>
+        <th>Imagem de Referência</th>
+    </tr>
+   <tr>
+        <td>1</td>
+        <td>Tem participação do cliente e/ou persona no processo de elicitação?</td>
+        <td>Sim</td>
+        <td>v1.0 - 24/11</td>
+        <td>
+        <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino - RE 022024 - Turma 02, versão 1</a>
+         </td>
+    </tr>
+     <tr>
+        <td>2</td>
+        <td>Tem a gravação dos processos de elicitação?</td>
+        <td>Sim</td>
+        <td>v1.4 - 24/11</td>
+        <td>
+        <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino - RE 022024 - Turma 02, versão 1</a>
+         </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Foi utilizado um termo de consetimento para a gravação?</td>
+        <td>Sim</td>
+        <td>v1.0 - 24/11</td>
+       <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/termo.png">IHC - Cap 7 - Técnicas de definição dos requisitos de IHC</a></td>
+    </tr>
+        <tr>
+        <td>4</td>
+        <td>Os itens do questionário são claros?</td>
+        <td>Sim</td>
+        <td>v1.4 - 24/11</td>
+         <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/questionario.png">Milene, Profa.; Maurício, Prof. Elicitação de requisitos: técnicas - priorização</a></td>
+    </tr>
+     </tr>
+        <tr>
+        <td>5</td>
+        <td>As perguntas da entrevista são curtas e claras?</td>
+        <td>Sim</td>
+        <td>v1.3 - 24/11</td>
+          <td><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa2/entrevista.png">IHC - Cap 7 - Técnicas de definição dos requisitos de IHC</a></td>
+    </tr>
+
+</table>
+
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+  </p>
+
+<h2>Resultado</h2>
+
+<p>Nenhum problema foi encontrado.</p>
+
+<h2>Gravação</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtlkiiXlb5k?si=jVgYpWCzSb-v6pPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center">
+<p>Vídeo 2 - Verificação do artefato</p>
+</div>
+
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+  </p>
+
+</details>
 
 <details>  
   <summary>Perfil do usuário</summary>  
@@ -116,6 +190,7 @@ As verificações foram realizadas com base em uma lista de critérios de avalia
 
     <div style="text-align: center;">
     <p><strong>Tabela 3: Lista de Verificação</strong></p>
+
   </div>
 
   <table border="1">
@@ -185,7 +260,7 @@ Nenhuma sugestão a ser apontada.
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
   </p>
-</details>  
+</details>
 
 <details>  
     <summary>Persona</summary>
@@ -226,22 +301,22 @@ Adicionar um sobrenome vinculado ao nome fictício das pesonas, tornando-as comp
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
 
-</details>  
+</details>
 
-## Análise dos Resultados  
+## Análise dos Resultados
 
-As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.  
+As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.
 
-## Referências  
+## Referências
 
-> UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.  
+> UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-## Histórico de Versão  
+## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**          | **Autor(es)**                                      | **Revisor(es)**                                    |  
-| ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |  
-| 1.0        | 25/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |  
-| 1.1        | 25/11/2024 | Implementação do perfil de usuário   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele)   |  
-| 1.2        | 25/11/2024 | Verificação Personas   | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)   |  
-| 1.3       | 25/11/2024 | Implementação de técnicas de priorização   | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |  
-
+| **Versão** | **Data**   | **Descrição**                            | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ---------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 25/11/2024 | Criação do documento                     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.1        | 25/11/2024 | Implementação do perfil de usuário       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.2        | 25/11/2024 | Verificação Personas                     | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.3        | 25/11/2024 | Implementação de técnicas de priorização | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 25/11/2024 | Verificação de técnicas de elicitação    | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

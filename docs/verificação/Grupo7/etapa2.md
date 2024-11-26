@@ -98,7 +98,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 </details>
 
-
 <details>
 
   <summary>Técnicas de elicitação</summary>
@@ -187,6 +186,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
     <div style="text-align: center;">
     <p><strong>Tabela 3: Lista de Verificação</strong></p>
+
   </div>
 
   <table border="1">
@@ -305,11 +305,11 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 > UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-## Histórico de Versão
+## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**          | **Autor(es)**                                      | **Revisor(es)**                                    |
-| ---------- | ---------- | ---------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 21/11/2024 | Criação do documento   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 24/11/2024 | Técnicas de elicitação | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.2        | 24/11/2024 | Perfil do usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.3        | 24/11/2024 | Adição de personas e correções      | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)   |
+| **Versão** | **Data**   | **Descrição**                  | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 21/11/2024 | Criação do documento           | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 24/11/2024 | Técnicas de elicitação         | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 24/11/2024 | Perfil do usuário              | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.3        | 24/11/2024 | Adição de personas e correções | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |

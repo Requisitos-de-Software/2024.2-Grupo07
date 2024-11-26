@@ -11,9 +11,95 @@ O principal objetivo deste brainstorming foi elicitar requisitos funcionais e n�
 A sessão foi realizada com 11 participantes, respeitando a recomendação de um número ideal de integrantes para fomentar a troca de ideias sem comprometer a dinâmica do grupo. Antes do início da atividade, todos os participantes autorizaram o uso de imagens e gravações realizadas durante o encontro. A metodologia seguiu denifição do tema, dinâmica de ideias, registro de ideias, agrupamento das questões e priorização dos requisitos.
 Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Elicitacao/Termo%20de%20Consentimento.pdf">Termo de consentimento</a></td> antes de cada entrevista, validando o uso de imagem, voz e dados compartilhados pelo participante.
 
-## Informações da sessão 
+## Informações da sessão
 
 A sessão de brainstorming foi realizada no dia 21 de novembro de 2024, às 10:30, na FGA (Faculdade do Gama), com a participação de 11 pessoas. O mediador da sessão foi <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>, que conduziu as perguntas e direcionou as respostas dos participantes, enquanto <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a> registrou as informações e <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro</a> filmou o processo. A sessão teve uma duração de 40 minutos.
+
+A Tabela 1 contém as informações dos particpantes da entrevista.
+
+<div style="text-align: center">
+<p>Tabela 1 - Participantes</p>
+</div>
+<div style="display: table; margin: auto;">
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Entrevistado</th>
+    <th>Idade</th>
+    <th>Nível de experiencia com tecnologia</th>
+  </tr>
+  <tr> 
+    <td>01</td>
+    <td>Pedro</td>
+    <td>19 anos</td>
+    <td>Avançada</td>
+  </tr>
+  <tr>
+   <td>02</td>
+    <td>Rodrigo</td>
+    <td>18 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>03</td>
+    <td>Yan Santos</td>
+    <td>19 anos</td>
+    <td>Avançada</td>
+  </tr>
+  <tr>
+   <td>04</td>
+    <td>Guilherme</td>
+    <td>18 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>05</td>
+    <td>Dylan</td>
+    <td>26 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>06</td>
+    <td>Luiz Henrique</td>
+    <td>19 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>07</td>
+    <td>Paulo</td>
+    <td>22 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>08</td>
+    <td>João</td>
+    <td>19 anos</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+   <td>09</td>
+    <td>Andressa</td>
+    <td>19 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>10</td>
+    <td>Alan</td>
+    <td>18 anos</td>
+    <td>Mediana</td>
+  </tr>
+  <tr>
+   <td>11</td>
+    <td>Renan</td>
+    <td>21 anos</td>
+    <td>Avançada</td>
+  </tr>
+
+</table>
+</div>
+<font size="2"><p style="text-align: center; font-size: 14px;">
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</font>
 
 ## Gravação
 
@@ -69,9 +155,9 @@ A sessão de brainstorming foi realizada no dia 21 de novembro de 2024, às 10:3
 
 <h2>Requisitos Elicitados</h2>
 
-<p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, conforme a Tabela 1:</p>
+<p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, conforme a Tabela 2:</p>
 
-<font size="2"><p style="text-align: center">Tabela 1  - Requisitos elicitados  </p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Requisitos elicitados </p></font>
 
 <table border="1">
   <tr>
@@ -146,10 +232,10 @@ A sessão de brainstorming foi realizada no dia 21 de novembro de 2024, às 10:3
     Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
- *Legenda*
+_Legenda_
 
- - **RF**: Requisito Funcional  
- - **RNF**: Requisito Não Funcional  
+- **RF**: Requisito Funcional
+- **RNF**: Requisito Não Funcional
 
 ## Conclusão
 
@@ -157,12 +243,12 @@ A aplicação do brainstorming no processo de elicitação de requisitos para o 
 
 ## Bibliografia
 
-1. VAZQUEZ, Carlos; SIMÕES, Guilherme. *Engenharia de requisitos*. Editora Brasport, 10 ago. 2016.  
-2. Pressman, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. McGraw-Hill, 8ª edição, 2016.  
-3. Sommerville, Ian. *Software Engineering*. Pearson, 10ª edição, 2015.  
+> VAZQUEZ, Carlos; SIMÕES, Guilherme. _Engenharia de requisitos_. Editora Brasport, 10 ago. 2016.  
+> Pressman, Roger S. _Engenharia de Software: Uma Abordagem Profissional_. McGraw-Hill, 8ª edição, 2016.  
+> Sommerville, Ian. _Software Engineering_. Pearson, 10ª edição, 2015.
 
-## Histórico de Versão  
+## Histórico de Versões
 
-| **Versão** | **Data**       | **Descrição**               | **Autor(es)** | **Revisor(es)** |  
-|------------|----------------|-----------------------------|---------------|-----------------|  
-| 1.0        | 24/11/2024     | Criação do documento e adição de conteúdo       | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
+| **Versão** | **Data**   | **Descrição**                             | **Autor(es)**                                    | **Revisor(es)**                                    |
+| ---------- | ---------- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| 1.0        | 24/11/2024 | Criação do documento e adição de conteúdo | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

@@ -141,7 +141,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     </tr>
     <tr>
       <td>4</td>
-      <td>O histórico de versão está padronizado?</td>
+      <td>O Histórico de Versões está padronizado?</td>
       <td>Sim</td>
       <td>v 1.1 - 28/10</td>
     </tr>
@@ -235,7 +235,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     </tr>
     <tr>
       <td>7</td>
-      <td>Há um histórico de versão atualizado?</td>
+      <td>Há um Histórico de Versões atualizado?</td>
       <td>Sim</td>
       <td>Versão 1.0 - 08/11</td>
     </tr>
@@ -575,7 +575,6 @@ A maioria dos critérios foi atendida satisfatoriamente. Os problemas identifica
 
 UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                             | Autor(es)                                          | Revisor(es)                                        |
@@ -585,4 +584,4 @@ UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**
 | 1.2    | 08/11/2024 | Verificação do artefato de aplicativos avaliados      | [Carlos Paz](https://github.com/dudupaz)           | [Genilson Junior](https://github.com/GenilsonJrs)  |
 | 1.3    | 09/11/2024 | Verificação do heatmap                                | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.4    | 09/11/2024 | Inclusão do link do Youtube                           | [Carlos Paz](https://github.com/dudupaz)           | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.5    | 14/11/2024 | Adicionando referência                                | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Paz](https://github.com/dudupaz) |
+| 1.5    | 14/11/2024 | Adicionando referência                                | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Paz](https://github.com/dudupaz)           |

@@ -169,7 +169,7 @@ VAQUEIRO, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**. Editora Bras
 
 ---
 
-## Histórico de Versão
+## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                      | **Revisor(es)**                                  |
 | ---------- | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |

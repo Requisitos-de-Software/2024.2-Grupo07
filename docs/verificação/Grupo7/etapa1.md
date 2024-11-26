@@ -139,7 +139,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     </tr>
     <tr>
         <td>4</td>
-        <td>O histórico de versão padronizado?</td>
+        <td>O Histórico de Versões padronizado?</td>
         <td>Sim</td>
         <td>v1.0 - 08/11</td>
     </tr>
@@ -218,7 +218,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     </tr>
     <tr>
         <td>6</td>
-        <td>Há um histórico de versão atualizado?</td>
+        <td>Há um Histórico de Versões atualizado?</td>
         <td>Sim</td>
         <td>versão 1.0 - 08/11</td>
     </tr>
@@ -658,7 +658,7 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 
 UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-## Histórico de Versão
+## Histórico de Versões
 
 | Versão |    Data    |                                 Descrição                                  |                     Autor(es)                      |                    Revisor(es)                     |
 | :----: | :--------: | :------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |

@@ -9,7 +9,7 @@ Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-T
 
 O método **In or Out** foi aplicado com base nos seguintes passos:
 
-## 1. Levantamento dos Requisitos
+## Levantamento dos Requisitos
 
 Os requisitos foram coletados através das seguintes técnicas de elicitação:
 
@@ -20,7 +20,7 @@ Os requisitos foram coletados através das seguintes técnicas de elicitação:
 
 Os requisitos levantados foram organizados e preparados para a análise de priorização.
 
-## 2. Classificação In or Out
+## Classificação In or Out
 
 Cada requisito foi analisado para decidir sua inclusão no escopo atual, considerando:
 
@@ -33,13 +33,34 @@ Os requisitos foram, então, categorizados como:
 - **In**: Indispensáveis para o sucesso do projeto.
 - **Out**: Desejáveis, mas não essenciais no momento.
 
-## 3. Consolidação dos Resultados
+## Entrevista
 
-Os requisitos classificados foram organizados nas Tabelas 1 e 2 para visualização clara e objetiva.
+A Tabela 1 contém as informações dos particpantes da entrevista.
+
+<div style="text-align: center">
+<p>Tabela 1 -Participante</p>
+</div>
+<div style="display: table; margin: auto;">
+<table>
+  <tr>
+    <th>Entrevistador</th>
+    <th>Entrevistado</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
+    <td>Italo</td>
+  </tr>
+</table>
+</div>
+<font size="2"><p style="text-align: center; font-size: 14px;">
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</font>
 
 ## In or Out
 
-<font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais </p></font>
+Os requisitos classificados foram organizados nas Tabelas 2 e 3 para visualização clara e objetiva.
+
+<font size="2"><p style="text-align: center">Tabela 2 - Requisitos funcionais </p></font>
 
 | **Identificador** | **Requisito**                                                                               | **In or Out** |
 | ----------------- | ------------------------------------------------------------------------------------------- | ------------- |
@@ -64,7 +85,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 ### Requisitos Não Funcionais (RNF)
 
-<font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais </p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Requisitos não funcionais </p></font>
 
 | **Identificador** | **Requisito**                                                                             | **In or Out** |
 | ----------------- | ----------------------------------------------------------------------------------------- | ------------- |
@@ -99,7 +120,7 @@ A técnica **In or Out** permitiu uma priorização clara e objetiva, auxiliando
 > Sommerville, I. (2011). _Engenharia de Software_ (9ª ed.). Pearson.
 > Preece, J., Rogers, Y., & Sharp, H. (2015). _Design de Interação: Além da Interação Homem-Computador_ (4ª ed.). Bookman.
 
-## Histórico de Versão
+## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | -------------------- | -------------------------------------------------- | -------------------------------------------------- |

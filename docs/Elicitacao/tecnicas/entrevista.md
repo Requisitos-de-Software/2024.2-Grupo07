@@ -8,7 +8,7 @@ No presente trabalho, foi aplicada a técnica com o objetivo de analisar e levan
 
 ## Metodologia
 
-Optou-se pela **entrevista estruturada**, combinando questões abertas e fechadas, seguindo o formato diamante. Este formato inicia com perguntas mais específicas e diretas, evoluindo para questões amplas que permitem ao entrevistado expor suas opiniões, retornando posteriormente para perguntas mais específicas.
+Optou-se pela **entrevista estruturada**, combinando questões abertas e fechadas, listadas na Tabela 1, seguindo o formato diamante. Este formato inicia com perguntas mais específicas e diretas, evoluindo para questões amplas que permitem ao entrevistado expor suas opiniões, retornando posteriormente para perguntas mais específicas.
 
 As entrevistas foram realizadas presencialmente, com duração de 3 a 15 minutos em média, e os dados coletados foram analisados para gerar requisitos funcionais e não funcionais que auxiliam no aperfeiçoamento do Threads.
 
@@ -16,6 +16,9 @@ Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-T
 
 ## Perguntas
 
+<div style="text-align: center">
+<p>Tabela 1 - Perguntas</p>
+</div>
 <table>
   <tr>
     <th><strong>Número</strong></th>
@@ -58,9 +61,17 @@ Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-T
     <td>Você acha necessário ter um tema escuro ou outras opções de personalização visual no Threads?</td>
   </tr>
 </table>
+<font size="2"><p style="text-align: center; font-size: 14px;">
+Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a>
+</font>
 
 ## Entrevistas
 
+A Tabela 2 contém as informações dos particpantes das entrevistas.
+
+<div style="text-align: center">
+<p>Tabela 2 - Participantes</p>
+</div>
 <div style="display: table; margin: auto;">
 <table>
   <tr>
@@ -79,9 +90,11 @@ Foi utilizado um <td><a href="https://github.com/Requisitos-de-Software/2024.2-T
     <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
     <td>Guilherme Resende</td>
   </tr>
- 
 </table>
 </div>
+<font size="2"><p style="text-align: center; font-size: 14px;">
+Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
+</font>
 
 <details>
   <summary>Entrevista 1 - Nicollas Gabriel </summary>
@@ -363,7 +376,7 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 > Sommerville, Ian. _Software Engineering_. Pearson, 10ª edição, 2015.
 > Dados coletados diretamente por meio da aplicação da técnica de entrevista com usuários do Threads (2023).
 
-## Histórico de Versão
+## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**            | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | ------------------------ | -------------------------------------------------- | -------------------------------------------------- |
