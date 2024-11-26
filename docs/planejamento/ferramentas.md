@@ -20,6 +20,7 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 | <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/04/VSCODE-Art1.jpeg?fit=400%2C200&ssl=1" width=120>                        | Visual Studio Code | Editor de código para criação e edição da documentação. |
 | <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" width=120> | Lucidchart         | Criação do rich picture                                 |
 | <img src="https://www.luiconceitocriativo.com/eejoossa/2024/08/244421955_1062499494497845_7683090676434840618_n.jpg" width=120>              | Canva              | Criação do rich picture                                 |
+|  <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs\planejamento\imagens\ia.png?raw=true" width=120> | This person does not exist | Criação de imagens de pessoas fictícias para as Personas|
 
 <font size="2"><p style="text-align: center"> Autora: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
