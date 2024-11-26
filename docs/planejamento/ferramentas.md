@@ -44,3 +44,5 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 | ------ | ---------- | ------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
 | 1.0    | 29/10/2024 | Inserção de ferramentas         | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.1    | 13/11/2024 | Adicionando canvas e lucidchart | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)     |
+| 1.2    | 25/11/2024 | Adicionando This pearson does not exist | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele)     |
+
