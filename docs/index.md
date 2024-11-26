@@ -6,11 +6,8 @@ O objetivo desta documentação é apresentar o trabalho sobre o aplicativo Thre
 
 Logo abaixo, está a logo do aplicativo escolhido para ser trabalhado nesse projeto, o Threads (Figura 1).
 
-<div style="text-align: center">
-<p>Figura 1 - Logo do Threads</p>
-</div>
-
-![Threads](./thumbnail.png)
+<font size="2"><p style="text-align: center"> Figura 1 - Logo</p></font>
+<img src="./thumbnail.png" alt="Threads" style="border-radius: 24px;">
 
 <font size="2"><p style="text-align: center"> Fonte: [Threads](https://threads.net/?hl=pt-br) </p></font>
 
