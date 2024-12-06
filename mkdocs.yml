@@ -35,6 +35,7 @@ nav:
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
       - In or Out: Elicitacao/priorizacao/InorOut.md
   - Modelagem:
+      - Cenários: modelagem/Cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
   - Verificação:
