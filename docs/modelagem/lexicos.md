@@ -6,10 +6,7 @@ Léxico, no que tange a área de requisitos de software, refere-se ao reconhecim
 
 Os léxicos do Threads foram identificados a partir da utilização do aplicativo e dos requisitos elicitados na etapa de [Elicitação de requisitos](../../Elicitacao/tecnicas/requisitoselicitados). Na tabela 1, temos um exemplo de como os léxicos serão apresentados e descritos:
 
-<div style="text-align: center">
-<p>Tabela 1 - Exemplo</p>
-</div>
-<div style="display: table; margin: auto;">
+<font size="2"><p style="text-align: center">Exemplo. </p></font>
 
 | **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  |
 |------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
@@ -26,10 +23,7 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 
 ### Tabela de Léxicos de Verbo
 
-<div style="text-align: center">
-<p>Tabela 2 - Léxicos de Verbo</p>
-</div>
-<div style="display: table; margin: auto;">
+<font size="2"><p style="text-align: center">Tabela 2 - Léxicos de Verbo. </p></font>
 
 | **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  |
 |------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
@@ -43,10 +37,7 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 
 ### Tabela de Léxicos de Objeto
 
-<div style="text-align: center">
-<p>Tabela 3 - Léxicos de Objeto</p>
-</div>
-<div style="display: table; margin: auto;">
+<font size="2"><p style="text-align: center">Tabela 3 - Léxicos de Objeto. </p></font>
 
 | **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  |
 |------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
@@ -60,10 +51,7 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 
 ### Tabela de Léxicos de Estado
 
-<div style="text-align: center">
-<p>Tabela 4 - Léxicos de Estado</p>
-</div>
-<div style="display: table; margin: auto;">
+<font size="2"><p style="text-align: center">Tabela 4 - Léxicos de Estado. </p></font>
 
 | **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  |
 |------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|

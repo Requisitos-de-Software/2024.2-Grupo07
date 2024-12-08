@@ -50,7 +50,7 @@ A **Tabela 1** apresenta os cenários de uso do aplicativo Threads e as observa�
 
 Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes requisitos funcionais (RF) e não funcionais (RNF), conforme apresentados na **Tabela 2**:
 
-<font size="2"><p style="text-align: center">**Tabela 2** - CRequisitos elicitados com base na técnica de introspecção. </p></font>
+<font size="2"><p style="text-align: center">**Tabela 2** - Requisitos elicitados com base na técnica de introspecção. </p></font>
 
 | **Identificador** | **Requisito**                                                                    | **Tipo** |
 | ----------------- | -------------------------------------------------------------------------------- | -------- |
