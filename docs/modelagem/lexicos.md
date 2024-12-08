@@ -7,51 +7,79 @@ Léxico, no que tange a área de requisitos de software, refere-se ao reconhecim
 Os léxicos do Threads foram identificados a partir da utilização do aplicativo e dos requisitos elicitados na etapa de <a href="../../Elicitacao/tecnicas/requisitoselicitados">Elicitação de requisitos</a>. Na tabela 1, temos um exemplo de como os léxicos serão apresentados e descritos:
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Modelo dos Léxicos </p></font>
 
-|     ID              |   Descrição     |
-| ------------        | ---------------------------------- |
-|   **Léxico**        |   Nome     |
-|   **Classificação** |Objeto/Verbo/Estado |
-|   **Noção**         | Significado do símbolo  |
-|   **Impacto**       |Descrição do efeito/uso/ocorrência |
-|   **Sinônimo**      | Termo(s) alternativo(s) |
+<div style="text-align: center">
+<p>Tabela 1 - Exemplo</p>
+</div>
+<div style="display: table; margin: auto;">
 
+| **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  | **Elaborado por** |
+|------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-------------------|
+| Nome do Léxico 1          | Símbolos               | Descrição do efeito              | Sinônimo(s)          | Verbo/Objeto/Estado             | Códigos dos Requisitos                                             | Nome do Autor |
+| Nome do Léxico 2          | Símbolos               | Descrição do efeito              | Sinônimo(s)          | Verbo/Objeto/Estado             | Códigos dos Requisitos                                             | Nome do Autor |
+| Nome do Léxico 3          | Símbolos               | Descrição do efeito              | Sinônimo(s)          | Verbo/Objeto/Estado             | Códigos dos Requisitos                                             | Nome do Autor |
 
-# Léxicos
-
-
-### L01: Curtir Publicações
-
-O primeiro Léxico, presente na Tabela 3, baseia-se no seguinte requisito: <a href="../../Elicitacao/tecnicas/requisitoselicitados">RF01 - Introspecção</a>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Léxico 01: Curtir Publicações </p></font>
-
-| L01           | Descrição                                                                                                                                          |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Verbo                                                                                                                                             |
-| **Impacto**       | O usuário pode clicar no ícone de "curtir" presente em cada publicação no feed ou no perfil. Logo, a publicação terá um incremento na contagem de curtidas, e o autor da publicação será notificado. |
-| **Noção**         | Ação realizada pelo usuário para expressar aprovação ou interesse em publicações de outros usuários ou do próprio feed.                           |
-| **Sinônimo**      | Gostar, Dar like                                                                                                                                  |
+<font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a>
+</font>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs).</p></font>
+## Léxicos
 
-### L02: Comentar Publicações
+Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presentes nas tabelas 2, 3 e 4.
 
-O segundo Léxico, presente na Tabela 3, baseia-se no seguinte requisito: <a href="../../Elicitacao/tecnicas/requisitoselicitados">RF02 - Introspecção</a>
+### Tabela de Léxicos de Verbo
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Léxico 02: Curtir Publicações </p></font>
+<div style="text-align: center">
+<p>Tabela 2 - Léxicos de Verbo</p>
+</div>
+<div style="display: table; margin: auto;">
 
-| L02           | Descrição                                                                                                                                          |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classificação** | Verbo                                                                                                                                             |
-| **Impacto**       | O usuário pode clicar no botão de "comentar", inserir um texto e confirmar o comentário, assim comentário aparecerá vinculado à publicação, aumentando a interação e possivelmente gerando notificações ao autor da publicação e a outros comentadores. |
-| **Noção**         | Ação realizada pelo usuário para adicionar textos em publicações, promovendo interatividade.                           |
-| **Sinônimo**      | Adicionar comentário, responder.                                                                                                               |
+| **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  | **Elaborado por** |
+|------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-------------------|
+| Curtir           | Expressar interesse em conteúdo.  | Melhora engajamento e interação do usuário.  | "Like"            | Verbo              | <a href="../../Elicitacao/tecnicas/requisitoselicitados">01</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Comentar         | Adicionar opinião ou resposta.    | Aumenta a interação e discussões no sistema. | "Responder"       | Verbo              | <a href="../../Elicitacao/tecnicas/requisitoselicitados">02</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Repostar         | Compartilhar publicações.         | Amplia o alcance de conteúdos no sistema.    | "Compartilhar"    | Verbo              | <a href="../../Elicitacao/tecnicas/requisitoselicitados">03</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Personalizar     | Alterar configurações visuais.    | Gera uma experiência mais agradável.         | "Configurar"      | Verbo              | <a href="../../Elicitacao/tecnicas/requisitoselicitados">04</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Configurar       | Ajustar parâmetros do sistema.    | Facilita o controle de funcionalidades.      | "Ajustar"         | Verbo              | <a href="../../Elicitacao/tecnicas/requisitoselicitados">11</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
 
+<font size="2"><p style="text-align: center">Autores: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs). </a>
+</font>
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs).</p></font>
+### Tabela de Léxicos de Objeto
+
+<div style="text-align: center">
+<p>Tabela 3 - Léxicos de Objeto</p>
+</div>
+<div style="display: table; margin: auto;">
+
+| **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  | **Elaborado por** |
+|------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-------------------|
+| Publicação       | Conteúdo compartilhado.           | Centraliza interações e informações.         | "Postagem"        | Objeto             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">01</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">02</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">03</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">10</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Notificação      | Alerta de eventos no sistema.     | Mantém o usuário informado e engajado.       | "Alerta"          | Objeto             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">05</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">16</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Feed             | Fluxo de publicações personalizável.| Centraliza o acesso ao conteúdo relevante.  | "Timeline"        | Objeto             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">06</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">09</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Conta            | Perfil único de um usuário.       | Identifica e autentica o usuário.            | "Perfil"          | Objeto             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">07</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">11</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">14</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Algoritmo        | Sistema de processamento lógico.  | Prioriza conteúdos e experiências do usuário.| "Mecanismo"       | Objeto             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">09</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">15</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+
+<font size="2"><p style="text-align: center">Autores: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs). </a>
+</font>
+
+### Tabela de Léxicos de Estado
+
+<div style="text-align: center">
+<p>Tabela 4 - Léxicos de Estado</p>
+</div>
+<div style="display: table; margin: auto;">
+
+| **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  | **Elaborado por** |
+|------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-------------------|
+| Público          | Visível para todos.               | Aumenta o alcance de conteúdos.              | "Aberto"          | Estado             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">11</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Privado          | Restrito a pessoas autorizadas.   | Melhora o controle de privacidade.           | "Fechado"         | Estado             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">11</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Engajado         | Ativo no sistema.                 | Melhora a retenção de usuários.              | "Interativo"      | Estado             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">01</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">02</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">05</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Relevante        | Alinhado aos interesses.          | Facilita a experiência personalizada.        | "Significativo"   | Estado             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">09</a>, <a href="../../Elicitacao/tecnicas/requisitoselicitados">15</a> | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+| Moderado         | Filtrado e organizado.            | Evita spam e conteúdos indesejados.          | "Controlado"      | Estado             | <a href="../../Elicitacao/tecnicas/requisitoselicitados">18</a>                                             | <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </a></font> |
+
+<font size="2"><p style="text-align: center">Autores: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs). </a>
+</font>
 
 
 ## Bibliografia
@@ -63,6 +91,7 @@ O segundo Léxico, presente na Tabela 3, baseia-se no seguinte requisito: <a hre
 | Versão | Data       | Descrição            | Autor                                        | Revisor                                            |
 | :----: | ---------- | -------------------- | -------------------------------------------- | -------------------------------------------------- |
 |  1.0   | 03/12/2024 | Criação do documento e inserção de léxicos | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+|  2.0   | 03/12/2024 | Alterações, Formatação e Adição de léxicos | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 
 
 
