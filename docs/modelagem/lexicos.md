@@ -6,7 +6,7 @@ Léxico, no que tange a área de requisitos de software, refere-se ao reconhecim
 
 Os léxicos do Threads foram identificados a partir da utilização do aplicativo e dos requisitos elicitados na etapa de [Elicitação de requisitos](../../Elicitacao/tecnicas/requisitoselicitados). Na tabela 1, temos um exemplo de como os léxicos serão apresentados e descritos:
 
-<font size="2"><p style="text-align: center">Exemplo. </p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Exemplo das tabelas de Léxicos. </p></font>
 
 | **Léxico**       | **Noção**                          | **Impacto**                                   | **Sinônimo(s)**    | **Classificação** | **Requisitos Relacionados**                                                                                  |
 |------------------|------------------------------------|-----------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
@@ -72,4 +72,4 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 | Versão | Data       | Descrição            | Autor                                        | Revisor                                            |
 | :----: | ---------- | -------------------- | ------------------------------------------ | --------------------------------------------------- |
 |  1.0   | 03/12/2024 | Criação do documento e inserção de léxicos | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
-|  2.0   | 03/12/2024 | Alterações, Formatação e Adição de léxicos | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
+|  2.0   | 08/12/2024 | Alterações, Formatação e Adição de léxicos | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
