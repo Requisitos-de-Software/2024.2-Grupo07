@@ -116,11 +116,8 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <details>
   <summary>Especificação Suplementar</summary>
 
-  <!-- Técnicas de priorização  -->
-  <h2>Lista de Verificação</h2>
-
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela 4 - Especificação Suplementar </strong></p>
   </div>
 
 <table border="1">
@@ -129,32 +126,114 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <th>Critério</th>
     <th>Avaliação</th>
     <th>Fonte</th>
+    <th>Autor</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
+    <td>1</td>
+    <td>O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software?</td>
+    <td>Não</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?</td>
+    <td>Não</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>O documento identifica e descreve os requisitos de licenciamento?</td>
+    <td>Não</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>As referências utilizadas no documento são listadas de forma adequada e completa?</td>
+    <td>Sim</td>
+    <td>v1.0 - 08/12</td>
+    <td>Genilson Silva</td>
   </tr>
 </table>
 
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
+
+
 <h2>Verificação</h2>
-<p></p>
+
+<p> Durante a análise do documento, foram encontrados três erros principais. As restrições de projeto não abrangem todas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software, o que compromete a clareza nessa área. Além disso, os padrões aplicáveis ao produto não foram mencionados nem detalhados na seção de requisitos, deixando lacunas importantes na documentação. Por fim, os requisitos de licenciamento não foram identificados ou descritos, o que pode gerar problemas futuros na conformidade com as normas aplicáveis. </p>
+
+- As restrições de projeto não abrangem todas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software.
+- Os padrões aplicáveis ao produto não estão devidamente mencionados e detalhados na seção de requisitos.
+- Os requisitos de licenciamento não foram identificados nem descritos no documento.
+
 
 <h2>Sugestões</h2>
-<p></p>
+
+<p> Para corrigir os erros encontrados no documento, é necessário realizar algumas atualizações. Primeiramente, deve-se complementar a seção de restrições de projeto, garantindo que sejam incluídas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software. Além disso, é preciso adicionar informações sobre os padrões aplicáveis ao produto, detalhando-os de maneira clara e objetiva na seção de requisitos. Por fim, recomenda-se a inclusão de uma seção específica para descrever os requisitos de licenciamento, assegurando que esses pontos estejam devidamente documentados e atendam às normas exigidas. </p>
+
+- Atualizar a seção de restrições de projeto, incluindo detalhes sobre limitações de design, ferramentas de desenvolvimento e linguagens de software utilizadas.
+- Incluir os padrões aplicáveis ao produto, detalhando-os de forma clara e alinhada com os requisitos.
+- Adicionar uma seção específica para identificar e descrever os requisitos de licenciamento, garantindo que estejam devidamente documentados.
+
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=Tp9cvI9pzuc">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo </p>
+  <p>Vídeo 3 - Especificação Sumplementar </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tp9cvI9pzuc?si=FaG9DcG3oUotYF1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
 </details>
 
