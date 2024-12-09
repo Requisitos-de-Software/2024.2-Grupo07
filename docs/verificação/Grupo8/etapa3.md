@@ -123,38 +123,39 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <p><strong>Tabela: </strong></p>
   </div>
 
-<table border="1">
-  <tr>
-    <th>Número</th>
-    <th>Critério</th>
-    <th>Avaliação</th>
-    <th>Fonte</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
-  </tr>
-</table>
+| **Pergunta**                                                                                             | **Descrição**                                                                                                            | **Verificação** | **Versão** | **Fonte**                                    |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------|------------|----------------------------------------------|
+| O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos? | Verificar se os requisitos de usabilidade estão claros e incluem aspectos como tempos de treinamento e padrões exigidos.| Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?                 | Verificar se as métricas de confiabilidade estão definidas de forma precisa.                                            | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?    | Avaliar se os critérios de desempenho estão detalhados adequadamente no documento.                                      | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software? | Verificar se as restrições relacionadas ao projeto estão descritas de forma completa.                                   | Sim | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?                 | Conferir se os requisitos de suportabilidade estão descritos de forma abrangente e prática.                             | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?        | Garantir que as interfaces de usuário estão claramente descritas com seus comportamentos associados.                    | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?  | Analisar se as interfaces de hardware possuem uma descrição clara e precisa.                                           | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?                    | Certificar-se de que os padrões aplicáveis ao produto estão devidamente identificados e descritos.                      | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| O documento identifica e descreve os requisitos de licenciamento?                                       | Avaliar se os requisitos de licenciamento estão especificados no documento.                                             | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+| As referências utilizadas no documento são listadas de forma adequada e completa?                       | Verificar se as referências estão devidamente documentadas e seguem os padrões exigidos.                                | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+
 
 <h2>Verificação</h2>
-<p></p>
+
+<p> A lista de verificação foi aplicada ao grupo 8, responsável pela análise do aplicativo Sympla, no contexto da Especificação Suplementar. Após a revisão detalhada, constatou-se que não foram encontrados erros, indicando a conformidade dos requisitos suplementares documentados. </p>
 
 <h2>Sugestões</h2>
-<p></p>
+
+<p> Não há sugestões a serem feitas, pois todos os aspectos analisados estão em conformidade com os critérios estabelecidos. O documento atende plenamente às expectativas e requisitos especificados. </p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=Bdw2eMZospo">YouTube.</a></p>
 
 <div style="text-align: center;">
   <p>Vídeo </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bdw2eMZospo?si=xCBOKDj54C0MOSKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
 </details>
 
