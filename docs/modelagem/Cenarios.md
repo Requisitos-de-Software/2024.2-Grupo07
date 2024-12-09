@@ -6,8 +6,6 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 ## Cenário 1
 
-<center>
-
 **Tabela 1: Exibir e gerenciar Trend Topics**
 
 | **Cenário 1**                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -35,8 +33,6 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 </p></font>
 
 ## Cenário 2
-
-<center>
 
 **Tabela 2: Personalização do Perfil**
 
@@ -68,8 +64,6 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
 
 ## Cenário 3
 
-<center>
-
 **Tabela 3: Envio de mensagens privadas entre usuários**
 
 | **Cenário 3**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -98,7 +92,6 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
 
 ## Cenário 4
 
-<center>
 **Tabela 4: Sugestão de Post com Inteligência Artificial**
 
 | **Cenário 3**                                                                                                                                                                                                                                                                                                                                                                         |
@@ -124,7 +117,6 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
 </p></font>
-<center>
 
 ## Referências
 
