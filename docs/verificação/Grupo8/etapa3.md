@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 07 na entrega 3, focados no projeto do aplicativo Threads. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
+Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 08 na entrega 3, focados no projeto do aplicativo Sympla. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
 
 ## Objetivo
 
@@ -341,3 +341,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
 | ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 1.0        | 08/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 09/12/2024 | Arrumando texto | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
