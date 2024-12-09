@@ -14,12 +14,12 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Responsáveis pelas Verificações
 
-| Artefato                | Verificador                                        |
-| ----------------------- | -------------------------------------------------- |
-| Cenários | [Carlos Paz](https://github.com/dudupaz)           |
-| Casos de Uso  |  |
-| Especificação Suplementar   | [Genilson Silva](https://github.com/GenilsonJrs) |
-| Léxicos                 |    |
+| Artefato                  | Verificador                                        |
+| ------------------------- | -------------------------------------------------- |
+| Cenários                  | [Carlos Paz](https://github.com/dudupaz)           |
+| Casos de Uso              | [Alana Gabriele](https://github.com/alanagabriele) |
+| Especificação Suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| Léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 
 ## Verificações
 
@@ -213,7 +213,6 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                  | **Autor(es)**                                      | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 08/12/2024 | Criação do documento           | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-
+| **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
+| ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
+| 1.0        | 08/12/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |

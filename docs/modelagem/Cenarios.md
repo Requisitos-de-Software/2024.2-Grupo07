@@ -133,7 +133,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 > GABRIEL Campello; DOUGLAS Alves. **Análise de requisitos de software da aplicação Duolingo**. Disponível em: [https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/). Acesso em: 24 nov. 2023.  
 > SERRANO, Milene. **Requisitos – Aula 10**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 24 nov. 2023.
 
-| Versão | Data       | Descrição                             | Autor                                              | Revisor                                            |
-| :----: | ---------- | ------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-|  1.0   | 06/12/2024 | Criação do documento e cenarios 1 e 2 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz)       |
-|  1.1   | 08/12/2024 | Cenarios 3 e 4                        | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| Versão | Data       | Descrição                             | Autor                                              | Revisor                                          |
+| :----: | ---------- | ------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
+|  1.0   | 06/12/2024 | Criação do documento e cenarios 1 e 2 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz)     |
+|  1.1   | 08/12/2024 | Cenarios 3 e 4                        | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
