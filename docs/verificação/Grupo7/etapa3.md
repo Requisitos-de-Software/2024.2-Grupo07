@@ -201,7 +201,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </table>
 
 <p style="text-align: center; font-size: 14px;">
-    Autora: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
 
 
