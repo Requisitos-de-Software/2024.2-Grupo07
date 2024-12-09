@@ -269,3 +269,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
 | ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 1.0        | 08/12/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 08/12/2024 | Verifcaverificação do léxicos | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
