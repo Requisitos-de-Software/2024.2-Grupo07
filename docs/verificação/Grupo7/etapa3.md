@@ -164,43 +164,96 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <!-- Técnicas de priorização  -->
   <h2>Lista de Verificação</h2>
 
-  <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
-  </div>
+ <div style="text-align: center;">
+    <p><strong>Tabela 4: Lista de Verificação</strong></p>
 
 <table border="1">
-  <tr>
-    <th>Número</th>
-    <th>Critério</th>
-    <th>Avaliação</th>
-    <th>Fonte</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
-  </tr>
+    <tr>
+        <th>Número</th>
+        <th>O GitHub Pages possui:</th>
+        <th>Avaliação</th>
+        <th>Versão e Data da Última Avaliação</th>
+        <th>Imagem de Referência</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>A referência bibliográfica da definição de léxicos foi incluída?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>A foto ou trecho explicando o conceito de léxicos foi adicionada?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Os léxicos incluem a definição do usuário?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Há ligações ou conexões claras entre os léxicos?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>A página de modelagem apresenta clareza e está organizada visualmente?</td>
+        <td>Sim</td>
+        <td>versão 1.0</td>
+        <td>
+            <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de ensino</a>
+        </td>
+    </tr>
 </table>
+ <p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
 
-<h2>Verificação</h2>
-<p></p>
+<h2>Problemas</h2>
+Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
 
 <h2>Sugestões</h2>
-<p></p>
+
+Nenhuma sugestão a ser apontada.
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
 
-<div style="text-align: center;">
-  <p>Vídeo </p>
+<p >O vídeo pode ser visto direto no <a href="https://youtu.be/svG-Ic9UvoQ">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 4 - Verificação de Personas </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/svG-Ic9UvoQ?si=vvjaJT4rfibu1x8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
-</p>
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
 </details>
 
 ## Análise dos Resultados

@@ -234,8 +234,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
   </p>
 
-  <h2>Verificação de Personas</h2>
-
 <h2>Problemas</h2>
 Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
 
