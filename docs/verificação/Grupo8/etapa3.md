@@ -120,7 +120,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela 4 - Especificação Suplementar </strong></p>
   </div>
 
 <table border="1">
@@ -203,6 +203,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   </tr>
 </table>
 
+<p style="text-align: center; font-size: 14px;">
+    Autora: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
 
 
 <h2>Verificação</h2>
