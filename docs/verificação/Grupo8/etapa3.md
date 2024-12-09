@@ -123,18 +123,86 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <p><strong>Tabela: </strong></p>
   </div>
 
-| **Pergunta**                                                                                             | **Descrição**                                                                                                            | **Verificação** | **Versão** | **Fonte**                                    |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------|------------|----------------------------------------------|
-| O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos? | Verificar se os requisitos de usabilidade estão claros e incluem aspectos como tempos de treinamento e padrões exigidos.| Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?                 | Verificar se as métricas de confiabilidade estão definidas de forma precisa.                                            | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?    | Avaliar se os critérios de desempenho estão detalhados adequadamente no documento.                                      | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software? | Verificar se as restrições relacionadas ao projeto estão descritas de forma completa.                                   | Sim | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?                 | Conferir se os requisitos de suportabilidade estão descritos de forma abrangente e prática.                             | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?        | Garantir que as interfaces de usuário estão claramente descritas com seus comportamentos associados.                    | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?  | Analisar se as interfaces de hardware possuem uma descrição clara e precisa.                                           | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?                    | Certificar-se de que os padrões aplicáveis ao produto estão devidamente identificados e descritos.                      | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| O documento identifica e descreve os requisitos de licenciamento?                                       | Avaliar se os requisitos de licenciamento estão especificados no documento.                                             | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
-| As referências utilizadas no documento são listadas de forma adequada e completa?                       | Verificar se as referências estão devidamente documentadas e seguem os padrões exigidos.                                | Sim             | v1.0 - 09/12 | Autor: Genilson Silva                       |
+<table border="1">
+  <tr>
+    <th>Número</th>
+    <th>Critério</th>
+    <th>Avaliação</th>
+    <th>Fonte</th>
+    <th>Autor</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>O documento identifica e descreve os requisitos de licenciamento?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>As referências utilizadas no documento são listadas de forma adequada e completa?</td>
+    <td>Sim</td>
+    <td>v1.0 - 09/12</td>
+    <td>Genilson Silva</td>
+  </tr>
+</table>
+
 
 
 <h2>Verificação</h2>
