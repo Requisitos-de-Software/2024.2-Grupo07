@@ -30,42 +30,92 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
-  <tr>
-    <th>Número</th>
-    <th>Critério</th>
-    <th>Avaliação</th>
-    <th>Fonte</th>
+
+   <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte</th>
+   </tr>
+   <tr>
+        <td>1</td>
+        <td>Os cenários descrevem claramente o objetivo da funcionalidade?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+   </tr>
+   <tr>
+        <td>2</td>
+        <td>Todos os atores e recursos necessários estão listados de forma adequada?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+   </tr>
+   <tr>
+        <td>3</td>
+        <td>Os cenários são descritos de forma sequencial e clara, com todos os passos necessários?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
+        <td>4</td>
+        <td>As restrições e exceções estão corretamente indicadas no cenário?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
   </tr>
+    <tr>
+        <td>5</td>
+        <td>O tempo estimado para realizar o cenário está razoável e condiz com a experiência do usuário?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+    </tr>
+     <tr>
+    <td>6</td>
+    <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 09/12	</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 09/12	</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+
 </table>
 
+
 <h2>Verificação</h2>
-<p></p>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
 
 <h2>Sugestões</h2>
-<p></p>
+<p>Nenhuma sugestão a ser apontada.
+</p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/SswIZZ-0zuY?si=8SKw7gLXbQFqdH5t">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo </p>
+  <p>Vídeo 1 - Verificação de Cenários </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SswIZZ-0zuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
-</p>
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
 </details>
 
 <details>
