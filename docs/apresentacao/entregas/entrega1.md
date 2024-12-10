@@ -20,4 +20,4 @@ A apresentação da primeira entrega Etapa 1, onde foi apresentado o nosso plane
 
 | Versão |    Data    | Descrição      | Autor(es)                                          | Revisor(es)                                      |
 | ------ | :--------: | -------------- | -------------------------------------------------- | ------------------------------------------------ |
-| 1.0    | 06/11/2024 | Apresentação 1 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.0    | 06/11/2024 | Apresentação 2 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |

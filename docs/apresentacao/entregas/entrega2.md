@@ -2,7 +2,7 @@
 
 Neste espaço, você encontrará todas as gravações das apresentações realizadas no Teams e disponibilizadas no YouTube, registrando cada uma das entregas da disciplina de Requisitos de software.
 
-# Etapa 1
+# Etapa 2
 
 A apresentação da primeira entrega Etapa 2, onde foi apresentado o nosso planeajmento disponível abaixo em Vídeo 1.
 
