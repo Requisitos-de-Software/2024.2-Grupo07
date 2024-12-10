@@ -23,6 +23,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificações
 
+
 <details>
   <summary>Cenários</summary>
 
@@ -30,44 +31,93 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
-  <tr>
-    <th>Número</th>
-    <th>Critério</th>
-    <th>Avaliação</th>
-    <th>Fonte</th>
+
+   <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte</th>
+   </tr>
+   <tr>
+        <td>1</td>
+        <td>Os cenários descrevem claramente o objetivo da funcionalidade?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+   </tr>
+   <tr>
+        <td>2</td>
+        <td>Todos os atores e recursos necessários estão listados de forma adequada?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+   </tr>
+   <tr>
+        <td>3</td>
+        <td>Os cenários são descritos de forma sequencial e clara, com todos os passos necessários?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
+        <td>4</td>
+        <td>As restrições e exceções estão corretamente indicadas no cenário?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
   </tr>
+    <tr>
+        <td>5</td>
+        <td>O tempo estimado para realizar o cenário está razoável e condiz com a experiência do usuário?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 09/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972471/mod_resource/content/2/ihc-ux-%20Personas.pdf">Fonte</a></td>
+    </tr>
+     <tr>
+    <td>6</td>
+    <td>Todas as páginas de priorização apresentam introdução, metodologia e referências?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 09/12	</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Todas as páginas do documento incluem um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 09/12	</td>
+    <td>Diretriz metodológica utilizada no projeto</td>
+  </tr>
+
 </table>
 
+
 <h2>Verificação</h2>
-<p></p>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
 
 <h2>Sugestões</h2>
-<p></p>
+<p>Nenhuma sugestão a ser apontada.
+</p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/DtGPziiDlbo?si=DiA_OB63RFEMoUsO">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo </p>
+  <p>Vídeo 1 - Verificação de Cenários </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DtGPziiDlbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
-</p>
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
 </details>
-
 <details>
   <summary>Casos de Uso</summary>
 
@@ -117,7 +167,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <summary>Especificação Suplementar</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 4 - Especificação Suplementar </strong></p>
+    <p><strong>Tabela 4 - Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -348,4 +398,6 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
 | ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 1.0        | 08/12/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 1.1        | 08/12/2024 | Verifcaverificação do léxicos | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 08/12/2024 | Verifificação do léxicos | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.2        | 08/12/2024 | Verificação de cenários | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+
