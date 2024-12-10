@@ -146,6 +146,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 ## Bibliografia
 
 > Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 07 novembro 2024.
+
 > SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 13. Acesso em: 08 novembro 2024.
 
 ## Histórico de Versões
