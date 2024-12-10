@@ -23,7 +23,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificações
 
-
 <details>
   <summary>Cenários</summary>
 
@@ -31,7 +30,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: Lista de Verificação </strong></p>
+    <p><strong>Tabela 1: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -95,7 +94,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 </table>
 
-
 <h2>Verificação</h2>
 <p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
 
@@ -125,7 +123,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela 2: Lista de verificação - Casos de Uso </strong></p>
   </div>
 
 <table border="1">
@@ -136,30 +134,67 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <th>Fonte</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
+    <td>1</td>
+    <td>O modelo é claro e objetivo?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/1.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 15.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Cada caso de uso tem somente um fluxo principal?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/2.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 15.</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Os casos de uso possuem relacionamentos?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/3.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>Cada caso de uso atende a uma necessidade funcional do sistema?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/4.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>As ações estão indicadas com verbos no infinitivo?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/5.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 13.</td>
+  </tr>
+   <tr>
+    <td>6</td>
+    <td>O caso de uso é representado como uma figura oval?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/6.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
   </tr>
 </table>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+</p>
 
 <h2>Verificação</h2>
-<p></p>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
 
 <h2>Sugestões</h2>
-<p></p>
+<p>Nenhuma sugestão a ser apontada.
+</p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/h1_sMl7V57w?si=kcIVB4o10vmeg637">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo </p>
+  <p>Vídeo 1 - Verificação caso de uso </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1_sMl7V57w?si=Qynn2r2DQS9OyHC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
 </p>
 </details>
 
@@ -167,7 +202,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <summary>Especificação Suplementar</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 4 - Lista de Verificação </strong></p>
+    <p><strong>Tabela 3 - Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -254,7 +289,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
 
-
 <h2>Verificação</h2>
 
 <p> Durante a análise do documento, foram encontrados três erros principais. As restrições de projeto não abrangem todas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software, o que compromete a clareza nessa área. Além disso, os padrões aplicáveis ao produto não foram mencionados nem detalhados na seção de requisitos, deixando lacunas importantes na documentação. Por fim, os requisitos de licenciamento não foram identificados ou descritos, o que pode gerar problemas futuros na conformidade com as normas aplicáveis. </p>
@@ -263,7 +297,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 - Os padrões aplicáveis ao produto não estão devidamente mencionados e detalhados na seção de requisitos.
 - Os requisitos de licenciamento não foram identificados nem descritos no documento.
 
-
 <h2>Sugestões</h2>
 
 <p> Para corrigir os erros encontrados no documento, é necessário realizar algumas atualizações. Primeiramente, deve-se complementar a seção de restrições de projeto, garantindo que sejam incluídas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software. Além disso, é preciso adicionar informações sobre os padrões aplicáveis ao produto, detalhando-os de maneira clara e objetiva na seção de requisitos. Por fim, recomenda-se a inclusão de uma seção específica para descrever os requisitos de licenciamento, assegurando que esses pontos estejam devidamente documentados e atendam às normas exigidas. </p>
@@ -271,7 +304,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 - Atualizar a seção de restrições de projeto, incluindo detalhes sobre limitações de design, ferramentas de desenvolvimento e linguagens de software utilizadas.
 - Incluir os padrões aplicáveis ao produto, detalhando-os de forma clara e alinhada com os requisitos.
 - Adicionar uma seção específica para identificar e descrever os requisitos de licenciamento, garantindo que estejam devidamente documentados.
-
 
 <h2>Gravação</h2>
 <p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=Tp9cvI9pzuc">YouTube.</a></p>
@@ -395,9 +427,9 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
-| ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
-| 1.0        | 08/12/2024 | Criação do documento | [Carlos Eduardo](https://github.com/dudupaz) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 1.1        | 08/12/2024 | Verifificação do léxicos | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 1.2        | 08/12/2024 | Verificação de cenários | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-
+| **Versão** | **Data**   | **Descrição**              | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 08/12/2024 | Criação do documento       | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 08/12/2024 | Verifificação do léxicos   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 08/12/2024 | Verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.3        | 08/12/2024 | Verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |

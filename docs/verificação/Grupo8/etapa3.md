@@ -30,7 +30,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: Lista de Verificação </strong></p>
+    <p><strong>Tabela 1: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -94,7 +94,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 </table>
 
-
 <h2>Verificação</h2>
 <p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
 
@@ -119,13 +118,12 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </details>
 
 <details>
-  <summary>Casos de Uso</summary>
-
+  
   <!-- Técnicas de priorização  -->
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela: </strong></p>
+    <p><strong>Tabela 2: Lista de verificação - Casos de Uso </strong></p>
   </div>
 
 <table border="1">
@@ -136,30 +134,67 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <th>Fonte</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><span></a></td>
+    <td>1</td>
+    <td>O modelo é claro e objetivo?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/1.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 15.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Cada caso de uso tem somente um fluxo principal?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/2.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 15.</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Os casos de uso possuem relacionamentos?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/3.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>Cada caso de uso atende a uma necessidade funcional do sistema?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/4.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>As ações estão indicadas com verbos no infinitivo?</td>
+    <td>Incompleto</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/5.png?raw?true"> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 13.</td>
+  </tr>
+   <tr>
+    <td>6</td>
+    <td>O caso de uso é representado como uma figura oval?</td>
+    <td>Sim</td>
+    <td><span style="color: black;">Adaptado de:</span><a href="https://github.com/Requisitos-de-Software/2024.2-Bluesky/blob/main/docs/verificação/Grupo7/imagens/etapa3/6.png?raw?true"> PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. Apostila para Curso de Projeto de Sistemas Orientado a Objetos Usando a UML. Julho de 2007.</td>
   </tr>
 </table>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+</p>
 
 <h2>Verificação</h2>
-<p></p>
+<p> O caso de uso "Suporte ao usuário" nao está indicada com verbo no infinitivo.
+
+</p>
 
 <h2>Sugestões</h2>
-<p></p>
+<p>Nenhuma sugestão a ser apontada.
+</p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/h15xD6B-Ds4?si=S-MZmgM84O8EQwoF">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo </p>
+  <p>Vídeo 1 - Verificação caso de uso </p>
 </div>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h15xD6B-Ds4?si=aeVTmYFzLN1z9xKu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="" target="_blank"></a>
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
 </p>
 </details>
 
@@ -170,7 +205,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 4 - Especificação Suplementar </strong></p>
+    <p><strong>Tabela 3 - Especificação Suplementar </strong></p>
   </div>
 
 <table border="1">
@@ -256,7 +291,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
-
 
 <h2>Verificação</h2>
 
@@ -388,8 +422,9 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                | **Revisor(es)**                                  |
-| ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
-| 1.0        | 08/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 1.1        | 09/12/2024 | Arrumando texto | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 1.2        | 09/12/2024 | Inserção da verificação de cenários | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| **Versão** | **Data**   | **Descrição**                          | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | -------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 08/12/2024 | Criação do documento                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 09/12/2024 | Arrumando texto                        | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 09/12/2024 | Inserção da verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.3        | 09/12/2024 | Inserção da verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

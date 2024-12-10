@@ -10,7 +10,7 @@ O objetivo dos casos de uso é representar de forma estruturada e compreensível
 
 Utilizando o software de diagramação LucidChart, foram elaborados diagramas de casos de uso que representam de maneira clara e objetiva as interações entre os atores e o sistema. Esses diagramas visam facilitar o entendimento das funcionalidades principais, destacando os processos e relações envolvidos.
 
-Abaixo, as figuras 1, 2 e 3 apresentam os diagramas criados, acompanhados de suas respectivas simbologias e significados, proporcionando uma visão detalhada e intuitiva do sistema proposto.
+Abaixo, as figuras de 1 a 4 apresentam os diagramas criados, acompanhados de suas respectivas simbologias e significados, proporcionando uma visão detalhada e intuitiva do sistema proposto.
 
 ### Atores
 
@@ -42,6 +42,15 @@ A comunicação representa as interações entre atores e casos de uso no sistem
 
 <font size="2"><p style="text-align: center"> Autor: [Genilson Silva](https://github.com/GenilsonJrs) </p></font>
 
+### Caso de uso
+
+As elipses representam os casos de uso, os quais representam as ações e/ou fluxos.
+
+<p style="text-align: center">Figura 4 -  Caso de uso</p>
+
+![Rich Picture - BlueSky](imagens/elipse.png)
+<font size="2"><p style="text-align: center"> Autor: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
+
 ### Diagrama de caso de uso
 
 A figura 4 demonstra o diagrama de casos de uso.
@@ -54,7 +63,9 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 </p></font>
 
-### Especialização dos Casos de Uso
+### Especificação dos Casos de Uso
+
+A Especificação de Casos de Uso complementa a visão do Diagrama de Casos de Uso. Nas tabelas de 1 a 4 estão as especificações dos casos de uso.
 
 #### Caso de Uso 1: Visualizar Tópicos em Alta
 
@@ -131,6 +142,11 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
 </p></font>
+
+## Bibliografia
+
+> Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 07 novembro 2024.
+> SERRANO, Milene; SERRANO, Mauricio. Requisitos – Aula 13. Slide 13. Acesso em: 08 novembro 2024.
 
 ## Histórico de Versões
 
