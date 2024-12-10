@@ -392,3 +392,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 1.0        | 08/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.1        | 09/12/2024 | Arrumando texto | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.2        | 09/12/2024 | Inserção da verificação de cenários | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
