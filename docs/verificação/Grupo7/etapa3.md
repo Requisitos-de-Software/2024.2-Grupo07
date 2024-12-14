@@ -218,78 +218,78 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <th>Número</th>
     <th>Critério</th>
     <th>Avaliação</th>
-    <th>Fonte</th>
-    <th>Autor</th>
+    <th>Versão</th>
+    <th>Referência</th>
   </tr>
   <tr>
     <td>1</td>
     <td>O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES1.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES2.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES3.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software?</td>
     <td>Não</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES4.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES5.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>6</td>
     <td>O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES6.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>7</td>
     <td>As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES7.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>8</td>
     <td>Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?</td>
     <td>Não</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES8.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>9</td>
     <td>O documento identifica e descreve os requisitos de licenciamento?</td>
     <td>Não</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES9.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td>As referências utilizadas no documento são listadas de forma adequada e completa?</td>
     <td>Sim</td>
     <td>v1.0 - 08/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES10.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
 </table>
 
@@ -301,17 +301,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 <p> Durante a análise do documento, foram encontrados três erros principais. As restrições de projeto não abrangem todas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software, o que compromete a clareza nessa área. Além disso, os padrões aplicáveis ao produto não foram mencionados nem detalhados na seção de requisitos, deixando lacunas importantes na documentação. Por fim, os requisitos de licenciamento não foram identificados ou descritos, o que pode gerar problemas futuros na conformidade com as normas aplicáveis. </p>
 
-- As restrições de projeto não abrangem todas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software.
-- Os padrões aplicáveis ao produto não estão devidamente mencionados e detalhados na seção de requisitos.
-- Os requisitos de licenciamento não foram identificados nem descritos no documento.
-
 <h2>Sugestões</h2>
 
 <p> Para corrigir os erros encontrados no documento, é necessário realizar algumas atualizações. Primeiramente, deve-se complementar a seção de restrições de projeto, garantindo que sejam incluídas as limitações relacionadas ao design, ferramentas de desenvolvimento e linguagens de software. Além disso, é preciso adicionar informações sobre os padrões aplicáveis ao produto, detalhando-os de maneira clara e objetiva na seção de requisitos. Por fim, recomenda-se a inclusão de uma seção específica para descrever os requisitos de licenciamento, assegurando que esses pontos estejam devidamente documentados e atendam às normas exigidas. </p>
-
-- Atualizar a seção de restrições de projeto, incluindo detalhes sobre limitações de design, ferramentas de desenvolvimento e linguagens de software utilizadas.
-- Incluir os padrões aplicáveis ao produto, detalhando-os de forma clara e alinhada com os requisitos.
-- Adicionar uma seção específica para identificar e descrever os requisitos de licenciamento, garantindo que estejam devidamente documentados.
 
 <h2>Gravação</h2>
 <p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=Tp9cvI9pzuc">YouTube.</a></p>

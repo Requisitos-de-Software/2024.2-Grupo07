@@ -222,78 +222,78 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <th>Número</th>
     <th>Critério</th>
     <th>Avaliação</th>
-    <th>Fonte</th>
-    <th>Autor</th>
+    <th>Versão</th>
+    <th>Referência</th>
   </tr>
   <tr>
     <td>1</td>
     <td>O documento define claramente os requisitos de usabilidade, incluindo tempos de treinamento e padrões a serem atendidos?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES1.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Os requisitos de confiabilidade especificam métricas como disponibilidade, MTBF e MTTR?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES2.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Os critérios de desempenho incluem tempos de resposta, taxa de transferência e capacidade do sistema?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES3.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>As restrições de projeto abrangem limitações de design, ferramentas de desenvolvimento e linguagens de software?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES4.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Os requisitos de suportabilidade detalham padrões de codificação e acesso à manutenção?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES5.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>6</td>
     <td>O documento especifica as interfaces de usuário com clareza, detalhando comportamentos esperados?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES6.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>7</td>
     <td>As interfaces de hardware são descritas adequadamente, incluindo estrutura lógica e endereços físicos?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES7.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>8</td>
     <td>Os padrões aplicáveis são mencionados e detalhados na seção de requisitos do produto?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES8.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>9</td>
     <td>O documento identifica e descreve os requisitos de licenciamento?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES9.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td>As referências utilizadas no documento são listadas de forma adequada e completa?</td>
     <td>Sim</td>
     <td>v1.0 - 09/12</td>
-    <td>Genilson Silva</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/ES10.png">MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar.</a></td>
   </tr>
 </table>
 
