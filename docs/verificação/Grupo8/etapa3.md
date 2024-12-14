@@ -14,12 +14,20 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Responsáveis pelas Verificações
 
+<div style="text-align: center;">
+    <p><strong>Tabela 1 - Reponsáveis pela verificação </strong></p>
+  </div>
+
 | Artefato                  | Verificador                                        |
 | ------------------------- | -------------------------------------------------- |
 | Cenários                  | [Carlos Paz](https://github.com/dudupaz)           |
 | Casos de Uso              | [Alana Gabriele](https://github.com/alanagabriele) |
 | Especificação Suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | Léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
 
 ## Verificações
 
@@ -30,7 +38,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 1: Lista de Verificação </strong></p>
+    <p><strong>Tabela 2: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -118,12 +126,13 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </details>
 
 <details>
+<summary>Casos de Uso</summary>
   
   <!-- Técnicas de priorização  -->
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 2: Lista de verificação - Casos de Uso </strong></p>
+    <p><strong>Tabela 3: Lista de verificação - Casos de Uso </strong></p>
   </div>
 
 <table border="1">
@@ -205,7 +214,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 3 - Especificação Suplementar </strong></p>
+    <p><strong>Tabela 4 - Especificação Suplementar </strong></p>
   </div>
 
 <table border="1">
@@ -321,7 +330,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
  <div style="text-align: center;">
-    <p><strong>Tabela 4: Lista de Verificação</strong></p>
+    <p><strong>Tabela 5: Lista de Verificação</strong></p>
 
 <table border="1">
     <tr>
@@ -426,5 +435,7 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | -------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 08/12/2024 | Criação do documento                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 09/12/2024 | Arrumando texto                        | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.2        | 09/12/2024 | Inserção da verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.3        | 09/12/2024 | Inserção da verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 09/12/2024 | Inserção da verificação de especificação suplementar   | [Genilson Silva](https://github.com/GenilsonJrs)       | [Carlos Eduardo](https://github.com/dudupaz) |
+| 1.3        | 09/12/2024 | Inserção da verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 09/12/2024 | Inserção da verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.5        | 13/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
