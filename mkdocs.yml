@@ -37,10 +37,16 @@ nav:
       - MoSCoW: Elicitacao/priorizacao/MoSCoW.md
       - In or Out: Elicitacao/priorizacao/InorOut.md
   - Modelagem:
+    - Modelagem:
       - Cenários: modelagem/Cenarios.md
       - Casos de Uso: modelagem/casosdeuso.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
       - Léxicos: modelagem/lexicos.md
+    - Ágil:
+      - NFR Framework: modelagem/agil/nfrFramework.md
+      - Histórias de Usuário: modelagem/agil/historiaUsuario.md  
+      - Backlog: modelagem/agil/backlog.md
+
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
