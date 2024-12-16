@@ -67,6 +67,8 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 A Especificação de Casos de Uso complementa a visão do Diagrama de Casos de Uso. Nas tabelas de 1 a 4 estão as especificações dos casos de uso.
 
+<font size="2"><p style="text-align: center">Tabela 1 - Caso de uso 1 </p></font>
+
 #### Caso de Uso 1: Visualizar Tópicos em Alta
 
 | **UC01**              | **Informações**                                                                                                                                                                                      |
@@ -85,6 +87,8 @@ A Especificação de Casos de Uso complementa a visão do Diagrama de Casos de U
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
 </p></font>
+
+<font size="2"><p style="text-align: center">Tabela 2 - Caso de uso 2 </p></font>
 
 #### Caso de Uso 2: Editar Perfil
 
@@ -105,6 +109,8 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 </p></font>
 
+<font size="2"><p style="text-align: center">Tabela 3 - Caso de uso 3 </p></font>
+
 #### Caso de Uso 3: Enviar Mensagem
 
 | **UC03**              | **Informações**                                                                                                                                              |
@@ -123,6 +129,8 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 
 </p></font>
+
+<font size="2"><p style="text-align: center">Tabela 4 - Caso de uso 4 </p></font>
 
 #### Caso de Uso 4: Criar Post
 
