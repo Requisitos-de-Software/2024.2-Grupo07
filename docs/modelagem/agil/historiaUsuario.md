@@ -1,6 +1,12 @@
 ## Introdução
 
+A técnica ágil, popularizada no desenvolvimento de software, foca na entrega contínua de valor e flexibilidade para responder rapidamente às mudanças e necessidades do cliente. Uma das metodologias ágeis mais utilizadas é o **desenvolvimento iterativo e incremental**, onde o trabalho é realizado em ciclos curtos chamados "sprints". Cada sprint termina em um conjunto de funcionalidades prontas, testadas e validadas. Dentro desse contexto, as **Histórias de Usuário** desempenham um papel crucial. Elas funcionam como uma ferramenta para comunicar os requisitos funcionais de maneira clara e acessível, orientando o desenvolvimento de funcionalidades de acordo com as necessidades dos usuários finais.
+
 ## Metodologia
+
+As Histórias de Usuário são utilizadas para entender o que os usuários desejam de um sistema ou aplicação, descrevendo as funcionalidades desejadas a partir da perspectiva do usuário. Elas são organizadas em uma estrutura clara, que inclui critérios de aceitação e prioridade, permitindo que os desenvolvedores e stakeholders alinhem-se com os objetivos e expectativas do usuário.
+
+Abaixo, estão listadas as tabelas que representam os requisitos funcionais e não funcionais deste projeto, usando o formato de Histórias de Usuário.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo </p></font>
 
@@ -430,9 +436,378 @@
 
 </details>
 
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
-</p>
+<details>
+  <summary>US11 - Agendamento de Publicações</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 11 - Agendamento de Publicações</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>RF01</td>
+        <td>Eu, como usuário, posso agendar publicações para horários futuros.</td>
+        <td>
+          <b>Critério 1 - Agendamento de Publicações</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu criar uma postagem e escolher uma data e horário futuros, <br>
+          <b>Então</b> o sistema deve agendar a publicação.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US12 - Reações Variadas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 12 - Reações Variadas</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>RF02</td>
+        <td>Eu, como usuário, posso reagir às publicações com opções variadas além de "curtir".</td>
+        <td>
+          <b>Critério 1 - Reações Variadas</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu visualizar uma publicação, <br>
+          <b>Então</b> devo poder escolher entre várias opções de reação (ex.: "adorar", "haha").
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US13 - Tradução Automática</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 13 - Tradução Automática</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US13</td>
+        <td>Eu, como usuário, posso traduzir automaticamente publicações para meu idioma preferido.</td>
+        <td>
+          <b>Critério 1 - Tradução Automática</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu visualizar uma publicação em outro idioma, <br>
+          <b>Então</b> devo poder traduzir para meu idioma preferido.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US14 - Denúncia de Contas ou Postagens</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 14 - Denúncia de Contas ou Postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US14</td>
+        <td>Eu, como usuário, posso denunciar contas ou postagens que violem as regras da plataforma.</td>
+        <td>
+          <b>Critério 1 - Denúncia de Postagens</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu visualizar uma publicação inadequada, <br>
+          <b>Então</b> devo poder denunciá-la.
+        </td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Critério 2 - Denúncia de Contas</td>
+        <td>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> acessar um perfil inadequado, <br>
+          <b>Então</b> devo poder denunciá-lo.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US15 - Compartilhamento Externo</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 15 - Compartilhamento Externo</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US15</td>
+        <td>Eu, como usuário, posso compartilhar postagens diretamente em plataformas externas.</td>
+        <td>
+          <b>Critério 1 - Compartilhamento Externo</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu clicar para compartilhar uma postagem, <br>
+          <b>Então</b> devo ver opções de plataformas externas.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US16 - Backup e Restauração de Dados</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 16 - Backup e Restauração de Dados</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US16</td>
+        <td>Eu, como usuário, posso fazer backup e restaurar meus dados (postagens e configurações).</td>
+        <td>
+          <b>Critério 1 - Backup de Dados</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu acessar as configurações, <br>
+          <b>Então</b> devo poder criar um backup.
+        </td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Critério 2 - Restauração de Dados</td>
+        <td>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> acessar as configurações, <br>
+          <b>Então</b> devo restaurar o backup.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>  
+
+<details>
+  <summary>US17 - Histórico de Interações</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 17 - Histórico de Interações</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US17</td>
+        <td>Eu, como usuário, posso visualizar o histórico de interações com outros usuários.</td>
+        <td>
+          <b>Critério 1 - Histórico de Interações</b> <br>
+          <b>Dado</b> que sou um usuário, <br>
+          <b>Quando</b> eu acessar meu perfil, <br>
+          <b>Então</b> devo poder ver o histórico de interações (mensagens, comentários, likes).
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US18 - Rascunhos Offline</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 18 - Rascunhos Offline</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US18</td>
+        <td>Eu, como usuário, posso criar e salvar rascunhos de postagens offline.</td>
+        <td>
+          <b>Critério 1 - Rascunhos Offline</b> <br>
+          <b>Dado</b> que sou um usuário,<br> 
+          <b>Quando</b> estiver offline, <br>
+          <b>Então</b> devo criar e salvar rascunhos que poderão ser publicados quando online.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US19 - Respostas Anônimas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 19 - Respostas Anônimas</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US19</td>
+        <td>Eu, como usuário, posso responder anonimamente em discussões públicas moderadas.</td>
+        <td>
+          <b>Critério 1 - Respostas Anônimas</b> <br>
+          <b>Dado</b> que sou um usuário,<br> 
+          <b>Quando</b> estiver em uma discussão pública,<br> 
+          <b>Então</b> devo responder anonimamente, visível apenas para moderadores.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+<details>
+  <summary>US20 - Criação de Comunidades</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 20 - Criação de Comunidades</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US20</td>
+        <td>Eu, como usuário, posso criar comunidades ou grupos temáticos dentro da plataforma.</td>
+        <td>
+          <b>Critério 1 - Criação de Comunidades</b> <br>
+          <b>Dado</b> que sou um usuário,<br> 
+          <b>Quando</b> desejar criar um grupo,<br> 
+          <b>Então</b> devo configurar nome, descrição e regras da comunidade.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+</details>
+
+
+<font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
 
 ## Referências
 
@@ -445,3 +820,4 @@
 | Versão | Data       | Descrição           | Autor                                              | Revisor                                      |
 | :----: | ---------- | ------------------- | -------------------------------------------------- | -------------------------------------------- |
 |  1.0   | 16/12/2024 | História do usuário | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz) |
+|  1.1   | 16/12/2024 | acionando histórico de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
