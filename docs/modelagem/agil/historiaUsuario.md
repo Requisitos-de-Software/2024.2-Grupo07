@@ -440,7 +440,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US11 - Agendamento de Publicações</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 11 - Agendamento de Publicações</strong></p>
+    <p><strong>Tabela 12 - Agendamento de Publicações</strong></p>
   </div>
 
   <table>
@@ -475,7 +475,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US12 - Reações Variadas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 12 - Reações Variadas</strong></p>
+    <p><strong>Tabela 13 - Reações Variadas</strong></p>
   </div>
 
   <table>
@@ -510,7 +510,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US13 - Tradução Automática</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 13 - Tradução Automática</strong></p>
+    <p><strong>Tabela 14 - Tradução Automática</strong></p>
   </div>
 
   <table>
@@ -545,7 +545,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US14 - Denúncia de Contas ou Postagens</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 14 - Denúncia de Contas ou Postagens</strong></p>
+    <p><strong>Tabela 15 - Denúncia de Contas ou Postagens</strong></p>
   </div>
 
   <table>
@@ -590,7 +590,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US15 - Compartilhamento Externo</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 15 - Compartilhamento Externo</strong></p>
+    <p><strong>Tabela 16 - Compartilhamento Externo</strong></p>
   </div>
 
   <table>
@@ -625,7 +625,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US16 - Backup e Restauração de Dados</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 16 - Backup e Restauração de Dados</strong></p>
+    <p><strong>Tabela 17 - Backup e Restauração de Dados</strong></p>
   </div>
 
   <table>
@@ -670,7 +670,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US17 - Histórico de Interações</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 17 - Histórico de Interações</strong></p>
+    <p><strong>Tabela 18 - Histórico de Interações</strong></p>
   </div>
 
   <table>
@@ -705,7 +705,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US18 - Rascunhos Offline</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 18 - Rascunhos Offline</strong></p>
+    <p><strong>Tabela 19 - Rascunhos Offline</strong></p>
   </div>
 
   <table>
@@ -740,7 +740,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US19 - Respostas Anônimas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 19 - Respostas Anônimas</strong></p>
+    <p><strong>Tabela 20 - Respostas Anônimas</strong></p>
   </div>
 
   <table>
@@ -775,7 +775,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
   <summary>US20 - Criação de Comunidades</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 20 - Criação de Comunidades</strong></p>
+    <p><strong>Tabela 21 - Criação de Comunidades</strong></p>
   </div>
 
   <table>
@@ -806,8 +806,397 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 
 </details>
 
+<details>
+  <summary>US21 - Salvar postagens para leitura posterior</summary>
 
-<font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
+  <div style="text-align: center;">
+    <p><strong>Tabela 22 - Salvar postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US21</td>
+        <td>Eu, como usuário, posso salvar postagens para leitura posterior em uma seção específica do meu perfil, para facilitar o acesso a conteúdos importantes.</td>
+        <td>
+          <b>Critério 1 - Botão de Salvar</b> <br>
+          <b>Dado</b> que sou um usuário visualizando uma postagem, <br>
+          <b>Quando</b> eu clicar no botão "Salvar", <br>
+          <b>Então</b> a postagem deve ser adicionada à seção de "Salvos" no meu perfil. <br><br>
+          <b>Critério 2 - Listagem no Perfil</b> <br>
+          <b>Dado</b> que sou um usuário acessando a seção "Salvos", <br>
+          <b>Quando</b> eu visualizar a lista, <br>
+          <b>Então</b> todas as postagens salvas devem ser exibidas em ordem cronológica.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US22 - Sugerir novos usuários para seguir</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 23 - Sugerir novos usuários</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US22</td>
+        <td>Eu, como usuário, desejo receber sugestões de novos usuários para seguir, baseadas nos meus interesses e interações, para expandir minha rede.</td>
+        <td>
+          <b>Critério 1 - Sugestões Personalizadas</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar a aba de sugestões, <br>
+          <b>Então</b> devo ver uma lista de usuários recomendados baseada nos meus interesses. <br><br>
+          <b>Critério 2 - Interação com Sugestões</b> <br>
+          <b>Dado</b> que estou visualizando as sugestões, <br>
+          <b>Quando</b> clicar em "Seguir", <br>
+          <b>Então</b> o usuário selecionado deve ser adicionado à minha lista de seguidos.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US23 - Compartilhar postagens em plataformas externas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 24 - Compartilhar postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US23</td>
+        <td>Eu, como usuário, posso compartilhar postagens diretamente em plataformas externas, para aumentar o alcance do conteúdo.</td>
+        <td>
+          <b>Critério 1 - Opção de Compartilhar</b> <br>
+          <b>Dado</b> que sou um usuário visualizando uma postagem, <br>
+          <b>Quando</b> clicar no botão "Compartilhar", <br>
+          <b>Então</b> deve abrir uma lista de plataformas externas disponíveis. <br><br>
+          <b>Critério 2 - Confirmação de Compartilhamento</b> <br>
+          <b>Dado</b> que selecionei uma plataforma externa, <br>
+          <b>Quando</b> confirmar o compartilhamento, <br>
+          <b>Então</b> o conteúdo deve ser publicado na plataforma selecionada.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US24 - Criar enquetes interativas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 25 - Criar enquetes</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US24</td>
+        <td>Eu, como usuário, posso criar enquetes interativas em minhas postagens, para engajar minha audiência.</td>
+        <td>
+          <b>Critério 1 - Formulário de Enquete</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> criar uma nova postagem, <br>
+          <b>Então</b> devo ter a opção de adicionar uma enquete com no máximo 4 opções de resposta. <br><br>
+          <b>Critério 2 - Resultados em Tempo Real</b> <br>
+          <b>Dado</b> que uma enquete foi publicada, <br>
+          <b>Quando</b> outros usuários votarem, <br>
+          <b>Então</b> os resultados devem ser atualizados em tempo real.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US25 - Agendar postagens</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 26 - Agendar postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US25</td>
+        <td>Eu, como usuário, posso agendar postagens para horários específicos, para otimizar a visibilidade do conteúdo.</td>
+        <td>
+          <b>Critério 1 - Escolha de Data e Hora</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> criar uma postagem, <br>
+          <b>Então</b> devo ter a opção de selecionar a data e hora para publicação. <br><br>
+          <b>Critério 2 - Publicação Automática</b> <br>
+          <b>Dado</b> que uma postagem foi agendada, <br>
+          <b>Quando</b> o horário agendado chegar, <br>
+          <b>Então</b> a postagem deve ser publicada automaticamente.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US26 - Denunciar contas ou postagens</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 27 - Denunciar contas ou postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US26</td>
+        <td>Eu, como usuário, posso denunciar contas ou postagens que violem as regras da comunidade, para melhorar a segurança da plataforma.</td>
+        <td>
+          <b>Critério 1 - Opção de Denúncia</b> <br>
+          <b>Dado</b> que estou visualizando uma postagem ou perfil, <br>
+          <b>Quando</b> clicar no botão "Denunciar", <br>
+          <b>Então</b> devo ver uma lista de motivos predefinidos para a denúncia. <br><br>
+          <b>Critério 2 - Confirmação de Denúncia</b> <br>
+          <b>Dado</b> que selecionei um motivo, <br>
+          <b>Quando</b> confirmar a denúncia, <br>
+          <b>Então</b> o sistema deve registrar a denúncia e exibir uma mensagem de confirmação.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US27 - Ocultar publicações antigas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 28 - Ocultar publicações antigas</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US27</td>
+        <td>Eu, como usuário, posso ocultar publicações antigas do meu perfil sem precisar excluí-las, para manter a privacidade.</td>
+        <td>
+          <b>Critério 1 - Opção de Ocultar</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar minhas publicações antigas, <br>
+          <b>Então</b> devo ter a opção de ocultar uma publicação. <br><br>
+          <b>Critério 2 - Visualização Privada</b> <br>
+          <b>Dado</b> que uma publicação está oculta, <br>
+          <b>Quando</b> acessar meu perfil, <br>
+          <b>Então</b> somente eu devo conseguir visualizar essa publicação.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US28 - Fazer backup e restaurar dados</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 29 - Fazer backup e restaurar dados</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US28</td>
+        <td>Eu, como usuário, posso fazer backup e restaurar meus dados, como postagens e configurações, para evitar perda de informações importantes.</td>
+        <td>
+          <b>Critério 1 - Backup Manual</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar as configurações, <br>
+          <b>Então</b> devo ter a opção de gerar um backup dos meus dados. <br><br>
+          <b>Critério 2 - Restauração de Dados</b> <br>
+          <b>Dado</b> que tenho um arquivo de backup, <br>
+          <b>Quando</b> acessar a opção de restaurar dados, <br>
+          <b>Então</b> o sistema deve restaurar minhas postagens e configurações com sucesso.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US29 - Filtrar conteúdos no feed</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 30 - Filtrar conteúdos</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US29</td>
+        <td>Eu, como usuário, posso filtrar conteúdos no feed com base em categorias específicas, para visualizar apenas o que for relevante para mim.</td>
+        <td>
+          <b>Critério 1 - Opção de Filtro</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar meu feed, <br>
+          <b>Então</b> devo ter a opção de selecionar categorias específicas para filtrar os conteúdos exibidos. <br><br>
+          <b>Critério 2 - Atualização em Tempo Real</b> <br>
+          <b>Dado</b> que um filtro foi aplicado, <br>
+          <b>Quando</b> novos conteúdos forem carregados, <br>
+          <b>Então</b> apenas os conteúdos que atendem ao filtro devem ser exibidos.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<details>
+  <summary>US30 - Adicionar legendas automáticas aos vídeos</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 31 - Adicionar legendas automáticas</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US30</td>
+        <td>Eu, como usuário, posso adicionar legendas automáticas aos vídeos que envio, com suporte para múltiplos idiomas, para torná-los acessíveis.</td>
+        <td>
+          <b>Critério 1 - Geração Automática</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> enviar um vídeo, <br>
+          <b>Então</b> devo ter a opção de gerar legendas automáticas com suporte a múltiplos idiomas. <br><br>
+          <b>Critério 2 - Editar Legendas</b> <br>
+          <b>Dado</b> que as legendas foram geradas, <br>
+          <b>Quando</b> acessar a opção de edição, <br>
+          <b>Então</b> devo poder corrigir ou ajustar o texto gerado automaticamente.
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele), [Samuel Ribeiro](https://github.com/SamuelRicosta) e [Carlos Eduardo](https://github.com/dudupaz). </p></font>
 
 ## Referências
 
@@ -820,4 +1209,5 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 | Versão | Data       | Descrição           | Autor                                              | Revisor                                      |
 | :----: | ---------- | ------------------- | -------------------------------------------------- | -------------------------------------------- |
 |  1.0   | 16/12/2024 | História do usuário | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz) |
-|  1.1   | 16/12/2024 | acionando histórico de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.1   | 16/12/2024 | Acionando histórias de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
