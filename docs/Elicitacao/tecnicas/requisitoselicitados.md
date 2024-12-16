@@ -65,6 +65,8 @@ Este documento apresenta os requisitos levantados para o projeto, identificados 
 | **55**            | O sistema deve permitir que o usuário defina preferências de anúncios, como limitar tipos de anúncios exibidos.                                         | Brainstorming | RF       |
 | **56**            | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.                             | Brainstorming | RNF      |
 | **57**            | O sistema deve exibir uma confirmação visual (ex.: animação ou alerta) assim que o usuário realizar ações como curtir, salvar ou compartilhar conteúdo. | Brainstorming | RF       |
+| **58**            | O sistema deve possibilitar o usuário a filtrar conteúdos no feed com base em categorias específicas.                             | Brainstorming | RF      |
+| **59**            | O sistema deve possibilitar ao usuário adicionar legendas automáticas aos vídeos que envia, com suporte para múltiplos idiomas. | Brainstorming | RF       |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva </a>
@@ -78,3 +80,4 @@ Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva <
 | 2.1        | 08/12/2024 | Alterações e formatação | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 2.2        | 13/12/2024 | Adição de requisitos    | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 2.3        | 16/12/2024 | Adição de requisitos    | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
+| 2.4        | 16/12/2024 | Adição de requisitos    | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele)       |
