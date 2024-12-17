@@ -1226,7 +1226,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> desejar ajustar o conteúdo, <br>
           <b>Então</b> devo ser capaz de editar ou complementar o texto.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1264,7 +1264,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> quiser modificar minha reação, <br>
           <b>Então</b> devo conseguir substituir a reação anterior.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1302,7 +1302,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> houver conexão, <br>
           <b>Então</b> devo poder publicá-lo diretamente.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1340,7 +1340,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> acessar a lista de agendamentos, <br>
           <b>Então</b> devo poder editar ou cancelar o agendamento.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1378,7 +1378,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> quiser adicionar um comentário antes de compartilhar, <br>
           <b>Então</b> devo poder incluir texto adicional.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1416,7 +1416,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> gerenciar membros, <br>
           <b>Então</b> devo poder aceitar, remover ou banir usuários.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1454,7 +1454,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> rolar a página, <br>
           <b>Então</b> novos conteúdos devem ser carregados progressivamente.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1492,7 +1492,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> quiser alternar, <br>
           <b>Então</b> devo poder mudar de conta com um único clique.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1530,7 +1530,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> iniciar a recuperação, <br>
           <b>Então</b> o sistema deve validar minha identidade por email ou telefone.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1568,7 +1568,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Quando</b> acessar a opção de restauração, <br>
           <b>Então</b> o sistema deve recuperar minhas postagens e configurações anteriores.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
