@@ -30,7 +30,8 @@ Os softgoals desempenham um papel essencial na modelagem e no atendimento dos re
 <font size=""><p style="text-align: center"> **Figura 1:** Tipos de Softgoals  
 </p></font>
 
-![Softgoals](\docs\modelagem\imagens\softgoals.png)
+
+![Softgoals](../imagens/softgoals.png)
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
 </p></font>
@@ -55,7 +56,7 @@ Para uma visualização prática dos símbolos e suas categorizações, consulte
 <font size=""><p style="text-align: center"> **Figura 2:** Rótulos de propagação de impacto
 </p></font>
 
-![Rotulos](imagens/rotulos.png)
+![Rotulos](../imagens/rotulos.png)
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
  </p></font>
@@ -134,7 +135,7 @@ Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 <font size=""><p style="text-align: center"> **Figura 3:** Rótulos de propagação de impacto
 </p></font>
 
-![Sig](imagens/SIG.png)
+![Sig](../imagens/SIG.png)
 
 ### Propagacao dos Impactos - Usabilidade
 
