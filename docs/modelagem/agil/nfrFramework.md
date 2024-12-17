@@ -37,7 +37,7 @@ Os softgoals desempenham um papel essencial na modelagem e no atendimento dos re
 
 ---
 
-## Avaliação de Softgoals  
+### Avaliação de Softgoals  
 
 A avaliação de *softgoals* envolve a análise do nível de satisfação dos requisitos não funcionais, considerando um conjunto de decisões baseadas nas interações entre os requisitos e suas implicações. Esse processo permite identificar como os *softgoals* contribuem para a realização dos objetivos do sistema, bem como compreender possíveis conflitos e incertezas.  
 
@@ -84,6 +84,8 @@ A análise de contribuições e decomposições desempenha um papel crucial na c
 ---
 ### Tabela de Requisitos Não Funcionais
 
+A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
+
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Não Funcionais</p></font>
 
 | **ID**   | **Descrição**                                                                                   | **Rastreabilidade**                |
@@ -116,6 +118,9 @@ Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais r
 
 
 ### Requisitos
+
+Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 3:
+
 - **RQ01**: O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores
 
 - **RQ05**: O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.
@@ -131,7 +136,7 @@ Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 
 ![Sig](imagens/SIG.png)
 
-# Propagacao dos Impactos - Usabilidade
+### Propagacao dos Impactos - Usabilidade
 
 A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 3.
 
