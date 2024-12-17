@@ -6,7 +6,7 @@ A técnica ágil, popularizada no desenvolvimento de software, foca na entrega c
 
 As Histórias de Usuário são utilizadas para entender o que os usuários desejam de um sistema ou aplicação, descrevendo as funcionalidades desejadas a partir da perspectiva do usuário. Elas são organizadas em uma estrutura clara, que inclui critérios de aceitação e prioridade, permitindo que os desenvolvedores e stakeholders alinhem-se com os objetivos e expectativas do usuário.
 
-Abaixo, estão listadas as tabelas que representam os requisitos funcionais e não funcionais deste projeto, usando o formato de Histórias de Usuário.
+Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias de Usuário. As Tabelas 2 a 42 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo </p></font>
 
@@ -462,7 +462,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu criar uma postagem e escolher uma data e horário futuros, <br>
           <b>Então</b> o sistema deve agendar a publicação.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -497,7 +497,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu visualizar uma publicação, <br>
           <b>Então</b> devo poder escolher entre várias opções de reação (ex.: "adorar", "haha").
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -532,7 +532,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu visualizar uma publicação em outro idioma, <br>
           <b>Então</b> devo poder traduzir para meu idioma preferido.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -612,7 +612,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu clicar para compartilhar uma postagem, <br>
           <b>Então</b> devo ver opções de plataformas externas.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -647,7 +647,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu acessar as configurações, <br>
           <b>Então</b> devo poder criar um backup.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
       <tr>
         <td></td>
@@ -664,7 +664,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 
-</details>  
+</details>
 
 <details>
   <summary>US17 - Histórico de Interações</summary>
@@ -692,7 +692,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> eu acessar meu perfil, <br>
           <b>Então</b> devo poder ver o histórico de interações (mensagens, comentários, likes).
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -727,7 +727,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> estiver offline, <br>
           <b>Então</b> devo criar e salvar rascunhos que poderão ser publicados quando online.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -762,7 +762,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> estiver em uma discussão pública,<br> 
           <b>Então</b> devo responder anonimamente, visível apenas para moderadores.
         </td>
-        <td>Média</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -797,7 +797,7 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
           <b>Quando</b> desejar criar um grupo,<br> 
           <b>Então</b> devo configurar nome, descrição e regras da comunidade.
         </td>
-        <td>Alta</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -1206,8 +1206,8 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor                                              | Revisor                                      |
-| :----: | ---------- | ------------------- | -------------------------------------------------- | -------------------------------------------- |
-|  1.0   | 16/12/2024 | História do usuário | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz) |
+| Versão | Data       | Descrição                      | Autor                                              | Revisor                                            |
+| :----: | ---------- | ------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+|  1.0   | 16/12/2024 | História do usuário            | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
 |  1.1   | 16/12/2024 | Acionando histórias de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
-|  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+|  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

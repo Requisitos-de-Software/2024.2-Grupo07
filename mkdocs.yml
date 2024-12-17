@@ -44,8 +44,8 @@ nav:
       - Léxicos: modelagem/lexicos.md
     - Ágil:
       - NFR Framework: modelagem/agil/nfrFramework.md
-      - Histórias de Usuário: modelagem/agil/historiaUsuario.md  
       - Backlog: modelagem/agil/backlog.md
+      - Histórias de Usuário: modelagem/agil/historiaUsuario.md  
 
   - Verificação:
     - Nosso Grupo (Grupo 7):
