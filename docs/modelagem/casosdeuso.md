@@ -28,6 +28,8 @@ O sistema proposto é definido pelos casos de uso e suas relações internas, al
 
 <p style="text-align: center">Figura 2 - Sistema</p>
 
+![Softgoals](../imagens/softgoals.png)
+
 ![Rich Picture - BlueSky](imagens/Sistema.png)
 
 <font size="2"><p style="text-align: center"> Autor: [Genilson Silva](https://github.com/GenilsonJrs) </p></font>
