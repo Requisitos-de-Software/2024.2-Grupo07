@@ -28,11 +28,7 @@ O framework leva em consideração o conceito de *softgoal*, que se refere a um 
 <font size=""><p style="text-align: center"> **Figura 1:** Tipos de Softgoals  
 </p></font>
 
-
-
-<center>
-![](\modelagem\imagens\softgoals.png)
-</center>
+![Softgoals](imagens\softgoals.png)
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
 </p></font>
@@ -50,9 +46,7 @@ Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse pr
 <font size=""><p style="text-align: center"> **Figura 2:** Rótulos de propagação de impacto
 </p></font>
 
-<center>
-![](\modelagem\imagens\rotulos.png)
-</center>
+![Rótulos](imagens\rotulos.png)
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
  </p></font>
@@ -124,9 +118,7 @@ Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 <font size=""><p style="text-align: center"> **Figura 3:** Rótulos de propagação de impacto
 </p></font>
 
-<center>
-![](\modelagem\imagens\SIG.png)
-</center>
+![Sig](imagens\SIG.png)
 
 # Propagacao dos Impactos - Usabilidade
 
