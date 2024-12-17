@@ -202,49 +202,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US05 - Responder anonimamente em discussões públicas moderadas</summary>
+  <summary>US05 - Tradução automática de publicações</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 6 - Respostas Anônimas</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US05</td>
-        <td>Eu, como usuário, posso responder anonimamente em discussões públicas moderadas para compartilhar opiniões sem revelar minha identidade.</td>
-        <td>
-          <b>Critério 1 - Resposta Anônima</b> <br>
-          <b>Dado</b> que estou participando de uma discussão pública moderada, <br>
-          <b>Quando</b> eu optar por responder anonimamente, <br>
-          <b>Então</b> minha resposta deve ser exibida sem associar meu perfil ao conteúdo publicado. <br><br>
-          <b>Critério 2 - Moderação de Respostas</b> <br>
-          <b>Dado</b> que respondi anonimamente, <br>
-          <b>Quando</b> minha resposta for publicada, <br>
-          <b>Então</b> ela deve passar por moderação antes de ser exibida publicamente.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
-
-</details>
-
-<details>
-  <summary>US06 - Tradução automática de publicações</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 7 - Tradução Automática</strong></p>
+    <p><strong>Tabela 6 - Tradução Automática</strong></p>
   </div>
 
   <table>
@@ -277,10 +238,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US07 - Reduzir anúncios intrusivos e ajustar algoritmos para maior transparência</summary>
+  <summary>US06 - Reduzir anúncios intrusivos e ajustar algoritmos para maior transparência</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 8 - Anúncios e Algoritmos</strong></p>
+    <p><strong>Tabela 7 - Anúncios e Algoritmos</strong></p>
   </div>
 
   <table>
@@ -316,10 +277,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US08 - Implementar moderação para reduzir bots e publicações irrelevantes</summary>
+  <summary>US07 - Implementar moderação para reduzir bots e publicações irrelevantes</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 9 - Moderação de Bots e Conteúdo</strong></p>
+    <p><strong>Tabela 8 - Moderação de Bots e Conteúdo</strong></p>
   </div>
 
   <table>
@@ -355,10 +316,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US09 - Upload de vídeos em alta definição</summary>
+  <summary>US08 - Upload de vídeos em alta definição</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 10 - Upload de Vídeos</strong></p>
+    <p><strong>Tabela 9 - Upload de Vídeos</strong></p>
   </div>
 
   <table>
@@ -394,10 +355,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US10 - Exibir confirmação visual para ações do usuário</summary>
+  <summary>US09 - Exibir confirmação visual para ações do usuário</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 11 - Confirmação Visual</strong></p>
+    <p><strong>Tabela 10 - Confirmação Visual</strong></p>
   </div>
 
   <table>
@@ -435,242 +396,11 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 </details>
-
 <details>
-  <summary>US11 - Agendamento de Publicações</summary>
+  <summary>US10 - Histórico de Interações</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 12 - Agendamento de Publicações</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>RF01</td>
-        <td>Eu, como usuário, posso agendar publicações para horários futuros.</td>
-        <td>
-          <b>Critério 1 - Agendamento de Publicações</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu criar uma postagem e escolher uma data e horário futuros, <br>
-          <b>Então</b> o sistema deve agendar a publicação.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US12 - Reações Variadas</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 13 - Reações Variadas</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>RF02</td>
-        <td>Eu, como usuário, posso reagir às publicações com opções variadas além de "curtir".</td>
-        <td>
-          <b>Critério 1 - Reações Variadas</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu visualizar uma publicação, <br>
-          <b>Então</b> devo poder escolher entre várias opções de reação (ex.: "adorar", "haha").
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US13 - Tradução Automática</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 14 - Tradução Automática</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US13</td>
-        <td>Eu, como usuário, posso traduzir automaticamente publicações para meu idioma preferido.</td>
-        <td>
-          <b>Critério 1 - Tradução Automática</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu visualizar uma publicação em outro idioma, <br>
-          <b>Então</b> devo poder traduzir para meu idioma preferido.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US14 - Denúncia de Contas ou Postagens</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 15 - Denúncia de Contas ou Postagens</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US14</td>
-        <td>Eu, como usuário, posso denunciar contas ou postagens que violem as regras da plataforma.</td>
-        <td>
-          <b>Critério 1 - Denúncia de Postagens</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu visualizar uma publicação inadequada, <br>
-          <b>Então</b> devo poder denunciá-la.
-        </td>
-        <td>Alta</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Critério 2 - Denúncia de Contas</td>
-        <td>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> acessar um perfil inadequado, <br>
-          <b>Então</b> devo poder denunciá-lo.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US15 - Compartilhamento Externo</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 16 - Compartilhamento Externo</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US15</td>
-        <td>Eu, como usuário, posso compartilhar postagens diretamente em plataformas externas.</td>
-        <td>
-          <b>Critério 1 - Compartilhamento Externo</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu clicar para compartilhar uma postagem, <br>
-          <b>Então</b> devo ver opções de plataformas externas.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US16 - Backup e Restauração de Dados</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 17 - Backup e Restauração de Dados</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US16</td>
-        <td>Eu, como usuário, posso fazer backup e restaurar meus dados (postagens e configurações).</td>
-        <td>
-          <b>Critério 1 - Backup de Dados</b> <br>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> eu acessar as configurações, <br>
-          <b>Então</b> devo poder criar um backup.
-        </td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Critério 2 - Restauração de Dados</td>
-        <td>
-          <b>Dado</b> que sou um usuário, <br>
-          <b>Quando</b> acessar as configurações, <br>
-          <b>Então</b> devo restaurar o backup.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US17 - Histórico de Interações</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 18 - Histórico de Interações</strong></p>
+    <p><strong>Tabela 11 - Histórico de Interações</strong></p>
   </div>
 
   <table>
@@ -702,45 +432,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US18 - Rascunhos Offline</summary>
+  <summary>US11 - Respostas Anônimas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 19 - Rascunhos Offline</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US18</td>
-        <td>Eu, como usuário, posso criar e salvar rascunhos de postagens offline.</td>
-        <td>
-          <b>Critério 1 - Rascunhos Offline</b> <br>
-          <b>Dado</b> que sou um usuário,<br> 
-          <b>Quando</b> estiver offline, <br>
-          <b>Então</b> devo criar e salvar rascunhos que poderão ser publicados quando online.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US19 - Respostas Anônimas</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 20 - Respostas Anônimas</strong></p>
+    <p><strong>Tabela 12 - Respostas Anônimas</strong></p>
   </div>
 
   <table>
@@ -772,45 +467,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US20 - Criação de Comunidades</summary>
+  <summary>US12 - Salvar postagens para leitura posterior</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 21 - Criação de Comunidades</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US20</td>
-        <td>Eu, como usuário, posso criar comunidades ou grupos temáticos dentro da plataforma.</td>
-        <td>
-          <b>Critério 1 - Criação de Comunidades</b> <br>
-          <b>Dado</b> que sou um usuário,<br> 
-          <b>Quando</b> desejar criar um grupo,<br> 
-          <b>Então</b> devo configurar nome, descrição e regras da comunidade.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-
-</details>
-
-<details>
-  <summary>US21 - Salvar postagens para leitura posterior</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 22 - Salvar postagens</strong></p>
+    <p><strong>Tabela 13 - Salvar postagens</strong></p>
   </div>
 
   <table>
@@ -846,10 +506,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US22 - Sugerir novos usuários para seguir</summary>
+  <summary>US13 - Sugerir novos usuários para seguir</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 23 - Sugerir novos usuários</strong></p>
+    <p><strong>Tabela 14 - Sugerir novos usuários</strong></p>
   </div>
 
   <table>
@@ -885,49 +545,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US23 - Compartilhar postagens em plataformas externas</summary>
+  <summary>US14 - Criar enquetes interativas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 24 - Compartilhar postagens</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US23</td>
-        <td>Eu, como usuário, posso compartilhar postagens diretamente em plataformas externas, para aumentar o alcance do conteúdo.</td>
-        <td>
-          <b>Critério 1 - Opção de Compartilhar</b> <br>
-          <b>Dado</b> que sou um usuário visualizando uma postagem, <br>
-          <b>Quando</b> clicar no botão "Compartilhar", <br>
-          <b>Então</b> deve abrir uma lista de plataformas externas disponíveis. <br><br>
-          <b>Critério 2 - Confirmação de Compartilhamento</b> <br>
-          <b>Dado</b> que selecionei uma plataforma externa, <br>
-          <b>Quando</b> confirmar o compartilhamento, <br>
-          <b>Então</b> o conteúdo deve ser publicado na plataforma selecionada.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
-
-</details>
-
-<details>
-  <summary>US24 - Criar enquetes interativas</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 25 - Criar enquetes</strong></p>
+    <p><strong>Tabela 15 - Criar enquetes</strong></p>
   </div>
 
   <table>
@@ -961,51 +582,11 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 
 </details>
-
 <details>
-  <summary>US25 - Agendar postagens</summary>
+  <summary>US16 - Denunciar contas ou postagens</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 26 - Agendar postagens</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US25</td>
-        <td>Eu, como usuário, posso agendar postagens para horários específicos, para otimizar a visibilidade do conteúdo.</td>
-        <td>
-          <b>Critério 1 - Escolha de Data e Hora</b> <br>
-          <b>Dado</b> que sou um usuário autenticado, <br>
-          <b>Quando</b> criar uma postagem, <br>
-          <b>Então</b> devo ter a opção de selecionar a data e hora para publicação. <br><br>
-          <b>Critério 2 - Publicação Automática</b> <br>
-          <b>Dado</b> que uma postagem foi agendada, <br>
-          <b>Quando</b> o horário agendado chegar, <br>
-          <b>Então</b> a postagem deve ser publicada automaticamente.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
-
-</details>
-
-<details>
-  <summary>US26 - Denunciar contas ou postagens</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 27 - Denunciar contas ou postagens</strong></p>
+    <p><strong>Tabela 17 - Denunciar contas ou postagens</strong></p>
   </div>
 
   <table>
@@ -1041,10 +622,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US27 - Ocultar publicações antigas</summary>
+  <summary>US17 - Ocultar publicações antigas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 28 - Ocultar publicações antigas</strong></p>
+    <p><strong>Tabela 18 - Ocultar publicações antigas</strong></p>
   </div>
 
   <table>
@@ -1080,10 +661,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US28 - Fazer backup e restaurar dados</summary>
+  <summary>US18 - Fazer backup e restaurar dados</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 29 - Fazer backup e restaurar dados</strong></p>
+    <p><strong>Tabela 19 - Fazer backup e restaurar dados</strong></p>
   </div>
 
   <table>
@@ -1119,10 +700,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US29 - Filtrar conteúdos no feed</summary>
+  <summary>US19 - Filtrar conteúdos no feed</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 30 - Filtrar conteúdos</strong></p>
+    <p><strong>Tabela 20 - Filtrar conteúdos</strong></p>
   </div>
 
   <table>
@@ -1158,10 +739,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US30 - Adicionar legendas automáticas aos vídeos</summary>
+  <summary>US20 - Adicionar legendas automáticas aos vídeos</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 31 - Adicionar legendas automáticas</strong></p>
+    <p><strong>Tabela 21 - Adicionar legendas automáticas</strong></p>
   </div>
 
   <table>
@@ -1197,10 +778,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US31 - Sugerir textos de postagens com IA</summary>
+  <summary>US21 - Sugerir textos de postagens com IA</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 31 - Sugerir textos de postagens com IA</strong></p>
+    <p><strong>Tabela 22 - Sugerir textos de postagens com IA</strong></p>
   </div>
 
   <table>
@@ -1235,10 +816,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US32 - Oferecer reações variadas para publicações</summary>
+  <summary>US22 - Oferecer reações variadas para publicações</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 32 - Reações variadas para publicações</strong></p>
+    <p><strong>Tabela 23 - Reações variadas para publicações</strong></p>
   </div>
 
   <table>
@@ -1273,10 +854,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US33 - Criar e salvar rascunhos offline</summary>
+  <summary>US23 - Criar e salvar rascunhos offline</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 33 - Criar e salvar rascunhos offline</strong></p>
+    <p><strong>Tabela 24 - Criar e salvar rascunhos offline</strong></p>
   </div>
 
   <table>
@@ -1311,10 +892,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US34 - Agendar postagens</summary>
+  <summary>US23 - Agendar postagens</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 34 - Agendar postagens</strong></p>
+    <p><strong>Tabela 24 - Agendar postagens</strong></p>
   </div>
 
   <table>
@@ -1349,10 +930,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US35 - Compartilhar postagens em plataformas externas</summary>
+  <summary>US24 - Compartilhar postagens em plataformas externas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 35 - Compartilhar postagens externamente</strong></p>
+    <p><strong>Tabela 25 - Compartilhar postagens externamente</strong></p>
   </div>
 
   <table>
@@ -1387,10 +968,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US36 - Criar comunidades ou grupos temáticos</summary>
+  <summary>US26 - Criar comunidades ou grupos temáticos</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 36 - Criar comunidades ou grupos temáticos</strong></p>
+    <p><strong>Tabela 27 - Criar comunidades ou grupos temáticos</strong></p>
   </div>
 
   <table>
@@ -1425,48 +1006,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US37 - Carregar o feed rapidamente</summary>
+  <summary>US27 - Gerenciar múltiplas contas</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 37 - Carregar o feed rapidamente</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US37</td>
-        <td>Eu, como usuário, posso visualizar o feed carregando rapidamente, mesmo com um grande volume de conteúdo.</td>
-        <td>
-          <b>Critério 1 - Carregamento Eficiente</b> <br>
-          <b>Dado</b> que sou um usuário autenticado, <br>
-          <b>Quando</b> acessar o feed, <br>
-          <b>Então</b> o sistema deve carregar as postagens em menos de 2 segundos. <br><br>
-          <b>Critério 2 - Paginação ou Scroll Progressivo</b> <br>
-          <b>Dado</b> que estou navegando pelo feed, <br>
-          <b>Quando</b> rolar a página, <br>
-          <b>Então</b> novos conteúdos devem ser carregados progressivamente.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
-</details>
-
-<details>
-  <summary>US38 - Gerenciar múltiplas contas</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 38 - Gerenciar múltiplas contas</strong></p>
+    <p><strong>Tabela 28 - Gerenciar múltiplas contas</strong></p>
   </div>
 
   <table>
@@ -1501,10 +1044,10 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 </details>
 
 <details>
-  <summary>US39 - Oferecer autenticação avançada</summary>
+  <summary>US28 - Oferecer autenticação avançada</summary>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 39 - Oferecer autenticação avançada</strong></p>
+    <p><strong>Tabela 29 - Oferecer autenticação avançada</strong></p>
   </div>
 
   <table>
@@ -1529,44 +1072,6 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
           <b>Dado</b> que esqueci minha senha, <br>
           <b>Quando</b> iniciar a recuperação, <br>
           <b>Então</b> o sistema deve validar minha identidade por email ou telefone.
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
-</details>
-
-<details>
-  <summary>US40 - Backup e restauração de dados</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 40 - Backup e restauração de dados</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US40</td>
-        <td>Eu, como usuário, posso fazer backup e restaurar meus dados, incluindo postagens e configurações, para evitar perdas.</td>
-        <td>
-          <b>Critério 1 - Realizar Backup</b> <br>
-          <b>Dado</b> que sou um usuário autenticado, <br>
-          <b>Quando</b> acessar a opção de backup, <br>
-          <b>Então</b> devo poder salvar meus dados em um arquivo seguro. <br><br>
-          <b>Critério 2 - Restaurar Dados</b> <br>
-          <b>Dado</b> que possuo um arquivo de backup, <br>
-          <b>Quando</b> acessar a opção de restauração, <br>
-          <b>Então</b> o sistema deve recuperar minhas postagens e configurações anteriores.
         </td>
         <td></td>
       </tr>
