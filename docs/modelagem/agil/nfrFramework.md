@@ -79,18 +79,81 @@ Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse pr
 ---
 ### Tabela de Requisitos Não Funcionais
 
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Não Funcionais</p></font>
+
 | **ID**   | **Descrição**                                                                                   | **Rastreabilidade**                |
-|----------|-------------------------------------------------------------------------------------------------|----------------------------------- |
-| RNF01    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. |                               |
-| RNF02    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. |                             |
-| RNF03    | O sistema deve permitir que o usuário altere suas preferências de notificações para personalizar a experiência. |                    |
-| RNF04    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. |                 |
+|----------|-------------------------------------------------------------------------------------------------|-----------------------------------|
+| RNF01    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. |                                   |
+| RNF02    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. |                                 |
+| RNF03    | O sistema deve permitir que o usuário altere suas preferências de notificações para personalizar a experiência. |                                  |
+| RNF04    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. |                             |
+| RNF05    | O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.                      |                                   |
+| RNF06    | O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.       |                                   |
+| RNF07    | O sistema deve permitir que o usuário defina um tema escuro ou claro no aplicativo.                |                                   |
+| RNF08    | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos. |                                  |
+| RNF09    | O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+. |                                   |
+| RNF10    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. | |
+| RNF11    | O sistema deve permitir que o usuário defina preferências de anúncios, como limitar tipos de anúncios exibidos. | |
+| RNF12    | O sistema deve permitir que o usuário personalize a exibição de postagens no feed (por exemplo, mostrando mais fotos). | |
+| RNF13    | O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge. | |
+
 
 
 <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 
 ---
+## NFR Framework - NFR01: Compatibilidade e Performance
 
+### Descrição
+
+Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados à compatibilidade e performance do sistema Threads. Esses requisitos são cruciais para garantir que o sistema seja acessível e eficiente em diferentes ambientes de uso, desde dispositivos móveis até navegadores web antigos e modernos.
+
+
+
+### Requisitos
+- **RQ01**: O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores
+
+- **RQ05**: O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.
+
+- **RQ09**: O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+.
+
+- **RQ13**: O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge.
+
+Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
+
+<font size=""><p style="text-align: center"> **Figura 3:** Rótulos de propagação de impacto
+</p></font>
+
+<center>
+![](\modelagem\imagens\SIG.png)
+</center>
+
+# Propagacao dos Impactos - Usabilidade
+
+A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - tabela de Impactos </p></font>
+
+| **NFR**                       | **Impacto** | **Avaliador**       |
+|-------------------------------|-------------|--------------------|
+| Compatibilidade e Performance | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Compatibilidade               | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Dispositivos Moveis           | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Android 8.0+                  | **𝒲+**      | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| iOS 12+                       | **𝒲+**      | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Navegadores Antigos           | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Chrome 70+                    | **𝒲+**      | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Firefox 70+                   | **𝒲+**      | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Navegadores Modernos          | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Chrome                        | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Safari                        | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Edge                          | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Performance                   | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Otimizacao                    | **✓**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+| Pouca Memoria RAM             | **X**       | [Samuel Ribeiro](https://github.com/SamuelRicosta)           |
+
+
+<p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 
 
 ---
@@ -106,3 +169,4 @@ Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse pr
 | Versão | Data       | Descrição           | Autor                                              | Revisor                                      |
 | :----: | ---------- | ------------------- | -------------------------------------------------- | -------------------------------------------- |
 |  1.0   | 16/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.1   | 17/12/2024 | implementação do NFR01   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
