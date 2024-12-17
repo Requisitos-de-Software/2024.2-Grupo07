@@ -17,6 +17,8 @@ O framework leva em consideração o conceito de *softgoal*, que se refere a um 
 
 ### Tipos de Softgoals
 
+Os softgoals desempenham um papel essencial na modelagem e no atendimento dos requisitos não funcionais (NFR). Eles são classificados em diferentes tipos conforme apresentado na **Tabela 1**, que detalha suas características e finalidades. A **Figura 1** ilustra visualmente esses tipos, permitindo uma melhor compreensão de suas representações e relações no contexto do desenvolvimento do sistema.
+
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Tipos de Softgoals</p></font>
 
 | Tipo de Softgoal               | Descrição                                                                                                                                          |
@@ -35,13 +37,20 @@ O framework leva em consideração o conceito de *softgoal*, que se refere a um 
 
 ---
 
-Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse processo determina o quanto os requisitos não funcionais são satisfatórios por meio de um conjunto de decisões. Para tal, atribuímos os rótulos de:  
-- "Satisfeito",  
-- "Parcialmente satisfeito",  
-- "Não atendido",  
-- "Parcialmente não atendido",  
-- "Conflitante",  
-- "Indeterminado".
+## Avaliação de Softgoals  
+
+A avaliação de *softgoals* envolve a análise do nível de satisfação dos requisitos não funcionais, considerando um conjunto de decisões baseadas nas interações entre os requisitos e suas implicações. Esse processo permite identificar como os *softgoals* contribuem para a realização dos objetivos do sistema, bem como compreender possíveis conflitos e incertezas.  
+
+A seguir, são apresentados os tipos de avaliação dos *softgoals* e suas respectivas categorizações:  
+
+- **✓ Satisfeito**: Indica que o requisito não funcional foi plenamente atendido.  
+- **𝒲+ Parcialmente satisfeito**: Representa uma satisfação parcial, onde o requisito foi atendido, mas com algumas limitações.  
+- **X Não atendido**: Indica que o requisito não funcional não foi realizado.  
+- **𝒲- Parcialmente não atendido**: Refere-se a uma realização negativa parcial, onde o requisito apresenta falhas, mas não completamente.  
+- **🗲 Conflitante**: Aponta para uma relação de conflito entre os requisitos, onde existem elementos positivos e negativos simultaneamente.  
+- **u Indeterminado**: Representa um estado desconhecido ou incerto, onde não há informações suficientes para determinar o nível de atendimento do requisito.  
+
+Para uma visualização prática dos símbolos e suas categorizações, consulte a **Figura 2**.
 
 <font size=""><p style="text-align: center"> **Figura 2:** Rótulos de propagação de impacto
 </p></font>
@@ -54,6 +63,8 @@ Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse pr
 ---
 
 ### Tipos de Contribuições e Decomposições
+
+A análise de contribuições e decomposições desempenha um papel crucial na compreensão do impacto dos elementos sobre os softgoals. A **Tabela 2** apresenta os diferentes tipos de contribuições (positivas e negativas) e suas intensidades, além de destacar os mecanismos de decomposição AND e OR, que indicam as condições necessárias para a satisfação de um softgoal.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tipos de Contribuições e Decomposições</p></font>
 
