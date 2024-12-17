@@ -73,11 +73,11 @@ Autor: Silva, Reinaldo Antônio.
 ### Tabela de Requisitos Não Funcionais
 
 | **ID**   | **Descrição**                                                                                   | **Rastreabilidade**                |
-|----------|-------------------------------------------------------------------------------------------------|-----------------------------------|
-| RNF01    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. | Compatibilidade - Mobile          |
-| RNF02    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. | Segurança - Armazenamento de Dados |
-| RNF03    | O sistema deve permitir que o usuário altere suas preferências de notificações para personalizar a experiência. | Personalização de Notificações    |
-| RNF04    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. | Desempenho - Tempo de Carregamento  |
+|----------|-------------------------------------------------------------------------------------------------|----------------------------------- |
+| RNF01    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. |                               |
+| RNF02    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. |                             |
+| RNF03    | O sistema deve permitir que o usuário altere suas preferências de notificações para personalizar a experiência. |                    |
+| RNF04    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. |                 |
 
 
 <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
