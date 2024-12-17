@@ -9,148 +9,176 @@
     <tr>
       <th>Épico</th>
       <th>Feature</th>
-      <th>História de Usuário (ID e Título)</th>
+      <th>Histórias de Usuário (ID e Título)</th>
       <th>Prioridade</th>
     </tr>
   </thead>
   <tbody>
+    <!-- Épico 1 - Configurações -->
     <tr>
-      <td rowspan="7">Épico 1 - Configurações</td>
-      <td>Feature 1 - Visibilidade</td>
+      <td rowspan="8">Épico 1 - Configurações</td>
+      <td rowspan="2">Feature 1 - Visibilidade</td>
       <td>US01 - Configurar visibilidade como pública ou privada</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 2 - Autenticação</td>
-      <td>US39 - Oferecer autenticação avançada</td>
+      <td>US40 - Configurar status online ou offline</td>
       <td></td>
     </tr>
     <tr>
-      <td rowspan="4">Feature 3 - Backup e Restauração</td>
-      <td>US16 - Fazer backup e restaurar dados</td>
-      <td></td>
-    </tr>
-    <tr><td>US28 - Fazer backup e restaurar dados</td><td></td></tr>
-    <tr><td>US40 - Backup e restauração de dados</td><td></td></tr>
-    <tr><td>US10 - Exibir confirmação visual para ações do usuário</td><td></td></tr>
-    <tr>
-      <td>Feature 4 - Configurações Gerais</td>
-      <td>US04 - Verificar contas com número de telefone e email</td>
+      <td rowspan="3">Feature 2 - Temas e Aparência</td>
+      <td>US04 - Definir tema escuro ou claro</td>
       <td></td>
     </tr>
     <tr>
-      <td rowspan="14">Épico 2 - Conteúdo</td>
-      <td rowspan="8">Feature 5 - Postagens</td>
-      <td>US07 - Reduzir anúncios e melhorar transparência</td>
-      <td></td>
-    </tr>
-    <tr><td>US09 - Upload de vídeos em alta definição</td><td></td></tr>
-    <tr><td>US18 - Rascunhos offline</td><td></td></tr>
-    <tr><td>US25 - Agendar postagens</td><td></td></tr>
-    <tr><td>US34 - Agendar postagens</td><td></td></tr>
-    <tr><td>US31 - Sugerir textos de postagens com IA</td><td></td></tr>
-    <tr><td>US33 - Criar e salvar rascunhos offline</td><td></td></tr>
-    <tr><td>US30 - Adicionar legendas automáticas aos vídeos</td><td></td></tr>
-    <tr>
-      <td rowspan="2">Feature 6 - Compartilhamento</td>
-      <td>US15 - Compartilhar postagens em plataformas externas</td>
-      <td></td>
-    </tr>
-    <tr><td>US35 - Compartilhar postagens em plataformas externas</td><td></td></tr>
-    <tr>
-      <td>Feature 7 - Filtragem</td>
-      <td>US29 - Filtrar conteúdos no feed</td>
+      <td>US18 - Ocultar publicações antigas</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 8 - Tendências</td>
-      <td>US03 - Visualizar Trend Topics</td>
+      <td>US30 - Fixar postagens no perfil</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 9 - Enquetes</td>
-      <td>US24 - Criar enquetes interativas</td>
+      <td rowspan="3">Feature 3 - Backup e Segurança</td>
+      <td>US06 - Verificar contas com telefone e email</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 10 - Idiomas</td>
-      <td>US06 - Tradução automática de publicações</td>
+      <td>US19 - Fazer backup e restaurar dados</td>
       <td></td>
     </tr>
     <tr>
-      <td rowspan="8">Épico 3 - Interações</td>
-      <td rowspan="2">Feature 11 - Comentários</td>
-      <td>US05 - Responder anonimamente</td>
-      <td></td>
-    </tr>
-    <tr><td>US19 - Respostas anônimas em discussões públicas</td><td></td></tr>
-    <tr>
-      <td>Feature 12 - Sugestões</td>
-      <td>US22 - Sugerir novos usuários para seguir</td>
+      <td>US29 - Oferecer autenticação avançada</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 13 - Histórico</td>
-      <td>US17 - Visualizar histórico de interações</td>
+      <td rowspan="10">Épico 2 - Interações e Comunicação</td>
+      <td rowspan="4">Feature 1 - Mensagens</td>
+      <td>US02 - Gravar e enviar mensagens de voz</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 14 - Reações</td>
-      <td>US12 - Oferecer reações variadas</td>
+      <td>US05 - Área de mensagens privadas</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 15 - Notificações</td>
-      <td>US23 - Receber notificações de eventos próximos</td>
+      <td>US24 - Salvar rascunhos offline</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 16 - Feed</td>
-      <td>US37 - Carregar o feed rapidamente</td>
+      <td>US36 - Criar listas de amigos próximos</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 17 - Favoritos</td>
-      <td>US21 - Salvar postagens para leitura posterior</td>
+      <td rowspan="2">Feature 2 - Reações</td>
+      <td>US23 - Oferecer reações variadas</td>
       <td></td>
     </tr>
     <tr>
-      <td rowspan="5">Épico 4 - Comunidades</td>
-      <td rowspan="2">Feature 18 - Grupos</td>
-      <td>US20 - Criação de comunidades ou grupos</td>
-      <td></td>
-    </tr>
-    <tr><td>US36 - Criar comunidades ou grupos temáticos</td><td></td></tr>
-    <tr>
-      <td>Feature 19 - Ocultar Conteúdo</td>
-      <td>US27 - Ocultar publicações antigas</td>
+      <td>US35 - Reagir a comentários em postagens</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 20 - Moderação</td>
-      <td>US08 - Implementar moderação para bots</td>
+      <td rowspan="2">Feature 3 - Denúncias</td>
+      <td>US17 - Denunciar contas ou postagens</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 21 - Denúncias</td>
-      <td>US14 - Denunciar contas ou postagens</td>
+      <td>US38 - Denunciar comentários ofensivos</td>
       <td></td>
     </tr>
     <tr>
-      <td rowspan="3">Épico 5 - Segurança</td>
-      <td>Feature 22 - Verificação</td>
-      <td>US04 - Verificar contas com número de telefone e email</td>
+      <td>Feature 4 - Menções</td>
+      <td>US32 - Marcar outros usuários em postagens</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 23 - Autenticação</td>
-      <td>US39 - Oferecer autenticação avançada</td>
+      <td>Feature 5 - Notificações</td>
+      <td>US34 - Receber alertas de menções</td>
       <td></td>
     </tr>
     <tr>
-      <td>Feature 24 - Moderar Conteúdo</td>
-      <td>US26 - Denunciar contas ou postagens</td>
+      <td rowspan="11">Épico 3 - Conteúdo e Postagens</td>
+      <td rowspan="4">Feature 1 - Postagens</td>
+      <td>US14 - Salvar postagens para leitura</td>
       <td></td>
     </tr>
+    <tr>
+      <td>US25 - Agendar postagens</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US26 - Compartilhar postagens externas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US31 - Editar publicações após postagem</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 2 - Enquetes e Pesquisas</td>
+      <td>US16 - Criar enquetes interativas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US37 - Realizar pesquisas de conteúdo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Feature 3 - Vídeos e Mídia</td>
+      <td>US10 - Upload de vídeos em alta definição</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US21 - Adicionar legendas automáticas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US22 - Sugerir textos com IA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 4 - Recomendações</td>
+      <td>US15 - Sugerir usuários para seguir</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US39 - Receber recomendações personalizadas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="4">Épico 4 - Moderação e Segurança</td>
+      <td>Feature 1 - Moderação</td>
+      <td>US09 - Implementar moderação contra bots</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Feature 2 - Segurança</td>
+      <td>US06 - Verificar contas com telefone e email</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Feature 3 - Backup</td>
+      <td>US19 - Fazer backup e restaurar dados</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Feature 4 - Status</td>
+      <td>US40 - Configurar status online ou offline</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Épico 5 - Grupos e Comunidades</td>
+      <td>Feature 1 - Criação de Grupos</td>
+      <td>US27 - Criar comunidades ou grupos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Feature 2 - Sugestões</td>
+      <td>US15 - Sugerir usuários para seguir</td>
+      <td></td>
+    </tr>
+
+
   </tbody>
 </table>
