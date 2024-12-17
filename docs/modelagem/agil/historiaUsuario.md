@@ -1196,6 +1196,393 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 
 </details>
 
+<details>
+  <summary>US31 - Sugerir textos de postagens com IA</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 31 - Sugerir textos de postagens com IA</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US31</td>
+        <td>Eu, como usuário, posso receber sugestões automáticas de textos ao criar postagens, com base em palavras-chave fornecidas, para facilitar a criação.</td>
+        <td>
+          <b>Critério 1 - Sugestão Automática</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> começar a criar uma postagem e fornecer palavras-chave, <br>
+          <b>Então</b> o sistema deve sugerir textos relevantes gerados por IA. <br><br>
+          <b>Critério 2 - Ajuste Manual</b> <br>
+          <b>Dado</b> que o texto foi sugerido, <br>
+          <b>Quando</b> desejar ajustar o conteúdo, <br>
+          <b>Então</b> devo ser capaz de editar ou complementar o texto.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US32 - Oferecer reações variadas para publicações</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 32 - Reações variadas para publicações</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US32</td>
+        <td>Eu, como usuário, posso usar reações variadas (além de curtir) para expressar minhas emoções em publicações.</td>
+        <td>
+          <b>Critério 1 - Tipos de Reação</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> visualizar uma postagem, <br>
+          <b>Então</b> devo ter opções como "curtir", "adorar", "surpreso" e outras reações. <br><br>
+          <b>Critério 2 - Alterar Reação</b> <br>
+          <b>Dado</b> que já reagi a uma publicação, <br>
+          <b>Quando</b> quiser modificar minha reação, <br>
+          <b>Então</b> devo conseguir substituir a reação anterior.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US33 - Criar e salvar rascunhos offline</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 33 - Criar e salvar rascunhos offline</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US33</td>
+        <td>Eu, como usuário, posso criar e salvar rascunhos de postagens mesmo sem conexão com a internet.</td>
+        <td>
+          <b>Critério 1 - Salvar Offline</b> <br>
+          <b>Dado</b> que estou sem conexão, <br>
+          <b>Quando</b> criar um rascunho, <br>
+          <b>Então</b> o sistema deve salvar o conteúdo localmente. <br><br>
+          <b>Critério 2 - Publicar ao Reconectar</b> <br>
+          <b>Dado</b> que um rascunho foi salvo offline, <br>
+          <b>Quando</b> houver conexão, <br>
+          <b>Então</b> devo poder publicá-lo diretamente.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US34 - Agendar postagens</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 34 - Agendar postagens</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US34</td>
+        <td>Eu, como usuário, posso agendar postagens para horários específicos no futuro.</td>
+        <td>
+          <b>Critério 1 - Definir Horário</b> <br>
+          <b>Dado</b> que estou criando uma postagem, <br>
+          <b>Quando</b> acessar a opção de agendamento, <br>
+          <b>Então</b> devo poder escolher uma data e horário específicos para a publicação. <br><br>
+          <b>Critério 2 - Gerenciar Agendamentos</b> <br>
+          <b>Dado</b> que agendei uma postagem, <br>
+          <b>Quando</b> acessar a lista de agendamentos, <br>
+          <b>Então</b> devo poder editar ou cancelar o agendamento.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US35 - Compartilhar postagens em plataformas externas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 35 - Compartilhar postagens externamente</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US35</td>
+        <td>Eu, como usuário, posso compartilhar postagens diretamente em plataformas externas para ampliar seu alcance.</td>
+        <td>
+          <b>Critério 1 - Compartilhamento</b> <br>
+          <b>Dado</b> que estou visualizando uma postagem, <br>
+          <b>Quando</b> selecionar a opção de compartilhamento, <br>
+          <b>Então</b> devo poder enviá-la para redes externas como Instagram, Facebook ou WhatsApp. <br><br>
+          <b>Critério 2 - Personalizar Compartilhamento</b> <br>
+          <b>Dado</b> que escolhi uma plataforma, <br>
+          <b>Quando</b> quiser adicionar um comentário antes de compartilhar, <br>
+          <b>Então</b> devo poder incluir texto adicional.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+<details>
+  <summary>US36 - Criar comunidades ou grupos temáticos</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 36 - Criar comunidades ou grupos temáticos</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US36</td>
+        <td>Eu, como usuário, posso criar comunidades ou grupos temáticos dentro da plataforma para compartilhar conteúdos específicos.</td>
+        <td>
+          <b>Critério 1 - Criação de Comunidades</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar a opção de criar comunidades, <br>
+          <b>Então</b> devo poder definir um nome, descrição e regras do grupo. <br><br>
+          <b>Critério 2 - Gerenciamento de Membros</b> <br>
+          <b>Dado</b> que criei uma comunidade, <br>
+          <b>Quando</b> gerenciar membros, <br>
+          <b>Então</b> devo poder aceitar, remover ou banir usuários.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US37 - Carregar o feed rapidamente</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 37 - Carregar o feed rapidamente</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US37</td>
+        <td>Eu, como usuário, posso visualizar o feed carregando rapidamente, mesmo com um grande volume de conteúdo.</td>
+        <td>
+          <b>Critério 1 - Carregamento Eficiente</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar o feed, <br>
+          <b>Então</b> o sistema deve carregar as postagens em menos de 2 segundos. <br><br>
+          <b>Critério 2 - Paginação ou Scroll Progressivo</b> <br>
+          <b>Dado</b> que estou navegando pelo feed, <br>
+          <b>Quando</b> rolar a página, <br>
+          <b>Então</b> novos conteúdos devem ser carregados progressivamente.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
+<details>
+  <summary>US38 - Gerenciar múltiplas contas</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 38 - Gerenciar múltiplas contas</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US38</td>
+        <td>Eu, como usuário, posso gerenciar múltiplas contas no mesmo aplicativo para alternar entre perfis facilmente.</td>
+        <td>
+          <b>Critério 1 - Adicionar Contas</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar a seção de contas, <br>
+          <b>Então</b> devo poder adicionar várias contas com login individual. <br><br>
+          <b>Critério 2 - Alternar Contas</b> <br>
+          <b>Dado</b> que adicionei múltiplas contas, <br>
+          <b>Quando</b> quiser alternar, <br>
+          <b>Então</b> devo poder mudar de conta com um único clique.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+<details>
+  <summary>US39 - Oferecer autenticação avançada</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 39 - Oferecer autenticação avançada</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US39</td>
+        <td>Eu, como usuário, posso acessar o sistema com autenticação avançada para aumentar a segurança da conta.</td>
+        <td>
+          <b>Critério 1 - Autenticação em Duas Etapas</b> <br>
+          <b>Dado</b> que sou um usuário registrado, <br>
+          <b>Quando</b> fizer login, <br>
+          <b>Então</b> devo ter a opção de ativar autenticação em duas etapas (código SMS ou aplicativo autenticador). <br><br>
+          <b>Critério 2 - Recuperação Segura</b> <br>
+          <b>Dado</b> que esqueci minha senha, <br>
+          <b>Quando</b> iniciar a recuperação, <br>
+          <b>Então</b> o sistema deve validar minha identidade por email ou telefone.
+        </td>
+        <td>Alta</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+<details>
+  <summary>US40 - Backup e restauração de dados</summary>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 40 - Backup e restauração de dados</strong></p>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Critérios de Aceitação</th>
+        <th>Prioridade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US40</td>
+        <td>Eu, como usuário, posso fazer backup e restaurar meus dados, incluindo postagens e configurações, para evitar perdas.</td>
+        <td>
+          <b>Critério 1 - Realizar Backup</b> <br>
+          <b>Dado</b> que sou um usuário autenticado, <br>
+          <b>Quando</b> acessar a opção de backup, <br>
+          <b>Então</b> devo poder salvar meus dados em um arquivo seguro. <br><br>
+          <b>Critério 2 - Restaurar Dados</b> <br>
+          <b>Dado</b> que possuo um arquivo de backup, <br>
+          <b>Quando</b> acessar a opção de restauração, <br>
+          <b>Então</b> o sistema deve recuperar minhas postagens e configurações anteriores.
+        </td>
+        <td>Média</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+</details>
+
+
 <font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele), [Samuel Ribeiro](https://github.com/SamuelRicosta) e [Carlos Eduardo](https://github.com/dudupaz). </p></font>
 
 ## Referências
@@ -1211,3 +1598,4 @@ Abaixo, estão listadas as tabelas que representam os requisitos funcionais e n�
 |  1.0   | 16/12/2024 | História do usuário | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz) |
 |  1.1   | 16/12/2024 | Acionando histórias de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+|  1.3   | 17/12/2024 | Acionando histórias de usuário | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
