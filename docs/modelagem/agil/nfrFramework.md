@@ -25,13 +25,17 @@ O framework leva em consideração o conceito de *softgoal*, que se refere a um 
 | **Softgoals de Operacionalização** | Representam as soluções de implementação para atender aos *softgoals* NFR ou outros *softgoals* de operacionalização. Incluem operações, processos, estruturas de dados e restrições no sistema para cumprir as necessidades indicadas. |
 | **Softgoals de Afirmação (CLAIM)** | Consideram as características do domínio, como prioridades e carga de trabalho, no processo de tomada de decisão. Servem como justificativa para apoiar ou negar a priorização e seleção de componentes, facilitando a revisão, justificativa, melhoria do sistema e rastreamento das decisões de desenvolvimento. |
 
-<p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
+<font size=""><p style="text-align: center"> **Figura 1:** Tipos de Softgoals  
+</p></font>
 
-**Figura 1:** Tipos de Softgoals  
 
-![](imagens/softgoals.png)
 
-Autor: Silva, Reinaldo Antônio.
+<center>
+![](\modelagem\imagens\softgoals.png)
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
+</p></font>
 
 ---
 
@@ -43,12 +47,15 @@ Após determinar o tipo de *softgoal*, deve-se realizar uma avaliação. Esse pr
 - "Conflitante",  
 - "Indeterminado".
 
-**Figura 2:** Rótulos de propagação de impacto  
+<font size=""><p style="text-align: center"> **Figura 2:** Rótulos de propagação de impacto
+</p></font>
 
-![](imagens/rotulos.png)
+<center>
+![](\modelagem\imagens\rotulos.png)
+</center>
 
-
-Autor: Silva, Reinaldo Antônio.
+<font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
+ </p></font>
 
 ---
 
