@@ -31,7 +31,10 @@ Os softgoals desempenham um papel essencial na modelagem e no atendimento dos re
 </p></font>
 
 
+<center>
 ![Softgoals](../imagens/softgoals.png)
+</center>
+
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
 </p></font>
@@ -48,19 +51,17 @@ A seguir, são apresentados os tipos de avaliação dos *softgoals* e suas respe
 - **𝒲+ Parcialmente satisfeito**: Representa uma satisfação parcial, onde o requisito foi atendido, mas com algumas limitações.  
 - **X Não atendido**: Indica que o requisito não funcional não foi realizado.  
 - **𝒲- Parcialmente não atendido**: Refere-se a uma realização negativa parcial, onde o requisito apresenta falhas, mas não completamente.  
-- **🗲 Conflitante**: Aponta para uma relação de conflito entre os requisitos, onde existem elementos positivos e negativos simultaneamente.  
+- **C Conflitante**: Aponta para uma relação de conflito entre os requisitos, onde existem elementos positivos e negativos simultaneamente.  
 - **u Indeterminado**: Representa um estado desconhecido ou incerto, onde não há informações suficientes para determinar o nível de atendimento do requisito.  
 
-Para uma visualização prática dos símbolos e suas categorizações, consulte a **Figura 2**.
+Para uma visualização prática dos símbolos e suas categorizações, consulte a **Figura 2**. 
 
 <font size=""><p style="text-align: center"> **Figura 2:** Rótulos de propagação de impacto
 </p></font>
 
 ![Rotulos](../imagens/rotulos.png)
 
-<font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
- </p></font>
-
+<p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 ---
 
 ### Tipos de Contribuições e Decomposições
