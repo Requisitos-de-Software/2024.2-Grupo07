@@ -159,74 +159,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 2 - Requisitos elicitados </p></font>
 
-<table border="1">
-  <tr>
-    <th><strong>Identificador</strong></th>
-    <th><strong>Requisito</strong></th>
-    <th><strong>Tipo</strong></th>
-  </tr>
-  <tr>
-    <td><strong>01</strong></td>
-    <td>Customização visual (modo dark, cor dos botões, personalização de elementos).</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td>Notificações baseadas no uso do aplicativo.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td>Facilidade de navegação e personalização do feed.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>04</strong></td>
-    <td>Integração com o Instagram ou desconexão completa.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>05</strong></td>
-    <td>Customização de interesses e feeds.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>06</strong></td>
-    <td>Engajamento com diversos tipos de postagens (repostar, interagir com pessoas desconhecidas).</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>07</strong></td>
-    <td>Controle sobre a visibilidade das postagens (conta pública/privada, escolher quem vê o conteúdo).</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>08</strong></td>
-    <td>Verificação de perfis (como contas verificadas, número de telefone, email cadastrado).</td>
-    <td><strong>RNF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>09</strong></td>
-    <td>Evitar a sobrecarga de notificações (notificação de ações irrelevantes, como visualizar o perfil de alguém).</td>
-    <td><strong>RNF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>10</strong></td>
-    <td>Design simples e eficaz para melhorar a experiência do usuário.</td>
-    <td><strong>RNF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>11</strong></td>
-    <td>Melhorar a confiabilidade do aplicativo (redução de bots, controle de anúncios, controle de spam).</td>
-    <td><strong>RNF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>12</strong></td>
-    <td>Interface ideal (ferramentas de personalização, indicadores de interesses, acesso rápido a novos conteúdos).</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  
-</table>
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve permitir criar listas de amigos próximos.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve permitir realizar pesquisas de conteúdo.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve permitir denunciar comentários ofensivos.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve sugerir postagens personalizadas de acordo com as preferências do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve permitir configurar o status online ou offline do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+.</td> <td>RNF</td> </tr> <tr> <td><strong>07</strong></td> <td>O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.</td> <td>RNF</td> </tr> <tr> <td><strong>08</strong></td> <td>O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações.</td> <td>RNF</td> </tr> <tr> <td><strong>09</strong></td> <td>O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.</td> <td>RNF</td> </tr> <tr> <td><strong>10</strong></td> <td>O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge.</td> <td>RNF</td> </tr> <tr> <td><strong>11</strong></td> <td>O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo.</td> <td>RNF</td> </tr> <tr> <td><strong>12</strong></td> <td>O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular.</td> <td>RNF</td> </tr> <tr> <td><strong>13</strong></td> <td>O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.</td> <td>RNF</td> </tr> </table>
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
@@ -252,3 +185,4 @@ A aplicação do brainstorming no processo de elicitação de requisitos para o 
 | **Versão** | **Data**   | **Descrição**                             | **Autor(es)**                                    | **Revisor(es)**                                    |
 | ---------- | ---------- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | 1.0        | 24/11/2024 | Criação do documento e adição de conteúdo | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.1        | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

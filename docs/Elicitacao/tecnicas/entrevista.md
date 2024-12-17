@@ -143,35 +143,9 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 1:</p>
 
-<font size="2"><p style="text-align: center">Tabela 1 - Requisitos elicitados </p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Requisitos elicitados </p></font>
 
-<table border="1">
-  <tr>
-    <th><strong>Identificador</strong></th>
-    <th><strong>Requisito</strong></th>
-    <th><strong>Tipo</strong></th>
-  </tr>
-  <tr>
-    <td><strong>01</strong></td>
-    <td>Criar um sistema de personalização visual com temas e fundos personalizados.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td>Melhorar o algoritmo para priorizar conteúdos mais relevantes ao usuário.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td>Implementar mecanismos de moderação para redução de bots e publicações irrelevantes.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>04</strong></td>
-    <td>Garantir funcionalidades de segurança como autenticação avançada e controle de privacidade.</td>
-    <td><strong>RNF</strong></td>
-  </tr>
-</table>
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O usuário deve poder configurar a visibilidade da conta.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O usuário deve poder gravar e enviar mensagens de voz.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve exibir Trend Topics para visualização dos tópicos populares.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O usuário deve poder definir o tema escuro ou claro no aplicativo.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve oferecer uma área de mensagens privadas para interações.</td> <td>RF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve verificar contas com número de telefone e email cadastrados.</td> <td>RF</td> </tr> <tr> <td><strong>07</strong></td> <td>O sistema deve permitir a tradução automática de publicações.</td> <td>RF</td> </tr> <tr> <td><strong>08</strong></td> <td>O sistema deve reduzir a exibição de anúncios intrusivos.</td> <td>RF</td> </tr> <tr> <td><strong>09</strong></td> <td>O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.</td> <td>RF</td> </tr> <tr> <td><strong>10</strong></td> <td>O sistema deve permitir o upload de vídeos em alta definição.</td> <td>RF</td> </tr> </table>
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a>
@@ -227,52 +201,9 @@ Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva <
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 2:</p>
 
-<font size="2"><p style="text-align: center">Tabela 2 - Requisitos elicitados </p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Requisitos elicitados </p></font>
 
-<table border="1">
-  <tr>
-    <th><strong>Identificador</strong></th>
-    <th><strong>Requisito</strong></th>
-    <th><strong>Tipo</strong></th>
-  </tr>
-  <tr>
-    <td><strong>01</strong></td>
-    <td>Personalização Visual.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td>Verificação de FakeNews.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td>Mecanismos de moderação para redução de bots e publicações irrelevantes.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>04</strong></td>
-    <td>Autenticação avançada.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-   </tr>
-  <tr>
-    <td><strong>05</strong></td>
-    <td>Proteção de conteúdo.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>06</strong></td>
-    <td>Facilidade de busca e conexão.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-   <tr>
-    <td><strong>07</strong></td>
-    <td>Controle de privacidade.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  
-</table>
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve exibir uma confirmação visual ao realizar ações.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve oferecer um histórico de interações do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve permitir respostas anônimas em discussões públicas moderadas.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve permitir que o usuário salve postagens para leitura posterior.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve sugerir usuários para seguir, com base nas interações do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve permitir a criação de enquetes interativas.</td> <td>RF</td> </tr> <tr> <td><strong>07</strong></td> <td>O sistema deve permitir ao usuário denunciar contas ou postagens.</td> <td>RF</td> </tr> <tr> <td><strong>08</strong></td> <td>O usuário deve poder ocultar publicações antigas de seu perfil sem excluí-las.</td> <td>RF</td> </tr> <tr> <td><strong>09</strong></td> <td>O sistema deve permitir backup e restauração de dados, como postagens e configurações.</td> <td>RF</td> </tr> <tr> <td><strong>10</strong></td> <td>O sistema deve permitir filtrar conteúdos no feed com base em categorias específicas.</td> <td>RF</td> </tr> </table>
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/GenisonJrs" target="_blank">Genilson Silva </a>
@@ -328,30 +259,9 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <p>Com base nas respostas obtidas, os seguintes requisitos foram elicitados, como mostra a tabela 2:</p>
 
-<font size="2"><p style="text-align: center">Tabela 3 - Requisitos elicitados </p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Requisitos elicitados </p></font>
 
-<table>
-  <tr>
-    <th><strong>Identificador</strong></th>
-    <th><strong>Requisito</strong></th>
-    <th><strong>Tipo</strong></th>
-  </tr>
-  <tr>
-    <td><strong>01</strong></td>
-    <td>Criar "Trend Topics" para destacar os assuntos mais discutidos e relevantes na plataforma.</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td>Implementar a opção de perfil privado</td>
-    <td><strong>RF</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td>Incluir opções básicas de personalização visual</td>
-    <td><strong>RF</strong></td>
-  </tr>
-</table>
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve permitir que o usuário adicione legendas automáticas aos vídeos enviados.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve sugerir textos gerados por Inteligência Artificial para publicações.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve oferecer reações variadas para publicações.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve permitir agendar postagens para horários futuros.</td> <td>RF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve permitir o compartilhamento de postagens externas.</td> <td>RF</td> </tr> <tr> <td><strong>07</strong></td> <td>O sistema deve permitir criar comunidades ou grupos dentro da plataforma.</td> <td>RF</td> </tr> <tr> <td><strong>08</strong></td> <td>O sistema deve permitir que o usuário gerencie múltiplas contas no mesmo aplicativo.</td> <td>RF</td> </tr> <tr> <td><strong>09</strong></td> <td>O sistema deve oferecer autenticação avançada para segurança do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>10</strong></td> <td>O sistema deve permitir fixar postagens no perfil do usuário.</td> <td>RF</td> </tr> </table>
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
@@ -384,3 +294,5 @@ A aplicação da técnica de entrevista mostrou-se eficiente para coletar insigh
 | 1.1        | 23/11/2024 | Colocando legendas       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz)       |
 | 1.2        | 24/11/2024 | Adicionando Entrevista 2 | [Genilson Silva](https://github.com/GenilsonJrs)   | [Carlos Eduardo](https://github.com/dudupaz)       |
 | 1.3        | 24/11/2024 | Adicionando Entrevista 3 | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+
