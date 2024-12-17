@@ -8,6 +8,24 @@ As Histórias de Usuário são utilizadas para entender o que os usuários desej
 
 Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias de Usuário. As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
 
+## Gravação
+
+Foi realizada uma gravação piloto com o usuário do Threads e todos os integrantes do Grupo 7, com o objetivo de ajustar os pontos que faltavam no documento e alinhar as expectativas para a futura entrevista. Esse processo foi fundamental para garantir que o trabalho fosse realizado da melhor maneira possível, permitindo que todos os membros do grupo participassem ativamente e ajudassem a ajustar os pontos mais relevantes, assegurando um resultado mais preciso e colaborativo para a próxima etapa.
+
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=mC66mJdkKlE">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Teste Piloto </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mC66mJdkKlE?si=T-_66vwjZHo9NgXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+## Tabela Modelo
+
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo </p></font>
 
 <table>
@@ -1600,6 +1618,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
+
 <font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Genilson Silva](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </p></font>
 
 ## Referências
@@ -1617,3 +1636,4 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
 |  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 |  1.3   | 17/12/2024 | Acionando histórias de usuário | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.4   | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.5   | 17/12/2024 | Adição do teste piloto | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |

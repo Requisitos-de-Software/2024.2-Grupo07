@@ -52,15 +52,7 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 
 <font size="2"><p style="text-align: center">**Tabela 2** - Requisitos elicitados com base na técnica de introspecção. </p></font>
 
-| **Identificador** | **Requisito**                                                                    | **Tipo** |
-| ----------------- | -------------------------------------------------------------------------------- | -------- |
-| 01                | O aplicativo deve apresentar os posts mais recentes na tela inicial.             | RF       |
-| 02                | Deve ser possível criar posts com texto, imagens e links.                        | RF       |
-| 03                | O sistema deve permitir curtir, comentar e repostar publicações.                 | RF       |
-| 04                | O sistema deve sugerir conteúdos relevantes para o usuário.                      | RF       |
-| 05                | A alternância entre contas públicas e privadas deve ocorrer sem demora.          | RF       |
-| 06                | O tempo de resposta ao interagir com o aplicativo deve ser inferior a 1 segundo. | RNF      |
-| 07                | O design deve ser intuitivo, facilitando o uso por novos usuários.               | RNF      |
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.</td> <td>RNF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve melhorar o algoritmo para priorizar conteúdos relevantes ao usuário.</td> <td>RNF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve evitar a sobrecarga de notificações irrelevantes.</td> <td>RNF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.</td> <td>RNF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve oferecer autenticação avançada para segurança do usuário.</td> <td>RNF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais.</td> <td>RNF</td> </tr> <tr> <td><strong>07</strong></td> <td>O aplicativo deve minimizar o consumo de bateria em dispositivos móveis, garantindo uma taxa de consumo inferior a 5%.</td> <td>RNF</td> </tr> <tr> <td><strong>08</strong></td> <td>O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores.</td> <td>RNF</td> </tr> </table>
 
 ## <font size="2"><p style="text-align: center"> Autor: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 
@@ -78,3 +70,4 @@ Com base nos cenários descritos na **Tabela 1**, foram elicitados os seguintes 
 | ---------- | ---------- | -------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 21/11/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 23/11/2024 | Arrumado legenda     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.2        | 17/12/2024 | Ajustes no documento     | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |

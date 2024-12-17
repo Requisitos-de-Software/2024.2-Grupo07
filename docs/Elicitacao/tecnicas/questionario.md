@@ -138,14 +138,7 @@ Por fim, personalização de perfis e diferenciais exclusivos foram apontados co
 
 <font size="2"><p style="text-align: center">**Tabela 2** - Requisos levantados . </p></font>
 
-| **Identificador** | **Requisito**                                                                                   | **Tipo** |
-| ----------------- | ----------------------------------------------------------------------------------------------- | -------- |
-| **01**            | Permitir personalização detalhada do feed e controle de conteúdo exibido.                       | RF       |
-| **02**            | Garantir um ambiente seguro com melhorias na política de privacidade.                           | RNF      |
-| **03**            | Oferecer recursos inovadores, como comunidades temáticas avançadas.                             | RF       |
-| **04**            | Implementar layouts modernos, minimalistas e focados em acessibilidade.                         | RNF      |
-| **05**            | Disponibilizar funcionalidades exclusivas, como personalização do perfil com opções multimídia. | RF       |
-| **06**            | Reduzir a quantidade de anúncios intrusivos e ajustar algoritmos para maior transparência.      | RNF      |
+<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve permitir editar publicações após a postagem.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve permitir marcar outros usuários em postagens.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve permitir ver estatísticas detalhadas sobre as postagens.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve permitir que o usuário receba alertas de menções.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve permitir reações a comentários em postagens.</td> <td>RF</td> </tr> </table>
 
 <font size="2"><p style="text-align: center"> Autor: [Samuel Ribeiro](https://github.com/SamuelRicosta) </p></font>
 
@@ -174,3 +167,4 @@ VAQUEIRO, Carlos; SIMÕES, Guilherme. **Engenharia de Requisitos**. Editora Bras
 | **Versão** | **Data**   | **Descrição**        | **Autor(es)**                                      | **Revisor(es)**                                  |
 | ---------- | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
 | 1.0        | 21/11/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
