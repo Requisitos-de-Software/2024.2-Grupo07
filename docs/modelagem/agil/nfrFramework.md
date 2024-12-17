@@ -28,7 +28,7 @@ O framework leva em consideração o conceito de *softgoal*, que se refere a um 
 <font size=""><p style="text-align: center"> **Figura 1:** Tipos de Softgoals  
 </p></font>
 
-![Softgoals](imagens/softgoals.png)
+![Softgoals](\docs\modelagem\imagens\softgoals.png)
 
 <font size="3"><p style="text-align: center"> Autor: Silva, Reinaldo Antônio.
 </p></font>
