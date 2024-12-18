@@ -170,4 +170,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**              | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 17/12/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 17/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 
