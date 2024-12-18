@@ -133,12 +133,12 @@ Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabe
 
 Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 
-<font size=""><p style="text-align: center"> **Figura 3:** Rótulos de propagação de impacto
+<font size=""><p style="text-align: center"> **Figura 3:** SIG Compatibilidade e Performance
 </p></font>
 
 ![Sig](../imagens/SIG.png)
 
-### Propagacao dos Impactos - Usabilidade
+### Propagacao dos Impactos
 
 A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 3.
 
