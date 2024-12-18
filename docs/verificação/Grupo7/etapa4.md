@@ -33,6 +33,91 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <details>
   <summary>NFR Framework</summary>
 
+
+  <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 1: Lista de Verificação </strong></p>
+  </div>
+
+<table border="1">
+
+   <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte</th>
+   </tr>
+   <tr>
+        <td>1</td>
+        <td>Os softgoals condizem com o contexto?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href=""></a></td>
+   </tr>
+   <tr>
+        <td>2</td>
+        <td>Softgoals representam metas bem definidas?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href=""></a></td>
+   </tr>
+   <tr>
+        <td>3</td>
+        <td>Os impactos foram corretamente propagados?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href=""></a></td>
+  </tr>
+  <tr>
+        <td>4</td>
+        <td>Foi definida a classificação dos NFRs (ex.:desempenho, usabilidade, acessibilidade,segurança)?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href=""></a></td>
+  </tr>
+    <tr>
+        <td>5</td>
+        <td>A páginas de apresenta introdução, metodologia e referências?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href=""></a></td>
+    </tr>
+     <tr>
+    <td>6</td>
+    <td>A página inclui um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 17/12	</td>
+    <td></td>
+  </tr>
+
+
+</table>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
+
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.
+</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação do NFR Framework </p>
+</div>
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
+
+
  
 </details>
 
@@ -189,4 +274,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | 1.0        | 17/12/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 17/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.2        | 17/12/2024 | Verificação de Backlog      | [Genilson Silva](https://github.com/GenilsonJrs)       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| 1.3        | 17/12/2024 | Verificação do NFR Framework      | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 
