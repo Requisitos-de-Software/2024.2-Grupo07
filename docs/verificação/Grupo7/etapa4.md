@@ -20,9 +20,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 | Artefato                  | Verificador                                        |
 | ------------------------- | -------------------------------------------------- |
-| NFR Framework                 | [Carlos Paz](https://github.com/dudupaz)           |
-| Backlog                   | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Histórias de Usuário       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| NFR Framework             |  [Carlos Paz](https://github.com/dudupaz)          |
+| Backlog                   |  [Genilson Silva](https://github.com/GenilsonJrs)  |
+| Histórias de Usuário      |  [Samuel Ribeiro](https://github.com/SamuelRicosta)|
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
@@ -39,11 +39,117 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <details>
   <summary>Backlog</summary>
 
+  
+
  
 </details>
 
 <details>
   <summary>Histórias de Usuário</summary>
+
+<h2>Lista de Verificação</h2>
+
+<div style="text-align: center;">
+    <p><strong>Tabela: Lista de Verificação - Histórias de Usuário</strong></p>
+
+
+
+
+<table border="1" style="width:100%; text-align:left;">
+            <tr>
+                <th>Número</th>
+                <th>Critério</th>
+                <th>Avaliação</th>
+                <th>Fonte</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>A estrutura das histórias de usuário segue o formato padrão "Eu, como [usuário], quero [função] para [objetivo]"?</td>
+                <td>Sim</td>
+                <td><a href="https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, Milene e Maurício. Requisitos - Aula 15</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Os critérios de aceitação são claros, verificáveis e detalhados para cada história?</td>
+                <td>Sim</td>
+                <td><a href="https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/templates-artefatos/estoria-de-usuario.doc/view">Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>A prioridade de cada história está definida de forma objetiva e consistente?</td>
+                <td>Sim</td>
+                <td><a href="https://doi.org/10.1016/B978-012287032-3/50020-4">BARBOSA, Simone Diniz Junqueira. Interação Humano-Computador</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>As histórias estão organizadas de forma que atendam a um ciclo de desenvolvimento iterativo e incremental?</td>
+                <td>Sim</td>
+                <td><a href="https://agilemanifesto.org/">Beck, Kent. Manifesto Ágil</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Os critérios de aceitação permitem validar as funcionalidades desenvolvidas dentro de um sprint?</td>
+                <td>Sim</td>
+                <td><a href="https://scrumguides.org/scrum-guide.html">Schwaber, Ken. Scrum Guide</a></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Os autores e revisores são identificados e há um histórico de versões atualizado?</td>
+                <td>Sim</td>
+                <td><a href="https://www.pmi.org/pmbok-guide-standards">PMBOK Guide, Project Management Institute</a></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>O documento inclui explicações suficientes para que stakeholders e desenvolvedores compreendam o contexto das histórias?</td>
+                <td>Sim</td>
+                <td><a href="https://www.mountaingoatsoftware.com/books/user-stories-applied">Cohn, Mike. User Stories Applied</a></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>As histórias estão redigidas de forma clara e compreensível para pessoas não técnicas?</td>
+                <td>Sim</td>
+                <td><a href="https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, Milene e Maurício. Requisitos - Aula 15</a></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Há exemplos que ilustrem o uso prático das histórias descritas?</td>
+                <td>Sim</td>
+                <td><a href="https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/templates-artefatos/estoria-de-usuario.doc/view">Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário</a></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>As histórias atendem a critérios básicos de qualidade, como serem independentes, negociáveis, valiosas, estimáveis, pequenas e testáveis (INVEST)?</td>
+                <td>Sim</td>
+                <td><a href="https://www.mountaingoatsoftware.com/books/user-stories-applied">Cohn, Mike. User Stories Applied</a></td>
+            </tr>
+        </table>
+    </div>
+
+
+ <p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
+
+<h2>Problemas</h2>
+Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+<h2>Sugestões</h2>
+
+Nenhuma sugestão a ser apontada.
+
+<h2>Gravação</h2>
+
+<p >O vídeo pode ser visto direto no <a href="https://youtu.be/svG-Ic9UvoQ">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 4 - Verificação de Personas </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/svG-Ic9UvoQ?si=vvjaJT4rfibu1x8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
 
  
 </details>
@@ -55,7 +161,9 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Referências
 
-> UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
+- [SERRANO, Milene e Maurício. *Requisitos - Aula 15*](https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf).  
+- [Ministério da Agricultura, Pecuária e Abastecimento. *Template Estória de Usuário*](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/templates-artefatos/estoria-de-usuario.doc/view).  
+- [BARBOSA, Simone Diniz Junqueira. *Interação Humano-Computador*](https://doi.org/10.1016/B978-012287032-3/50020-4).  
 
 ## Histórico de Versões
 
