@@ -13,7 +13,7 @@
 
 ## Gravação
 
-A quarta reunião, onde discutimos e decidimos as técnicas e quais integrantes fariam e documentar o que já hávia sido feito, referente a entrega 2, disponível no Vídeo 1.
+A quinta reunião, onde discutimos e decidimos as técnicas e quais integrantes fariam e documentar o que já hávia sido feito, referente a entrega 3, disponível no Vídeo 1.
 
 <div style="text-align: center">
 <p>Vídeo 1 - Ata 5</p>
@@ -22,7 +22,7 @@ A quarta reunião, onde discutimos e decidimos as técnicas e quais integrantes 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p9iSvEPmFdY?si=0mD8-v_nuySW68Bm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
+    Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
 ## Discussões
@@ -41,3 +41,4 @@ A quarta reunião, onde discutimos e decidimos as técnicas e quais integrantes 
 | Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                        |
 | ------ | :--------: | --------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0    | 08/12/2024 | Ata 5     | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.1    | 17/12/2024 | Correções     | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

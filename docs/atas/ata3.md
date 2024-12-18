@@ -13,7 +13,7 @@
 
 ## Gravação
 
-A terceira reunião, onde foi discutido pontos e estipulao datas para as entregas dos membros, disponível no Vídeo 1.
+A terceira reunião, onde foi discutido pontos e estipulado datas para as entregas dos membros, disponível no Vídeo 1.
 
 <div style="text-align: center">
 <p>Vídeo 1 - Ata 3</p>
