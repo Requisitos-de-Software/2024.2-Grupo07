@@ -165,9 +165,7 @@ A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa
 
 <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 
-
----
-## NFR 02: Desempenho
+## NFR Framework - NFR02: Desempenho
 
 Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados ao desempenho do sistema Threads. Esses requisitos são essenciais para assegurar que o sistema ofereça uma performance consistente, com tempos de resposta rápidos e utilização eficiente dos recursos, independentemente do volume de dados ou da carga de usuários simultâneos. A prioridade é garantir uma experiência fluida e ágil, desde a interação com o feed de postagens até o carregamento de páginas e o processamento de dados em dispositivos diversos.
 
@@ -186,16 +184,12 @@ Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 
 <font size="3"><p style="text-align: center"><b>Figura 4 </b> - SIG Desempenho</p></font>
 
-<center>
-
-![SIG Desempenho](/modelagem/imagens/sigdesempenho.png)
-
-</center>
+![SIG Desempenho](..imagens/sigdesempenho.png)
 
 <font size="3"><p style="text-align: center"> Autor: [Carlos Eduardo](https://github.com/dudupaz)</p></font>
 
 
-#### Propagação dos Impactos - Desempenho
+### Propagacao dos Impactos
 
 A seguir, na Tabela 5, temos a avaliação da propagação dos impactos relativa à Figura 4.
 
@@ -241,7 +235,7 @@ Com isso, segue a Figura 5 com o NFR relativo a Personalização e Usabilidade:
 
 ![SIGusa](../imagens/SIGusa.png)
 
-# Propagacao dos Impactos - Usabilidade
+### Propagacao dos Impactos
 
 A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 3.
 
