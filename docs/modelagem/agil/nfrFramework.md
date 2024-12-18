@@ -167,6 +167,60 @@ A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa
 
 
 ---
+## NFR 02: Desempenho
+
+Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados ao desempenho do sistema Threads. Esses requisitos são essenciais para assegurar que o sistema ofereça uma performance consistente, com tempos de resposta rápidos e utilização eficiente dos recursos, independentemente do volume de dados ou da carga de usuários simultâneos. A prioridade é garantir uma experiência fluida e ágil, desde a interação com o feed de postagens até o carregamento de páginas e o processamento de dados em dispositivos diversos.
+
+## Requisitos
+Os Requisitos utilizados para a confecção da Figura 3 estão presentes na Tabela 3:
+
+- **RQ46**: O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais.
+
+- **RQ47**: O aplicativo deve minimizar o consumo de bateria em dispositivos móveis, garantindo uma taxa de consumo inferior a 5%.
+
+- **RQ52**: O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.
+
+- **RQ56**: O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.
+
+Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
+
+<font size="3"><p style="text-align: center"><b>Figura 4 </b> - SIG Desempenho</p></font>
+
+<center>
+
+![SIG Desempenho](/modelagem/imagens/sigdesempenho.png)
+
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: [Carlos Eduardo](https://github.com/dudupaz)</p></font>
+
+
+#### Propagação dos Impactos - Desempenho
+
+A seguir, na Tabela 5, temos a avaliação da propagação dos impactos relativa à Figura 4.
+
+<center>
+
+<b>Tabela 5</b> - Impactos Desempenho
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+|Desempenho|  𝒲+| [Carlos Eduardo](https://github.com/dudupaz)|
+|Tempo de resposta	 |  𝒲+|  [Carlos Eduardo](https://github.com/dudupaz)|
+|Utilização de recursos	| 𝒲-|[Carlos Eduardo](https://github.com/dudupaz)|
+|Pouca utilização de recursos	| ✓|[Carlos Eduardo](https://github.com/dudupaz)|
+|Feed| 𝒲+|[Carlos Eduardo](https://github.com/dudupaz)|
+|Login| 𝒲+|[Carlos Eduardo](https://github.com/dudupaz)|
+|Carregamento de postagens inferior a 500ms	| ✓|[Carlos Eduardo](https://github.com/dudupaz)|
+|Tempo inferior a 500ms em interações usuais	| 𝒲+|[Carlos Eduardo](https://github.com/dudupaz)|
+|Realizar login em menos de 2 segundos	| 𝒲+|[Carlos Eduardo](https://github.com/dudupaz)|
+|Usar pouco a CPU	| 𝒲-|[Carlos Eduardo](https://github.com/dudupaz)|
+|Minimizar o consumo da bateria		| 𝒲+|[Carlos Eduardo](https://github.com/dudupaz)|
+
+
+Autor: [Carlos Eduardo](https://github.com/dudupaz) 
+
+</center>
 
 ## Referências
 **CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J.** Non-Functional Requirements in Software Engineering. Springer Science & Business Media, 2000.
@@ -180,3 +234,4 @@ A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa
 | :----: | ---------- | ------------------- | -------------------------------------------------- | -------------------------------------------- |
 |  1.0   | 16/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.1   | 17/12/2024 | implementação do NFR01   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.2   | 17/12/2024 | implementação do NFR02 - Desempenho   | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele) |
