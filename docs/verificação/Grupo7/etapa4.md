@@ -47,51 +47,64 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <th>Descrição</th>
         <th>Resposta</th>
         <th>Versão, Data e Hora da Avaliação</th>
-        <th>Fonte</th>
+        <th>Fonte/Autor</th>
    </tr>
    <tr>
         <td>1</td>
-        <td>Os softgoals condizem com o contexto?</td>
+        <td>No artefato há algum trecho que define o que é o NFR Framework e sua finalidade?</td>
         <td>Sim</td>
         <td>versão 1.0 - 17/12</td>
-        <td><a href=""></a></td>
+          <td><a href="https://github.com/dudupaz">Carlos Eduardo</a></td>
    </tr>
    <tr>
         <td>2</td>
-        <td>Softgoals representam metas bem definidas?</td>
+        <td>Na página há algum trecho que explica sobre o conceito de softgoal?</td>
         <td>Sim</td>
         <td>versão 1.0 - 17/12</td>
-        <td><a href=""></a></td>
+       <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
    </tr>
    <tr>
         <td>3</td>
-        <td>Os impactos foram corretamente propagados?</td>
+        <td>A página apresenta os tipos de softgoals e suas funções</td>
         <td>Sim</td>
         <td>versão 1.0 - 17/12</td>
-        <td><a href=""></a></td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino</a></td>
   </tr>
   <tr>
         <td>4</td>
-        <td>Foi definida a classificação dos NFRs (ex.:desempenho, usabilidade, acessibilidade,segurança)?</td>
+        <td>Algum trecho na página descreve o SIG (Softgoal Interdependency Graph)?</td>
         <td>Sim</td>
         <td>versão 1.0 - 17/12</td>
-        <td><a href=""></a></td>
+        <td><a href="https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf">SILVA, Reinaldo Antônio da.</a></td>
   </tr>
     <tr>
         <td>5</td>
-        <td>A páginas de apresenta introdução, metodologia e referências?</td>
+        <td> Algum trecho na página explica como as contribuições influenciam a satisfação dos softgoals?</td>
         <td>Sim</td>
         <td>versão 1.0 - 17/12</td>
-        <td><a href=""></a></td>
+        <td><a href="https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf">SILVA, Reinaldo Antônio da.</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Os impactos foram corretamente propagados?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino</a></td>
+  </tr>
+    <tr>
+        <td>7</td>
+        <td>A página apresenta introdução, metodologia e referências?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 17/12</td>
+        <td><a href="https://github.com/GenilsonJrs"> Genilson Silva</a></td>
     </tr>
      <tr>
-    <td>6</td>
+    <td>8</td>
     <td>A página inclui um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
     <td>Sim</td>
     <td>versão 1.0 - 17/12	</td>
-    <td></td>
+    <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
-
 
 </table>
 
@@ -105,20 +118,18 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/-KtOb7_gaGE?si=gD48sYamJFfSH4IU">YouTube.</a></p>
 
 <div style="text-align: center;">
   <p>Vídeo 1 - Verificação do NFR Framework </p>
 </div>
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-KtOb7_gaGE?si=gD48sYamJFfSH4IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
   </p>
 
-
- 
 </details>
 
 <details>
