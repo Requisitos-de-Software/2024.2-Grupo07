@@ -6,23 +6,7 @@ A técnica ágil, popularizada no desenvolvimento de software, foca na entrega c
 
 As Histórias de Usuário são utilizadas para entender o que os usuários desejam de um sistema ou aplicação, descrevendo as funcionalidades desejadas a partir da perspectiva do usuário. Elas são organizadas em uma estrutura clara, que inclui critérios de aceitação e prioridade, permitindo que os desenvolvedores e stakeholders alinhem-se com os objetivos e expectativas do usuário.
 
-Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias de Usuário. As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
-
-## Gravação
-
-Foi realizada uma gravação piloto com o usuário do Threads e todos os integrantes do Grupo 7, com o objetivo de ajustar os pontos que faltavam no documento e alinhar as expectativas para a futura entrevista. Esse processo foi fundamental para garantir que o trabalho fosse realizado da melhor maneira possível, permitindo que todos os membros do grupo participassem ativamente e ajudassem a ajustar os pontos mais relevantes, assegurando um resultado mais preciso e colaborativo para a próxima etapa.
-
-<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=mC66mJdkKlE">YouTube.</a></p>
-
-<div style="text-align: center;">
-  <p>Vídeo 1 - Teste Piloto </p>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mC66mJdkKlE?si=T-_66vwjZHo9NgXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
-</p>
+Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias de Usuário.
 
 ## Tabela Modelo
 
@@ -33,15 +17,15 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
     <tr>
       <th>ID</th>
       <th>Título</th>
- <td>Criterio de Aceitação</td>
- <td>Prioridade</td>
+      <td>Critérios de Aceitação</td>
+      <td>Prioridade</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>USX</td>
       <td>Eu, como xxx, posso xxx para xxx</td>
-       <td> Lista com os critérios de aceitação <br>
+       <td>
        <b> Critério y - xxx </b> <br>
         <b>Dado</b> xxx <br>
          <b>Quando</b> xxx <br> 
@@ -57,8 +41,43 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
     Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
   </p>
 
+## Gravação
+
+Foi realizada uma gravação piloto com o usuário do Threads e todos os integrantes do Grupo 7, com o objetivo de ajustar os pontos que faltavam no documento e alinhar as expectativas para a futura entrevista. Esse processo foi fundamental para garantir que o trabalho fosse realizado da melhor maneira possível, permitindo que todos os membros do grupo participassem ativamente e ajudassem a ajustar os pontos mais relevantes, assegurando um resultado mais preciso e colaborativo para a próxima etapa.
+
+## Teste Piloto
+
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=mC66mJdkKlE">YouTube.</a></p>
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Teste Piloto</p></font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mC66mJdkKlE?si=T-_66vwjZHo9NgXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+## Validação
+
+Para validar as histórias de usuário, foi realizada uma gravação de vídeo com um usuário ativo do Threads. Durante a validação, o usuário compartilhou feedback sobre as histórias de usuário e os critérios de aceitação, garantindo que os requisitos atendam às suas expectativas e necessidades.
+
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=QFw46sb4dDs53hb7">YouTube.</a></p>
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Validação</p></font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=QFw46sb4dDs53hb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+</p>
+
 ## Histórias de Usuário
 
+As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
 
 <details>
   <summary>US01 - Configurar visibilidade da conta</summary>
@@ -96,8 +115,18 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
-</details>
 
+<h2>Validação</h2>
+
+<p>A validação da US01 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=65eMQDmIR6497zSz&amp;start=75">1:25</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 3 - Validação da US01 </p>
+</div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=65eMQDmIR6497zSz&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+</details>
 
 <details>
   <summary>US02 - Gravar e enviar mensagens de voz</summary>
@@ -118,13 +147,9 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
     <tbody>
       <tr>
         <td>US02</td>
-        <td>Eu, como usuário, posso gravar e enviar mensagens de voz em threads ou comentários para interagir com mais praticidade.</td>
+        <td>Eu, como usuário, posso gravar e enviar mensagens de voz em threads interagir com mais praticidade.</td>
         <td>
-          <b>Critério 1 - Gravação de Voz</b> <br>
-          <b>Dado</b> que estou respondendo a uma thread, <br>
-          <b>Quando</b> escolher a opção de gravar voz, <br>
-          <b>Então</b> devo poder iniciar, pausar ou cancelar a gravação. <br><br>
-          <b>Critério 2 - Enviar Mensagem</b> <br>
+          <b>Critério 1 - Enviar Mensagem</b> <br>
           <b>Dado</b> que finalizei a gravação, <br>
           <b>Quando</b> enviar a mensagem, <br>
           <b>Então</b> ela deve ser anexada como uma resposta na thread.
@@ -135,8 +160,18 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
-</details>
 
+<h2>Validação</h2>
+
+<p>A validação da US02 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=XbP2CNerjyV45q-9&amp;start=102">1:42</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 4 - Validação da US02 </p>
+</div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=XbP2CNerjyV45q-9&amp;start=102" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+</details>
 
 <details>
   <summary>US03 - Visualizar Trend Topics</summary>
@@ -174,8 +209,17 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
-</details>
 
+<h2>Validação</h2>
+
+<p>A validação da US03 pode ser vista a partir do minuto <a href="https://youtu.be/Znh3R9WH7fw?si=BLHJ_xbm3xohVyvo&t=143">2:23</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 5 - Validação da US03 </p>
+</div>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+</details>
 
 <details>
   <summary>US04 - Definir tema escuro ou claro</summary>
@@ -215,7 +259,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-
 <details>
   <summary>US05 - Área de mensagens privadas</summary>
 
@@ -253,7 +296,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
-
 
 <details>
   <summary>US06 - Verificar contas com telefone e email</summary>
@@ -293,7 +335,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-
 <details>
   <summary>US07 - Tradução automática de publicações</summary>
 
@@ -331,7 +372,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
-
 
 <details>
   <summary>US08 - Reduzir anúncios intrusivos</summary>
@@ -371,7 +411,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-
 <details>
   <summary>US09 - Implementar moderação contra bots</summary>
 
@@ -409,7 +448,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
-
 
 <details>
   <summary>US10 - Upload de vídeos em alta definição</summary>
@@ -449,7 +487,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-
 <details>
   <summary>US11 - Exibir confirmação para ações</summary>
 
@@ -487,7 +524,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
-
 
 <details>
   <summary>US12 - Histórico de interações</summary>
@@ -527,7 +563,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
 
-
 <details>
   <summary>US13 - Respostas anônimas</summary>
 
@@ -565,7 +600,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
-
 
 <details>
   <summary>US14 - Salvar postagens para leitura</summary>
@@ -605,7 +639,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
 
-
 <details>
   <summary>US15 - Sugerir usuários para seguir</summary>
 
@@ -643,7 +676,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
-
 
 <details>
   <summary>US16 - Criar enquetes interativas</summary>
@@ -683,7 +715,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
 
-
 <details>
   <summary>US17 - Denunciar contas ou postagens</summary>
 
@@ -722,7 +753,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
 
-
 <details>
   <summary>US18 - Ocultar publicações antigas</summary>
 
@@ -760,7 +790,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
-
 
 <details>
   <summary>US19 - Backup e restauração de dados</summary>
@@ -838,7 +867,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 </details>
 
-
 <details>
   <summary>US21 - Adicionar legendas automáticas</summary>
 
@@ -876,7 +904,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
-
 
 <details>
   <summary>US22 - Sugerir textos com IA</summary>
@@ -916,7 +943,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
 
-
 <details>
   <summary>US23 - Oferecer reações variadas</summary>
 
@@ -954,7 +980,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
-
 
 <details>
   <summary>US24 - Salvar rascunhos offline</summary>
@@ -994,7 +1019,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
 
-
 <details>
   <summary>US25 - Agendar postagens</summary>
 
@@ -1032,7 +1056,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
-
 
 <details>
   <summary>US26 - Compartilhar postagens externas</summary>
@@ -1072,7 +1095,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
 
-
 <details>
   <summary>US27 - Criar comunidades ou grupos</summary>
 
@@ -1110,7 +1132,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
-
 
 <details>
   <summary>US28 - Gerenciar múltiplas contas</summary>
@@ -1150,7 +1171,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
 
-
 <details>
   <summary>US29 - Oferecer autenticação avançada</summary>
 
@@ -1188,7 +1208,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
-
 
 <details>
   <summary>US30 - Fixar postagens no perfil</summary>
@@ -1228,7 +1247,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
 </details>
 
-
 <details>
   <summary>US31 - Editar publicações após postagem</summary>
 
@@ -1266,7 +1284,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
-
 
 <details>
   <summary>US32 - Marcar outros usuários em postagens</summary>
@@ -1306,7 +1323,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
-
 <details>
   <summary>US33 - Ver estatísticas de postagens</summary>
 
@@ -1344,7 +1360,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
-
 
 <details>
   <summary>US34 - Receber alertas de menções</summary>
@@ -1384,7 +1399,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
-
 <details>
   <summary>US35 - Reagir a comentários em postagens</summary>
 
@@ -1422,7 +1436,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
-
 
 <details>
   <summary>US36 - Criar listas de amigos próximos</summary>
@@ -1462,7 +1475,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
-
 <details>
   <summary>US37 - Realizar pesquisas de conteúdo</summary>
 
@@ -1500,7 +1512,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
-
 
 <details>
   <summary>US38 - Denunciar comentários ofensivos</summary>
@@ -1540,7 +1551,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
-
 <details>
   <summary>US39 - Receber recomendações personalizadas de postagens</summary>
 
@@ -1578,7 +1588,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
-
 
 <details>
   <summary>US40 - Configurar status online ou offline</summary>
@@ -1618,7 +1627,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
 </details>
 
-
 <font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Genilson Silva](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </p></font>
 
 ## Referências
@@ -1635,5 +1643,6 @@ Foi realizada uma gravação piloto com o usuário do Threads e todos os integra
 |  1.1   | 16/12/2024 | Acionando histórias de usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.2   | 16/12/2024 | Acionando histórias de usuário | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 |  1.3   | 17/12/2024 | Acionando histórias de usuário | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
-|  1.4   | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
-|  1.5   | 17/12/2024 | Adição do teste piloto | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.4   | 17/12/2024 | Ajustes no documento           | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.5   | 17/12/2024 | Adição do teste piloto         | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.6   | 17/12/2024 | Adição da validação            | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
