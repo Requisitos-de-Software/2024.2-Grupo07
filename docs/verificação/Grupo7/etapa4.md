@@ -90,74 +90,56 @@ Nenhuma sugestão a ser apontada.
 
 
 
-<table border="1" style="width:100%; text-align:left;">
-            <tr>
-                <th>Número</th>
-                <th>Critério</th>
-                <th>Avaliação</th>
-                <th>Fonte</th>
-            </tr>
-            <tr>
-                <td>1</td>
-                <td>A estrutura das histórias de usuário segue o formato padrão "Eu, como [usuário], quero [função] para [objetivo]"?</td>
-                <td>Sim</td>
-                <td><a href="https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, Milene e Maurício. Requisitos - Aula 15</a></td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Os critérios de aceitação são claros, verificáveis e detalhados para cada história?</td>
-                <td>Sim</td>
-                <td><a href="https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/templates-artefatos/estoria-de-usuario.doc/view">Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário</a></td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>A prioridade de cada história está definida de forma objetiva e consistente?</td>
-                <td>Sim</td>
-                <td><a href="https://doi.org/10.1016/B978-012287032-3/50020-4">BARBOSA, Simone Diniz Junqueira. Interação Humano-Computador</a></td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>As histórias estão organizadas de forma que atendam a um ciclo de desenvolvimento iterativo e incremental?</td>
-                <td>Sim</td>
-                <td><a href="https://agilemanifesto.org/">Beck, Kent. Manifesto Ágil</a></td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>Os critérios de aceitação permitem validar as funcionalidades desenvolvidas dentro de um sprint?</td>
-                <td>Sim</td>
-                <td><a href="https://scrumguides.org/scrum-guide.html">Schwaber, Ken. Scrum Guide</a></td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>Os autores e revisores são identificados e há um histórico de versões atualizado?</td>
-                <td>Sim</td>
-                <td><a href="https://www.pmi.org/pmbok-guide-standards">PMBOK Guide, Project Management Institute</a></td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>O documento inclui explicações suficientes para que stakeholders e desenvolvedores compreendam o contexto das histórias?</td>
-                <td>Sim</td>
-                <td><a href="https://www.mountaingoatsoftware.com/books/user-stories-applied">Cohn, Mike. User Stories Applied</a></td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>As histórias estão redigidas de forma clara e compreensível para pessoas não técnicas?</td>
-                <td>Sim</td>
-                <td><a href="https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, Milene e Maurício. Requisitos - Aula 15</a></td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Há exemplos que ilustrem o uso prático das histórias descritas?</td>
-                <td>Sim</td>
-                <td><a href="https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/templates-artefatos/estoria-de-usuario.doc/view">Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário</a></td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>As histórias atendem a critérios básicos de qualidade, como serem independentes, negociáveis, valiosas, estimáveis, pequenas e testáveis (INVEST)?</td>
-                <td>Sim</td>
-                <td><a href="https://www.mountaingoatsoftware.com/books/user-stories-applied">Cohn, Mike. User Stories Applied</a></td>
-            </tr>
-        </table>
+<table border="1">
+    <tr>
+        <th>Número</th>
+        <th>Critério</th>
+        <th>Avaliação</th>
+        <th>Fonte</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>A estrutura das histórias de usuário segue o formato padrão "Eu, como [usuário], quero [função] para [objetivo]"?</td>
+        <td>Sim</td>
+        <td>SERRANO, Milene e Maurício. Requisitos - Aula 15. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Os critérios de aceitação são claros, verificáveis e detalhados para cada história?</td>
+        <td>Sim</td>
+        <td>Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>A prioridade de cada história está definida de forma objetiva e consistente?</td>
+        <td>Sim</td>
+        <td>BARBOSA, Simone Diniz Junqueira. Interação Humano-Computador. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>As histórias estão organizadas de forma que atendam a um ciclo de desenvolvimento iterativo e incremental?</td>
+        <td>Sim</td>
+        <td>Beck, Kent. Manifesto Ágil. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Os autores e revisores são identificados e há um histórico de versões atualizado?</td>
+        <td>Sim</td>
+        <td>PMBOK Guide, Project Management Institute. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Há exemplos que ilustrem o uso prático das histórias descritas?</td>
+        <td>Sim</td>
+        <td>Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Os ajustes realizados em versões posteriores estão descritos e justificam as mudanças feitas?</td>
+        <td>Sim</td>
+        <td>PMBOK Guide, Project Management Institute. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+</table>
     </div>
 
 
