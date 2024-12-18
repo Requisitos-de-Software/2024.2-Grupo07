@@ -64,13 +64,13 @@ Nenhuma sugestão a ser apontada.
 
 <h2>Gravação</h2>
 
-<p >O vídeo pode ser visto direto no <a href="https://youtu.be/svG-Ic9UvoQ">YouTube.</a></p>
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=I6ZxUJSJeRo">YouTube.</a></p>
 
 <div style="text-align: center">
 <p>Vídeo 2 - Verificação de Backlog </p>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/svG-Ic9UvoQ?si=vvjaJT4rfibu1x8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6ZxUJSJeRo?si=8JOD0JjH59FZPqwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
@@ -188,4 +188,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 17/12/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 17/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 17/12/2024 | Verificação de Backlog      | [Genilson Silva](https://github.com/GenilsonJrs)       | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 
