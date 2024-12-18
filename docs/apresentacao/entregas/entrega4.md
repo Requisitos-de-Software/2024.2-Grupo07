@@ -2,7 +2,7 @@
 
 Neste espaço, você encontrará todas as gravações das apresentações realizadas no Teams e disponibilizadas no YouTube, registrando cada uma das entregas da disciplina de Requisitos de software.
 
-# Etapa 3
+# Etapa 4
 
 A apresentação da Etapa 4, onde foi apresentado o nosso modelagem Ágil disponível abaixo em Vídeo 1.
 
