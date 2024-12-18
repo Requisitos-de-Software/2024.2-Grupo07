@@ -159,7 +159,99 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 2 - Requisitos elicitados </p></font>
 
-<table border="1"> <tr> <th><strong>Identificador</strong></th> <th><strong>Requisito</strong></th> <th><strong>Tipo</strong></th> </tr> <tr> <td><strong>01</strong></td> <td>O sistema deve permitir criar listas de amigos próximos.</td> <td>RF</td> </tr> <tr> <td><strong>02</strong></td> <td>O sistema deve permitir realizar pesquisas de conteúdo.</td> <td>RF</td> </tr> <tr> <td><strong>03</strong></td> <td>O sistema deve permitir denunciar comentários ofensivos.</td> <td>RF</td> </tr> <tr> <td><strong>04</strong></td> <td>O sistema deve sugerir postagens personalizadas de acordo com as preferências do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>05</strong></td> <td>O sistema deve permitir configurar o status online ou offline do usuário.</td> <td>RF</td> </tr> <tr> <td><strong>06</strong></td> <td>O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+.</td> <td>RNF</td> </tr> <tr> <td><strong>07</strong></td> <td>O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.</td> <td>RNF</td> </tr> <tr> <td><strong>08</strong></td> <td>O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações.</td> <td>RNF</td> </tr> <tr> <td><strong>09</strong></td> <td>O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.</td> <td>RNF</td> </tr> <tr> <td><strong>10</strong></td> <td>O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge.</td> <td>RNF</td> </tr> <tr> <td><strong>11</strong></td> <td>O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo.</td> <td>RNF</td> </tr> <tr> <td><strong>12</strong></td> <td>O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular.</td> <td>RNF</td> </tr> <tr> <td><strong>13</strong></td> <td>O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.</td> <td>RNF</td> </tr> </table>
+<table border="1">
+  <tr>
+    <th><strong>Identificador</strong></th>
+    <th><strong>Requisito</strong></th>
+    <th><strong>Tipo</strong></th>
+  </tr>
+  <tr>
+    <td><strong>01</strong></td>
+    <td>O sistema deve permitir criar listas de amigos próximos.</td>
+    <td>RF</td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td>O sistema deve permitir realizar pesquisas de conteúdo.</td>
+    <td>RF</td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td>O sistema deve permitir denunciar comentários ofensivos.</td>
+    <td>RF</td>
+  </tr>
+  <tr>
+    <td><strong>04</strong></td>
+    <td>O sistema deve sugerir postagens personalizadas de acordo com as preferências do usuário.</td>
+    <td>RF</td>
+  </tr>
+  <tr>
+    <td><strong>05</strong></td>
+    <td>O sistema deve permitir configurar o status online ou offline do usuário.</td>
+    <td>RF</td>
+  </tr>
+  <tr>
+    <td><strong>06</strong></td>
+    <td>O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>07</strong></td>
+    <td>O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>08</strong></td>
+    <td>O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>09</strong></td>
+    <td>O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>10</strong></td>
+    <td>O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>11</strong></td>
+    <td>O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>12</strong></td>
+    <td>O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>13</strong></td>
+    <td>O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>14</strong></td>
+    <td>O sistema deve permitir que o usuário configure o status online ou offline.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>15</strong></td>
+    <td>O sistema deve permitir a criação de listas de amigos próximos.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>16</strong></td>
+    <td>O sistema deve permitir respostas anônimas em discussões públicas moderadas.</td>
+    <td>RNF</td>
+  </tr>
+  <tr>
+    <td><strong>17</strong></td>
+    <td>O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.</td>
+    <td>RNF</td>
+  </tr>
+</table>
+
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>

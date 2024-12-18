@@ -10,11 +10,13 @@ nav:
     - Ata 3: atas/ata3.md
     - Ata 4: atas/ata4.md
     - Ata 5: atas/ata5.md
+    - Ata 6: atas/ata6.md
   - Apresentação:
     - Entregas:
       - Entrega 1: apresentacao/entregas/entrega1.md
       - Entrega 2: apresentacao/entregas/entrega2.md
       - Entrega 3: apresentacao/entregas/entrega3.md
+      - Entrega 4: apresentacao/entregas/entrega4.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
@@ -52,6 +54,7 @@ nav:
       - Etapa 1: verificação/Grupo7/etapa1.md
       - Etapa 2: verificação/Grupo7/etapa2.md
       - Etapa 3: verificação/Grupo7/etapa3.md
+      - Etapa 4: verificação/Grupo7/etapa4.md
 
     - Grupo +1 (Grupo 8):
       - Etapa 1: verificação/Grupo8/etapa1.md

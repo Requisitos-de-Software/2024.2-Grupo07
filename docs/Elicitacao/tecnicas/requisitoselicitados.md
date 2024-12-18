@@ -64,6 +64,10 @@ Este documento apresenta os requisitos levantados para o projeto, identificados 
 | **54**            | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. |Brainstorming            | RNF      |
 | **55**            | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. |Brainstorming            | RNF      |
 | **56**            | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos. |Brainstorming            | RNF      |
+| **57**            | O sistema deve permitir que o usuário configure o status online ou offline. |Brainstorming            | RNF      |
+| **58**            | O sistema deve permitir a criação de listas de amigos próximos. |Brainstorming            | RNF      |
+| **59**            | O sistema deve permitir respostas anônimas em discussões públicas moderadas. |Brainstorming            | RNF      |
+| **60**            | O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão. |Brainstorming            | RNF      |
 
 <font size="2"><p style="text-align: center; font-size: 14px;">
 Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva </a>
