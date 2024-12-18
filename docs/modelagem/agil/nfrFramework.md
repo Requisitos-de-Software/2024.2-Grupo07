@@ -90,31 +90,38 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Requisitos Não Funcionais</p></font>
 
-| **ID**   | **Descrição**                                                                                   | **Rastreabilidade** |
-|----------|-------------------------------------------------------------------------------------------------|---------------------|
-| RNF01    | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.        | RNF41               |
-| RNF02    | O sistema deve melhorar o algoritmo para priorizar conteúdos relevantes ao usuário.              | RNF42               |
-| RNF03    | O sistema deve evitar a sobrecarga de notificações irrelevantes.                                 | RNF43               |
-| RNF04    | O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.               | RNF44               |
-| RNF05    | O sistema deve oferecer autenticação avançada para segurança do usuário.                         | RNF45               |
-| RNF06    | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais.        | RNF46               |
-| RNF07    | O aplicativo deve minimizar o consumo de bateria em dispositivos móveis, garantindo uma taxa de consumo inferior a 5%. | RNF47               |
-| RNF08    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. | RNF48            |
-| RNF09    | O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+. | RNF49      |
-| RNF10    | O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.    | RNF50               |
-| RNF11    | O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações. | RNF51      |
-| RNF12    | O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.                      | RNF52               |
-| RNF13    | O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge. | RNF53              |
-| RNF14    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. | RNF54       |
-| RNF15    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. | RNF55          |
-| RNF16    | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos. | RNF56      | 
+
+| **ID**   | **Descrição**                                                                                   | **Rastreabilidade**                                                                                                   |
+|----------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| RNF01    | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.        | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF41</a> |
+| RNF02    | O sistema deve melhorar o algoritmo para priorizar conteúdos relevantes ao usuário.              | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF42</a> |
+| RNF03    | O sistema deve evitar a sobrecarga de notificações irrelevantes.                                 | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF43</a> |
+| RNF04    | O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.               | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF44</a> |
+| RNF05    | O sistema deve oferecer autenticação avançada para segurança do usuário.                         | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF45</a> |
+| RNF06    | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais.        | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF46</a> |
+| RNF07    | O aplicativo deve minimizar o consumo de bateria em dispositivos móveis, garantindo uma taxa de consumo inferior a 5%. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF47</a> |
+| RNF08    | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF48</a> |
+| RNF09    | O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF49</a> |
+| RNF10    | O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.    | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF50</a> |
+| RNF11    | O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF51</a> |
+| RNF12    | O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.                      | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF52</a> |
+| RNF13    | O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF53</a> |
+| RNF14    | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF54</a> |
+| RNF15    | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF55</a> |
+| RNF16    | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos. | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF56</a> |
+| RNF17    | O sistema deve permitir que o usuário configure o status online ou offline.                      | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF57</a> |
+| RNF18    | O sistema deve permitir a criação de listas de amigos próximos.                                  | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF58</a> |
+| RNF19    | O sistema deve permitir respostas anônimas em discussões públicas moderadas.                     | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF59</a> |
+| RNF20    | O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.                         | <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RNF60</a> |
 
 
 
 
-<p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a> e <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
----
+
 ## NFR Framework - NFR01: Compatibilidade e Performance
 
 ### Descrição
@@ -141,6 +148,8 @@ Com isso, segue a Figura 3 com o NFR relativo a Compatibilidade e Performance:
 </p></font>
 
 ![Sig](../imagens/SIG.png)
+
+<p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 
 ### Propagacao dos Impactos
 
@@ -227,10 +236,10 @@ Autor: [Carlos Eduardo](https://github.com/dudupaz)
 Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados à personalização e usabilidade do sistema Threads. Esses requisitos são fundamentais para garantir que o sistema seja flexível, permitindo ao usuário adaptar a plataforma conforme suas preferências, além de melhorar a experiência do usuário, tornando-a mais prática e intuitiva.
 
 ### Requisitos
-- **RQ01**: O sistema deve permitir que o usuário configure o status online ou offline. (Personalização)
-- **RQ02**: O sistema deve permitir a criação de listas de amigos próximos. (Personalização)
-- **RQ03**: O sistema deve permitir respostas anônimas em discussões públicas moderadas. (Usabilidade)
-- **RQ04**: O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão. (Usabilidade)
+- **RQ17**: O sistema deve permitir que o usuário configure o status online ou offline. (Personalização)
+- **RQ18**: O sistema deve permitir a criação de listas de amigos próximos. (Personalização)
+- **RQ19**: O sistema deve permitir respostas anônimas em discussões públicas moderadas. (Usabilidade)
+- **RQ20**: O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão. (Usabilidade)
 
 Com isso, segue a Figura 5 com o NFR relativo a Personalização e Usabilidade:
 
@@ -238,6 +247,8 @@ Com isso, segue a Figura 5 com o NFR relativo a Personalização e Usabilidade:
 </p></font>
 
 ![SIGusa](../imagens/SIGusa.png)
+
+<p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a></p>
 
 ### Propagacao dos Impactos
 
