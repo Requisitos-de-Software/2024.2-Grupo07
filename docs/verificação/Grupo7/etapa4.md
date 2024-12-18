@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 07 na entrega 3, focados no projeto do aplicativo Threads. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
+Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 07 na entrega 4, focados no projeto do aplicativo Threads. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
 
 ## Objetivo
 
