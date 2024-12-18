@@ -222,6 +222,44 @@ Autor: [Carlos Eduardo](https://github.com/dudupaz)
 
 </center>
 
+## NFR Framework - NFR03: Personalização e Usabilidade
+
+### Descrição
+
+Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados à personalização e usabilidade do sistema Threads. Esses requisitos são fundamentais para garantir que o sistema seja flexível, permitindo ao usuário adaptar a plataforma conforme suas preferências, além de melhorar a experiência do usuário, tornando-a mais prática e intuitiva.
+
+### Requisitos
+- **RQ01**: O sistema deve permitir que o usuário configure o status online ou offline. (Personalização)
+- **RQ02**: O sistema deve permitir a criação de listas de amigos próximos. (Personalização)
+- **RQ03**: O sistema deve permitir respostas anônimas em discussões públicas moderadas. (Usabilidade)
+- **RQ04**: O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão. (Usabilidade)
+
+Com isso, segue a Figura 5 com o NFR relativo a Personalização e Usabilidade:
+
+<font size=""><p style="text-align: center"> **Figura 5:** Rótulos de propagação de impacto
+</p></font>
+
+![SIGusa](../imagens/SIGusa.png)
+
+# Propagacao dos Impactos - Usabilidade
+
+A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa à Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Tabela de Impactos </p></font>
+
+
+| **NFR**                     | **Impacto** | **Avaliador**    |
+|-----------------------------|-------------|------------------|
+| **Usabilidade**              | **✓**       | [Genilson Silva](https://github.com/GenilsonJrs)         |
+| **Personalização**           | **✓**       | [Genilson Silva](https://github.com/GenilsonJrs)         |
+| **Respostas Anônimas**       | **𝒲+**      | [Genilson Silva](https://github.com/GenilsonJrs)        |
+| **Salvar Rascunhos**         | **✓**       | [Genilson Silva](https://github.com/GenilsonJrs)         |
+| **Configurar Status Online** | **✓**       | [Genilson Silva](https://github.com/GenilsonJrs)         |
+| **Criar Lista de Amigos**    | **𝒲+**      | [Genilson Silva](https://github.com/GenilsonJrs)        |
+
+
+<p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a></p>
+
 ## Referências
 **CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J.** Non-Functional Requirements in Software Engineering. Springer Science & Business Media, 2000.
 
@@ -235,3 +273,4 @@ Autor: [Carlos Eduardo](https://github.com/dudupaz)
 |  1.0   | 16/12/2024 | Criação do documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.1   | 17/12/2024 | implementação do NFR01   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.2   | 17/12/2024 | implementação do NFR02 - Desempenho   | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.3   | 17/12/2024 | implementação do NFR03 - Usabilidade e Personalização   | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
