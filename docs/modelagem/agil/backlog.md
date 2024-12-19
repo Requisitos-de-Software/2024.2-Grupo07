@@ -47,156 +47,268 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
       <th>Épico</th>
       <th>Feature</th>
       <th>Histórias de Usuário (ID e Título)</th>
-      <th>Prioridade</th>
+      <th>Prioridade (Baixa, Média ou Alta)</th>
     </tr>
   </thead>
   <tbody>
     <!-- Épico 1 - Configurações -->
     <tr>
-      <td rowspan="7">Épico 1 - Configurações</td>
-      <td rowspan="2">Feature 1 - Visibilidade</td>
-      <td>US01 - Configurar visibilidade como pública ou privada</td>
+      <td rowspan="10">Épico 1 - Configurações</td>
+      <td rowspan="3">Feature 1 - Visibilidade</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us01-configurar-visibilidade-da-conta">US01 - Configurar visibilidade como pública ou privada</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>US40 - Configurar status online ou offline</td>
+   <td>
+    <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us40-configurar-status-online-ou-offline">US40 - Configurar status online ou offline</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td rowspan="5">Feature 2 - Temas e Aparência</td>
-      <td>US04 - Definir tema escuro ou claro</td>
+   <td>
+    <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us28-gerenciar-multiplas-contas">US28 - Gerenciar múltiplas contas</a>
+      </td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Feature 2 - Temas e Aparência</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us04-definir-tema-escuro-ou-claro">US04 - Definir tema escuro ou claro</a>
+     </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>US18 - Ocultar publicações antigas</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us18-ocultar-publicacoes-antigas">US18 - Ocultar publicações antigas</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td>US30 - Fixar postagens no perfil</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us30-fixar-postagens-no-perfil">US30 - Fixar postagens no perfil</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td rowspan="1">US19 - Fazer backup e restaurar dados</td>
+      <td rowspan="1">
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us19-backup-e-restauracao-de-dados">US19 - Fazer backup e restaurar dados</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td>US29 - Oferecer autenticação avançada</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us07-traducao-automatica-de-publicacoes">US07 - Tradução automática de publicações
+        </a>
+      </td>
+      <td>Média</td>
+    </tr>
+     <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us08-reduzir-anuncios-intrusivos">US08 - Reduzir anúncios intrusivos
+        </a>
+      </td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us29-oferecer-autenticacao-avancada">US29 - Oferecer autenticação avançada</a>
+     </td>
       <td>Alta</td>
     </tr>
     <tr>
       <td rowspan="10">Épico 2 - Interações e Comunicação</td>
       <td rowspan="4">Feature 1 - Mensagens</td>
-      <td>US02 - Gravar e enviar mensagens de voz</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us02-gravar-e-enviar-mensagens-de-voz">US02 - Gravar e enviar mensagens de voz</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td>US05 - Área de mensagens privadas</td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us05-area-de-mensagens-privadas">US05 - Área de mensagens privadas</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>US24 - Salvar rascunhos offline</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us24-salvar-rascunhos-offline">US24 - Salvar rascunhos offline</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td>US36 - Criar listas de amigos próximos</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us36-criar-listas-de-amigos-proximos">US36 - Criar listas de amigos próximos</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
       <td rowspan="2">Feature 2 - Reações</td>
-      <td>US23 - Oferecer reações variadas</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us23-oferecer-reacoes-variadas">US23 - Oferecer reações variadas</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td>US35 - Reagir a comentários em postagens</td>
+      <td>
+         <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us35-reagir-a-comentarios-em-postagens">US35 - Reagir a comentários em postagens</a>
+     </td>
       <td>Média</td>
     </tr>
     <tr>
       <td rowspan="2">Feature 3 - Denúncias</td>
-      <td>US17 - Denunciar contas ou postagens</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us17-denunciar-contas-ou-postagens">US17 - Denunciar contas ou postagens</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>US38 - Denunciar comentários ofensivos</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us38-denunciar-comentarios-ofensivos">US38 - Denunciar comentários ofensivos</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
       <td>Feature 4 - Menções</td>
-      <td>US32 - Marcar outros usuários em postagens</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us32-marcar-outros-usuarios-em-postagens">US32 - Marcar outros usuários em postagens</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
       <td>Feature 5 - Notificações</td>
-      <td>US34 - Receber alertas de menções</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us34-receber-alertas-de-mencoes">US34 - Receber alertas de menções</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td rowspan="11">Épico 3 - Conteúdo e Postagens</td>
-      <td rowspan="4">Feature 1 - Postagens</td>
-      <td>US14 - Salvar postagens para leitura</td>
+      <td rowspan="15">Épico 3 - Conteúdo e Postagens</td>
+      <td rowspan="8">Feature 1 - Postagens</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us14-salvar-postagens-para-leitura">US14 - Salvar postagens para leitura</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td>US25 - Agendar postagens</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us25-agendar-postagens">US25 - Agendar postagens</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td>US26 - Compartilhar postagens externas</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us03-visualizar-trend-topics">US03 - Visualizar Trend Topics</a>
+      </td>
+      <td>Alta</td> 
+    </tr>
+     <tr>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us22-sugerir-textos-com-ia">US22 - Sugerir textos com IA</a>
+      </td>
+      <td>Média</td>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us33-ver-estatisticas-de-postagens">US33 - Ver estatísticas de postagens</a>
+      </td>
+      <td>Média</td>
+    </tr>
+      <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us11-exibir-confirmacao-para-acoes">US11 - Exibir confirmação para ações</a>
+      </td>
+      <td>Alta</td> 
+      </tr>
+    <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us26-compartilhar-postagens-externas">US26 - Compartilhar postagens externas</a>
+      </td>
       <td>Baixa</td>
     </tr>
     <tr>
-      <td>US31 - Editar publicações após postagem</td>
+      <td> 
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us31-editar-publicacoes-apos-postagem">US31 - Editar publicações após postagem</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td rowspan="2">Feature 2 - Enquetes e Pesquisas</td>
-      <td>US16 - Criar enquetes interativas</td>
+      <td rowspan="3">Feature 2 - Enquetes e Pesquisas</td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us16-criar-enquetes-interativas">US16 - Criar enquetes interativas</a>
+      </td>
       <td>Média</td>
     </tr>
     <tr>
-      <td>US37 - Realizar pesquisas de conteúdo</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us37-realizar-pesquisas-de-conteudo">US37 - Realizar pesquisas de conteúdo</a>
+      </td>
+      <td>Alta</td>
+    </tr>
+      <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us20-filtrar-conteudos-no-feed">US20 - Filtrar conteúdos no feed</a>
+      </td>
+      <td>Média</td> 
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 3 - Vídeos e Mídia</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us10-upload-de-videos-em-alta-definicao">US10 - Upload de vídeos em alta definição</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td rowspan="3">Feature 3 - Vídeos e Mídia</td>
-      <td>US10 - Upload de vídeos em alta definição</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>US21 - Adicionar legendas automáticas</td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us21-adicionar-legendas-automaticas">US21 - Adicionar legendas automáticas</a>
+      </td>
       <td>Baixa</td>
-    </tr>
-    <tr>
-      <td>US22 - Sugerir textos com IA</td>
-      <td>Média</td>
     </tr>
     <tr>
       <td rowspan="2">Feature 4 - Recomendações</td>
-      <td>US15 - Sugerir usuários para seguir</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us15-sugerir-usuarios-para-seguir">US15 - Sugerir usuários para seguir</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>US39 - Receber recomendações personalizadas</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us39-receber-recomendacoes-personalizadas-de-postagens">US39 - Receber recomendações personalizadas</a>
+       </td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td rowspan="2">Épico 4 - Moderação e Segurança</td>
-      <td>Feature 1 - Moderação</td>
-      <td>US09 - Implementar moderação contra bots</td>
+      <td rowspan="3">Épico 4 - Moderação e Segurança</td>
+      <td rowspan="2">Feature 1 - Moderação</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us09-implementar-moderacao-contra-bots">US09 - Implementar moderação contra bots</a>
+      </td>
       <td>Alta</td>
+    </tr>
+    <tr>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us12-historico-de-interacoes">US12 - Histórico de interações</a>
+       </td>
+      <td>Baixa</td>
     </tr>
     <tr>
       <td>Feature 2 - Segurança</td>
-      <td>US06 - Verificar contas com telefone e email</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us06-verificar-contas-com-telefone-e-email">US06 - Verificar contas com telefone e email</a>
+      </td>
       <td>Alta</td>
     </tr>
     <tr>
       <td rowspan="1">Épico 5 - Grupos e Comunidades</td>
       <td>Feature 1 - Criação de Grupos</td>
-      <td>US27 - Criar comunidades ou grupos</td>
+      <td>
+       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us27-criar-comunidades-ou-grupos">US27 - Criar comunidades ou grupos</a>
+      </td>
       <td>Média</td>
     </tr>
   </tbody>
 </table>
+
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
 </p>

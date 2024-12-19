@@ -4,7 +4,7 @@ A técnica ágil, popularizada no desenvolvimento de software, foca na entrega c
 
 ## Metodologia
 
-As Histórias de Usuário são utilizadas para entender o que os usuários desejam de um sistema ou aplicação, descrevendo as funcionalidades desejadas a partir da perspectiva do usuário. Elas são organizadas em uma estrutura clara, que inclui critérios de aceitação e prioridade, permitindo que os desenvolvedores e stakeholders alinhem-se com os objetivos e expectativas do usuário.
+As Histórias de Usuário são utilizadas para entender o que os usuários desejam de um sistema ou aplicação, descrevendo as funcionalidades desejadas a partir da perspectiva do usuário. Elas são organizadas em uma estrutura clara, que inclui critérios de aceitação e o requisito de origem, permitindo que os desenvolvedores e stakeholders alinhem-se com os objetivos e expectativas do usuário.
 
 Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias de Usuário.
 
@@ -32,7 +32,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
          <b>E</b> xxx<br>
         <b> Então</b> xxx
       </td>
-      <td>RNXX</td>
+      <td>RFXX</td>
     </tr>
   </tbody>
 </table>
