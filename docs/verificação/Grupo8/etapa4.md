@@ -38,6 +38,44 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <details>
   <summary>Backlog</summary>
 
+  <h2>Lista de Verificação</h2>
+
+<div style="text-align: center;">
+    <p><strong>Tabela 3: Lista de Verificação - Backlog</strong></p>
+
+
+
+
+<table border="1" style="width:100%; text-align:left;"> <tr> <th>Número</th> <th>Critério</th> <th>Avaliação</th> <th>Fonte</th> </tr> <tr> <td>1</td> <td>O backlog está priorizado de forma consistente, refletindo um maior valor o produto?</td> <td>Sim</td> <td><a href="https://scrumguides.org/scrum-guide.html">Schwaber, Ken. Scrum Guide</a></td> </tr> <tr> <td>2</td> <td>Os itens do backlog estão detalhados o suficiente para o próximo sprint, mantendo uma granularidade adequada?</td> <td>Sim</td> <td><a href="https://scrumguides.org/scrum-guide.html">Schwaber, Ken. Scrum Guide</a></td> </tr> <tr> <td>3</td> <td>O backlog contém uma descrição clara do que cada item representa (funcionalidade, melhoria, defeito, etc.)?</td> <td>Sim</td> <td><a href="https://www.mountaingoatsoftware.com/books/user-stories-applied">Cohn, Mike. User Stories Applied</a></td> </tr> <tr> <td>4</td> <td>O backlog cobre todos os requisitos funcionais identificados até o momento?</td> <td>Sim</td> <td><a href="https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, Milene e Maurício. Requisitos - Aula 15</a></td> </tr> <tr> <td>5</td> <td>Os itens do backlog e o documento foram revisados?</td> <td>Sim</td> <td><a href="https://doi.org/10.1016/B978-012287032-3/50020-4">BARBOSA, Simone Diniz Junqueira. Interação Humano-Computador</a></td> </tr> </table>
+    </div>
+
+
+ <p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
+
+<h2>Problemas</h2>
+Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+<h2>Sugestões</h2>
+
+Nenhuma sugestão a ser apontada.
+
+<h2>Gravação</h2>
+
+<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=dXwX1j8uivo">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 2 - Verificação de Backlog </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXwX1j8uivo?si=7hHBbMDL7f8HWPRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+  </p>
+
+
 </details>
 
 <details>
@@ -146,4 +184,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 18/12/2024 | Criação do documento       | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 18/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 18/12/2024 | Verificação de  Backlog     | [Genilson Silva](https://github.com/GenilsonJrs)       | [Carlos Eduardo](https://github.com/dudupaz)    |
 
