@@ -280,7 +280,7 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 | **Versão** | **Data**   | **Descrição**              | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 18/12/2024 | Criação do documento       | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.0        | 18/12/2024 | Criação do documento e Verificação de NFR Framework      | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 18/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.2        | 18/12/2024 | Verificação de  Backlog     | [Genilson Silva](https://github.com/GenilsonJrs)       | [Carlos Eduardo](https://github.com/dudupaz)    |
 
