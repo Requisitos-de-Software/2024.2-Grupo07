@@ -79,13 +79,15 @@ Para validar as histórias de usuário, foi realizada uma gravação de vídeo c
 
 As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
 
+### US01 - Configurar visibilidade da conta
+
 <details>
   <summary>US01 - Configurar visibilidade da conta</summary>
 
   <div style="text-align: center;">
     <p><strong>Tabela 2 - Configurar visibilidade da conta</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -115,7 +117,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
@@ -125,10 +127,13 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 <div style="text-align: center;">
   <p>Vídeo 3 - Validação da US01 </p>
 </div>
+<center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=65eMQDmIR6497zSz&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US02 - Gravar e enviar mensagens de voz
 
 <details>
   <summary>US02 - Gravar e enviar mensagens de voz</summary>
@@ -136,7 +141,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 3 - Gravar e enviar mensagens de voz</strong></p>
   </div>
-
+<center></center>
   <table>
     <thead>
       <tr>
@@ -162,7 +167,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
@@ -172,10 +177,15 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 <div style="text-align: center;">
   <p>Vídeo 4 - Validação da US02 </p>
 </div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=XbP2CNerjyV45q-9&amp;start=102" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<center>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=XbP2CNerjyV45q-9&amp;start=102" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US03 - Visualizar Trend Topics
 
 <details>
   <summary>US03 - Visualizar Trend Topics</summary>
@@ -183,7 +193,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 4 - Visualizar Trend Topics</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -213,7 +223,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
@@ -223,11 +233,13 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 <div style="text-align: center;">
   <p>Vídeo 5 - Validação da US03 </p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=Pnj1Rygw8XYkIZ4H&amp;start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US04 - Definir tema escuro ou claro
 
 <details>
   <summary>US04 - Definir tema escuro ou claro</summary>
@@ -235,7 +247,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 5 - Definir tema escuro ou claro</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -265,7 +277,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
@@ -275,11 +287,13 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 <div style="text-align: center;">
   <p>Vídeo 6 - Validação da US04</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=tPMsJH514rurxthy&amp;start=166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US05 - Área de mensagens privadas
 
 <details>
   <summary>US05 - Área de mensagens privadas</summary>
@@ -287,7 +301,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 6 - Área de mensagens privadas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -317,22 +331,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US05 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ncoSw-8ArJZ2-07B&amp;start=185">3:05</a>do video.</p>
+<p>A validação da US05 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ncoSw-8ArJZ2-07B&amp;start=185">3:05</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 7 - Validação da US05</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ncoSw-8ArJZ2-07B&amp;start=185" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 </details>
+
+### US06 - Verificar contas com telefone e email
 
 <details>
   <summary>US06 - Verificar contas com telefone e email</summary>
@@ -340,7 +356,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 7 - Verificar contas com telefone e email</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -370,22 +386,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US06 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nbSZMLCmjxO-ClAD&amp;start=204">3:24</a>do video.</p>
+<p>A validação da US06 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nbSZMLCmjxO-ClAD&amp;start=204">3:24</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 8 - Validação da US06</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=nbSZMLCmjxO-ClAD&amp;start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 </details>
+
+### US07 - Tradução automática de publicações
 
 <details>
   <summary>US07 - Tradução automática de publicações</summary>
@@ -393,7 +411,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 8 - Tradução automática de publicações</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -423,21 +441,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
   <h2>Validação</h2>
 
-<p>A validação da US07 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=NNajp-7r_Yium7p7&amp;start=221">3:41</a>do video.</p>
+<p>A validação da US07 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=NNajp-7r_Yium7p7&amp;start=221">3:41</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 9 - Validação da US07</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=NNajp-7r_Yium7p7&amp;start=221" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US08 - Reduzir anúncios intrusivos
 
 <details>
   <summary>US08 - Reduzir anúncios intrusivos</summary>
@@ -445,7 +465,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 9 - Reduzir anúncios intrusivos</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -475,21 +495,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US08 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=AXHl1j4c3mT20oL6&amp;start=242">4:02</a>do video.</p>
+<p>A validação da US08 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=AXHl1j4c3mT20oL6&amp;start=242">4:02</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 10 - Validação da US08</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=AXHl1j4c3mT20oL6&amp;start=242" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US09 - Implementar moderação contra bots
 
 <details>
   <summary>US09 - Implementar moderação contra bots</summary>
@@ -497,7 +519,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 10 - Implementar moderação contra bots</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -527,21 +549,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US09 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ivwUMLooMF68JLiF&amp;start=262">4:22</a>do video.</p>
+<p>A validação da US09 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ivwUMLooMF68JLiF&amp;start=262">4:22</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 11 - Validação da US09</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ivwUMLooMF68JLiF&amp;start=262" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US10 - Upload de vídeos em alta definição
 
 <details>
   <summary>US10 - Upload de vídeos em alta definição</summary>
@@ -549,7 +573,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 11 - Upload de vídeos em alta definição</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -579,22 +603,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US10 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=dq4mYdvwtKVIIiXr&amp;start=289">4:49</a>do video.</p>
+<p>A validação da US10 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=dq4mYdvwtKVIIiXr&amp;start=289">4:49</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 12 - Validação da US10</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=dq4mYdvwtKVIIiXr&amp;start=289" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 
 </details>
+
+### US11 - Exibir confirmação para ações
 
 <details>
   <summary>US11 - Exibir confirmação para ações</summary>
@@ -602,7 +629,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 12 - Exibir confirmação para ações</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -632,21 +659,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
 
 <h2>Validação</h2>
 
-<p>A validação da US11 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nV3DkiQ4tec7Jsyt&amp;start=310">5:10</a>do video.</p>
+<p>A validação da US11 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nV3DkiQ4tec7Jsyt&amp;start=310">5:10</a> do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 13 - Validação da US11</p>
 </div>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=nV3DkiQ4tec7Jsyt&amp;start=310" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US12 - Histórico de interações
 
 <details>
   <summary>US12 - Histórico de interações</summary>
@@ -654,7 +683,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 13 - Histórico de interações</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -684,49 +713,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US12 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=71AEaFdtCn0WuemH&amp;start=347">5:47</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 14 - Validação da US12</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=71AEaFdtCn0WuemH&amp;start=347" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
 
-<details>
-  <summary>US13 - Respostas anônimas</summary>
-
-  <div style="text-align: center;">
-    <p><strong>Tabela 14 - Respostas anônimas</strong></p>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Título</th>
-        <th>Critérios de Aceitação</th>
-        <th>Requisito</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>US13</td>
-        <td>Eu, como usuário, posso responder threads de forma anônima para proteger minha identidade.</td>
-        <td>
-          <b>Critério 1 - Responder Anonimamente</b> <br>
-          <b>Dado</b> que estou visualizando uma thread, <br>
-          <b>Quando</b> selecionar a opção anônima, <br>
-          <b>Então</b> minha resposta deve ser exibida sem mostrar meu nome. <br><br>
-          <b>Critério 2 - Identificação para Moderadores</b> <br>
-          <b>Dado</b> que respondi anonimamente, <br>
-          <b>Quando</b> for necessário por motivos de segurança, <br>
-          <b>Então</b> os moderadores devem poder identificar o autor.
-        </td>
-        <td>
-        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF13</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
-</details>
+### US14 - Salvar postagens para leitura
 
 <details>
   <summary>US14 - Salvar postagens para leitura</summary>
@@ -734,7 +738,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 15 - Salvar postagens para leitura</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -764,9 +768,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US14 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=0OsV-ucfABPNSIye&amp;start=400">6:40</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 15 - Validação da US14</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=0OsV-ucfABPNSIye&amp;start=400" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US15 - Sugerir usuários para seguir
 
 <details>
   <summary>US15 - Sugerir usuários para seguir</summary>
@@ -774,7 +792,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 16 - Sugerir usuários para seguir</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -804,9 +822,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US15 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=4NERQxXU1PkcU3WL&amp;start=417">6:57</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 16 - Validação da US15</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=4NERQxXU1PkcU3WL&amp;start=417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+</details>
+
+### US16 - Criar enquetes interativas
 
 <details>
   <summary>US16 - Criar enquetes interativas</summary>
@@ -814,7 +848,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 17 - Criar enquetes interativas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -844,9 +878,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US16 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=8X1oOvOSxK-qHzsG&amp;start=434">7:14</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 18 - Validação da US16</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=8X1oOvOSxK-qHzsG&amp;start=434" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US17 - Denunciar contas ou postagens
 
 <details>
   <summary>US17 - Denunciar contas ou postagens</summary>
@@ -854,7 +903,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 18 - Denunciar contas ou postagens</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -877,6 +926,10 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Dado</b> que enviei uma denúncia, <br>
           <b>Quando</b> for processada, <br>
           <b>Então</b> devo receber uma confirmação da ação realizada.
+          <b>Critério 3 - Postar Nota</b> <br>
+          <b>Dado</b> que visualizando uma postagem com denúncias de ser fake, <br>
+          <b>Quando</b> for comfirma, <br>
+          <b>Então</b> devo conseguir escrever uma nota na postagem sobre a verdadeira informação.
         </td>
         <td>
         <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF17</a>
@@ -884,9 +937,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US17 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=N6l5ycidYXSIPG4Y&amp;start=449">7:29</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 19 - Validação da US17</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=N6l5ycidYXSIPG4Y&amp;start=449" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US18 - Ocultar publicações antigas
 
 <details>
   <summary>US18 - Ocultar publicações antigas</summary>
@@ -894,7 +962,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 19 - Ocultar publicações antigas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -924,9 +992,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US18 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=DtvrGIUACN20WJ08&amp;start=488">8:08</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 20 - Validação da US18</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=DtvrGIUACN20WJ08&amp;start=488" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US19 - Backup e restauração de dados
 
 <details>
   <summary>US19 - Backup e restauração de dados</summary>
@@ -934,7 +1017,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 20 - Backup e restauração de dados</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -964,9 +1047,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US19 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=W22SDAlUKIt2XNqa&amp;start=504">8:24</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 21 - Validação da US19</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=W22SDAlUKIt2XNqa&amp;start=504" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US20 - Filtrar conteúdos no feed
 
 <details>
   <summary>US20 - Filtrar conteúdos no feed</summary>
@@ -974,6 +1072,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 21 - Filtrar conteúdos no feed</strong></p>
   </div>
+<center>
 
   <table>
     <thead>
@@ -1004,9 +1103,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US20 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=qTOnAIrdrmrfwkZE&amp;start=517">8:37</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 22 - Validação da US20</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=qTOnAIrdrmrfwkZE&amp;start=517" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US21 - Adicionar legendas automáticas
 
 <details>
   <summary>US21 - Adicionar legendas automáticas</summary>
@@ -1014,7 +1129,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 22 - Adicionar legendas automáticas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1044,9 +1159,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US21 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=BJkeH6MaKFf3WNN_&amp;start=531">8:52</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 23 - Validação da US21</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=BJkeH6MaKFf3WNN_&amp;start=531" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US22 - Sugerir textos com IA
 
 <details>
   <summary>US22 - Sugerir textos com IA</summary>
@@ -1054,7 +1184,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 23 - Sugerir textos com IA</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1085,8 +1215,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
     </tbody>
   </table>
 
+</center>
+
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US22 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=jJ-3_XHIp5QS8_EC&amp;start=554">9:15</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 24 - Validação da US22</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=jJ-3_XHIp5QS8_EC&amp;start=554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US23 - Oferecer reações variadas
 
 <details>
   <summary>US23 - Oferecer reações variadas</summary>
@@ -1094,6 +1241,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 24 - Oferecer reações variadas</strong></p>
   </div>
+<center>
 
   <table>
     <thead>
@@ -1124,9 +1272,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US23 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=7TKB15vASQ7PJDLf&amp;start=569">9:29</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 25 - Validação da US23</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=7TKB15vASQ7PJDLf&amp;start=569" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US24 - Salvar rascunhos offline
 
 <details>
   <summary>US24 - Salvar rascunhos offline</summary>
@@ -1134,7 +1297,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 25 - Salvar rascunhos offline</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1164,9 +1327,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US24 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=Z8vyuUrq1Rl-663i&amp;start=601">10:01</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 26 - Validação da US24</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=Z8vyuUrq1Rl-663i&amp;start=601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US25 - Agendar postagens
 
 <details>
   <summary>US25 - Agendar postagens</summary>
@@ -1174,7 +1352,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 26 - Agendar postagens</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1204,9 +1382,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US25 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=thmJrSXc2bZn4WOq&amp;start=613">10:13</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 27 - Validação da US25</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=thmJrSXc2bZn4WOq&amp;start=613" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US26 - Compartilhar postagens externas
 
 <details>
   <summary>US26 - Compartilhar postagens externas</summary>
@@ -1214,7 +1407,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 27 - Compartilhar postagens externas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1244,9 +1437,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US26 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=MQt9PwHPiLyitPzY&amp;start=628">10:28</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 28 - Validação da US26</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=MQt9PwHPiLyitPzY&amp;start=628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US27 - Criar comunidades ou grupos
 
 <details>
   <summary>US27 - Criar comunidades ou grupos</summary>
@@ -1254,7 +1462,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 28 - Criar comunidades ou grupos</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1284,9 +1492,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US27 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=EogruJjotXL_DAop&amp;start=666">11:06</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 29 - Validação da US27</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=EogruJjotXL_DAop&amp;start=666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US28 - Gerenciar múltiplas contas
 
 <details>
   <summary>US28 - Gerenciar múltiplas contas</summary>
@@ -1294,7 +1518,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 29 - Gerenciar múltiplas contas</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1324,9 +1548,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US28 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ESlQ8sD7X4yHpZZz&amp;start=682">11:28</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 30 - Validação da US28</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ESlQ8sD7X4yHpZZz&amp;start=682" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US29 - Oferecer autenticação avançada
 
 <details>
   <summary>US29 - Oferecer autenticação avançada</summary>
@@ -1334,7 +1573,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 30 - Oferecer autenticação avançada</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1364,9 +1603,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US29 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=pJUOq3KEGuSSlCNo&amp;start=696">11:36</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 31 - Validação da US29</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=pJUOq3KEGuSSlCNo&amp;start=696" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US30 - Fixar postagens no perfil
 
 <details>
   <summary>US30 - Fixar postagens no perfil</summary>
@@ -1374,7 +1628,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 31 - Fixar postagens no perfil</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1404,9 +1658,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/dudupaz">Carlos Eduardo</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US30 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=PdRutN4iNuJ2gkVg&amp;start=708">11:48</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 32 - Validação da US30</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=PdRutN4iNuJ2gkVg&amp;start=708" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US31 - Editar publicações após postagem
 
 <details>
   <summary>US31 - Editar publicações após postagem</summary>
@@ -1414,7 +1683,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 32 - Editar publicações após postagem</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1437,6 +1706,8 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Dado</b> que editei minha postagem, <br>
           <b>Quando</b> salvar as alterações, <br>
           <b>Então</b> as atualizações devem ser refletidas imediatamente na postagem.
+          <b>Então</b> a postagem aparece como editada.
+          <b>Então</b> consigo ver o históricos das edições.
         </td>
          <td>
         <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF31</a>
@@ -1444,9 +1715,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US31 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ih-pNOwko7nFJ_u4&amp;start=718">11:58</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 33 - Validação da US31</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ih-pNOwko7nFJ_u4&amp;start=718" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US32 - Marcar outros usuários em postagens
 
 <details>
   <summary>US32 - Marcar outros usuários em postagens</summary>
@@ -1454,6 +1740,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 33 - Marcar outros usuários em postagens</strong></p>
   </div>
+<center>
 
   <table>
     <thead>
@@ -1484,9 +1771,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US32 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=61tFzF_EDmxeyWkH&amp;start=760">12:40</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 34 - Validação da US32</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=61tFzF_EDmxeyWkH&amp;start=760" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US33 - Ver estatísticas de postagens
 
 <details>
   <summary>US33 - Ver estatísticas de postagens</summary>
@@ -1494,7 +1797,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 34 - Ver estatísticas de postagens</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1524,9 +1827,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US33 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=04QalYl9J9hhIwz5&amp;start=768">12:48</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 35 - Validação da US33</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=04QalYl9J9hhIwz5&amp;start=768" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US34 - Receber alertas de menções
 
 <details>
   <summary>US34 - Receber alertas de menções</summary>
@@ -1534,7 +1852,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 35 - Receber alertas de menções</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1564,9 +1882,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US34 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=Xh4JnivY3lHLdBdH&amp;start=783">13:03</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 36 - Validação da US34</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=Xh4JnivY3lHLdBdH&amp;start=783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US35 - Reagir a comentários em postagens
 
 <details>
   <summary>US35 - Reagir a comentários em postagens</summary>
@@ -1575,6 +1908,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
     <p><strong>Tabela 36 - Reagir a comentários em postagens</strong></p>
   </div>
 
+<center>
   <table>
     <thead>
       <tr>
@@ -1604,9 +1938,25 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
+</center>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US35 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=fg-NhiK7FishqTxY&amp;start=797">13:17</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 37 - Validação da US35</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=fg-NhiK7FishqTxY&amp;start=797" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US36 - Criar listas de amigos próximos
 
 <details>
   <summary>US36 - Criar listas de amigos próximos</summary>
@@ -1614,7 +1964,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 37 - Criar listas de amigos próximos</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1644,9 +1994,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US36 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=0ZQ50MvnrEAl48fi&amp;start=829">13:49</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 38 - Validação da US36</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=0ZQ50MvnrEAl48fi&amp;start=829" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US37 - Realizar pesquisas de conteúdo
 
 <details>
   <summary>US37 - Realizar pesquisas de conteúdo</summary>
@@ -1654,7 +2019,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 38 - Realizar pesquisas de conteúdo</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1684,9 +2049,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US37 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=KHpKV_0q8i4myW_Y&amp;start=852">14:12</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 39 - Validação da US37</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=KHpKV_0q8i4myW_Y&amp;start=852" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+  
 </details>
+
+### US38 - Denunciar comentários ofensivos
 
 <details>
   <summary>US38 - Denunciar comentários ofensivos</summary>
@@ -1694,7 +2074,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 39 - Denunciar comentários ofensivos</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1724,9 +2104,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US38 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=5PM7sA7xlFHhk1o7&amp;start=863">14:23</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 40 - Validação da US38</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=5PM7sA7xlFHhk1o7&amp;start=863" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
+
+### US39 - Receber recomendações personalizadas de postagens
 
 <details>
   <summary>US39 - Receber recomendações personalizadas de postagens</summary>
@@ -1734,7 +2129,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 40 - Receber recomendações personalizadas de postagens</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1764,9 +2159,23 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US39 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=SOL6zcjuk9EvToIH&amp;start=879">14:39</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 41 - Validação da US39</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=SOL6zcjuk9EvToIH&amp;start=879" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
+
+### US40 - Configurar status online ou offline
 
 <details>
   <summary>US40 - Configurar status online ou offline</summary>
@@ -1774,7 +2183,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <div style="text-align: center;">
     <p><strong>Tabela 41 - Configurar status online ou offline</strong></p>
   </div>
-
+<center>
   <table>
     <thead>
       <tr>
@@ -1804,8 +2213,20 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
       </tr>
     </tbody>
   </table>
-
+</center>
   <p style="text-align: center;">Autor - <a href="https://github.com/GenilsonJrs">Genilson Silva</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US40 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=_szKImlSX1FcGzKZ&amp;start=895">14:55</a> do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 42 - Validação da US40</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=_szKImlSX1FcGzKZ&amp;start=895" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
 <font size="3"><p style="text-align: center">Autores: [Alana Gabriele](https://github.com/alanagabriele), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Genilson Silva](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz). </p></font>
