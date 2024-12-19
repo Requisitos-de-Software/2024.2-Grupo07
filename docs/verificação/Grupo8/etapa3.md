@@ -1,4 +1,4 @@
-# Verificação dos Artefatos do Projeto Threads
+# Verificação dos Artefatos do Projeto Sympla
 
 ## Introdução
 

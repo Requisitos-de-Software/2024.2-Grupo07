@@ -1,3 +1,5 @@
+# Verificação dos Artefatos do Projeto Sympla
+
 ## Introdução
 
 Esta página apresenta os resultados da avaliação do artefato de equipe desenvolvido pelo grupo 07, focado em verificar o projeto do aplicativo Sympla, do grupo 8. O documento inclui uma Lista de Verificação aplicada na inspeção do artefato de equipe e, ao final, detalha os resultados obtidos durante essa verificação.
