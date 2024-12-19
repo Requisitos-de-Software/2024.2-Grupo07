@@ -20,9 +20,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 | Artefato                  | Verificador                                        |
 | ------------------------- | -------------------------------------------------- |
-| NFR Framework             |            |
-| Backlog                   |    |
-| Histórias de Usuário      |  |
+| NFR Framework             |  [Carlos Eduardo](https://github.com/dudupaz)          |
+| Backlog                   |  [Genilson Silva](https://github.com/GenilsonJrs)  |
+| Histórias de Usuário      |  [Samuel Ribeiro](https://github.com/SamuelRicosta)|
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
