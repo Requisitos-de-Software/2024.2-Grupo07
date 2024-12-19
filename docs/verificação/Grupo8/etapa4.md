@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 08 na entrega 4, focados no projeto do aplicativo Threads. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
+Esta página apresenta os resultados da avaliação dos artefatos desenvolvidos pelo grupo 08 na entrega 4, focados no projeto do aplicativo Sympla. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
 
 ## Objetivo
 
@@ -33,6 +33,104 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <details>
   <summary>NFR Framework</summary>
 
+
+  <h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 1: Lista de Verificação - NFR Framework</strong></p>
+  </div>
+
+<table border="1">
+
+   <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte/Autor</th>
+   </tr>
+   <tr>
+        <td>1</td>
+        <td>No artefato há algum trecho que define o que é o NFR Framework e sua finalidade?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+          <td><a href="https://github.com/dudupaz">Carlos Eduardo</a></td>
+   </tr>
+   <tr>
+        <td>2</td>
+        <td>Na página há algum trecho que explica sobre o conceito de softgoal?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+       <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
+   </tr>
+   <tr>
+        <td>3</td>
+        <td>A página apresenta os tipos de softgoals e suas funções</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino</a></td>
+  </tr>
+  <tr>
+        <td>4</td>
+        <td>Algum trecho na página descreve o SIG (Softgoal Interdependency Graph)?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+        <td><a href="https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf">SILVA, Reinaldo Antônio da.</a></td>
+  </tr>
+    <tr>
+        <td>5</td>
+        <td> Algum trecho na página explica como as contribuições influenciam a satisfação dos softgoals?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+        <td><a href="https://repositorio.ufpe.br/bitstream/123456789/34150/1/DISSERTA%c3%87%c3%83O%20Reinaldo%20Ant%c3%b4nio%20da%20Silva.pdf">SILVA, Reinaldo Antônio da.</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Os impactos foram corretamente propagados?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+        <td><a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino</a></td>
+  </tr>
+    <tr>
+        <td>7</td>
+        <td>A página apresenta introdução, metodologia e referências?</td>
+        <td>Sim</td>
+        <td>versão 1.0 - 18/12</td>
+        <td><a href="https://github.com/GenilsonJrs"> Genilson Silva</a></td>
+    </tr>
+     <tr>
+    <td>8</td>
+    <td>A página inclui um histórico de versões padronizado, com os nomes do autor e do revisor?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 18/12	</td>
+    <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
+  </tr>
+
+</table>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
+
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.
+</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação do NFR Framework </p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://youtube.com/embed/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
+
+
 </details>
 
 <details>
@@ -41,7 +139,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <h2>Lista de Verificação</h2>
 
 <div style="text-align: center;">
-    <p><strong>Tabela 3: Lista de Verificação - Backlog</strong></p>
+    <p><strong>Tabela 2: Lista de Verificação - Backlog</strong></p>
 
 
 
@@ -83,7 +181,7 @@ Nenhuma sugestão a ser apontada.
 <h2>Lista de Verificação</h2>
 
 <div style="text-align: center;">
-    <p><strong>Tabela: Lista de Verificação - Histórias de Usuário</strong></p>
+    <p><strong>Tabela 3: Lista de Verificação - Histórias de Usuário</strong></p>
 
 
 
