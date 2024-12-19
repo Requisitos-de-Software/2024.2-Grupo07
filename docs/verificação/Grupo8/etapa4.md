@@ -42,7 +42,91 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 <details>
   <summary>Histórias de Usuário</summary>
+<h2>Lista de Verificação</h2>
 
+<div style="text-align: center;">
+    <p><strong>Tabela: Lista de Verificação - Histórias de Usuário</strong></p>
+
+
+
+
+<table border="1">
+    <tr>
+        <th>Número</th>
+        <th>Critério</th>
+        <th>Avaliação</th>
+        <th>Fonte</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>A estrutura das histórias de usuário segue o formato padrão "Eu, como [usuário], quero [função] para [objetivo]"?</td>
+        <td>Sim</td>
+        <td>SERRANO, Milene e Maurício. Requisitos - Aula 15. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Os critérios de aceitação são claros, verificáveis e detalhados para cada história?</td>
+        <td>Sim</td>
+        <td>Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>A prioridade de cada história está definida de forma objetiva e consistente?</td>
+        <td>Sim</td>
+        <td>BARBOSA, Simone Diniz Junqueira. Interação Humano-Computador. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>As histórias estão organizadas de forma que atendam a um ciclo de desenvolvimento iterativo e incremental?</td>
+        <td>Sim</td>
+        <td>Beck, Kent. Manifesto Ágil. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Os autores e revisores são identificados e há um histórico de versões atualizado?</td>
+        <td>Sim</td>
+        <td>PMBOK Guide, Project Management Institute. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Há exemplos que ilustrem o uso prático das histórias descritas?</td>
+        <td>Sim</td>
+        <td>Ministério da Agricultura, Pecuária e Abastecimento. Template Estória de Usuário. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Os ajustes realizados em versões posteriores estão descritos e justificam as mudanças feitas?</td>
+        <td>Sim</td>
+        <td>PMBOK Guide, Project Management Institute. Disponível em: <a href="link">link</a>.</td>
+    </tr>
+</table>
+    </div>
+
+
+ <p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
+
+<h2>Problemas</h2>
+Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+<h2>Sugestões</h2>
+
+Nenhuma sugestão a ser apontada.
+
+<h2>Gravação</h2>
+
+<p >O vídeo pode ser visto direto no <a href="https://youtube.com/watch?v=_JN3nFlIAjo">YouTube.</a></p>
+
+<div style="text-align: center">
+<p>Vídeo 3 - Verificação de Personas </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_JN3nFlIAjo?si=dXEQwg3-QyedIjeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
+  </p>
 </details>
 
 
@@ -61,4 +145,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**   | **Descrição**              | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 18/12/2024 | Criação do documento       | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 18/12/2024 | Verificação do Histórias de Usuário      | [Samuel Ribeiro](https://github.com/SamuelRicosta)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
 
