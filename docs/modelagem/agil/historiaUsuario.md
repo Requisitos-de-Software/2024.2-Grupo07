@@ -18,12 +18,12 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
       <th>ID</th>
       <th>Título</th>
       <td>Critérios de Aceitação</td>
-      <td>Prioridade</td>
+      <td>Requisito</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>USX</td>
+      <td>USXX</td>
       <td>Eu, como xxx, posso xxx para xxx</td>
        <td>
        <b> Critério y - xxx </b> <br>
@@ -32,7 +32,7 @@ Abaixo, a Tabela 1 apresenta o modelo utilizado para a criação das Histórias 
          <b>E</b> xxx<br>
         <b> Então</b> xxx
       </td>
-      <td>Alta, média ou baixa</td>
+      <td>RNXX</td>
     </tr>
   </tbody>
 </table>
@@ -92,7 +92,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -109,7 +109,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> confirmar a mudança, <br>
           <b>Então</b> as permissões devem ser aplicadas imediatamente.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF01</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -141,7 +143,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -154,7 +156,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> enviar a mensagem, <br>
           <b>Então</b> ela deve ser anexada como uma resposta na thread.
         </td>
-        <td></td>
+       <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF02</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -186,7 +190,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -203,7 +207,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> aplicar filtros por categoria ou localização, <br>
           <b>Então</b> devo ver resultados personalizados.
         </td>
-        <td></td>
+       <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF03</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -212,11 +218,13 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 <h2>Validação</h2>
 
-<p>A validação da US03 pode ser vista a partir do minuto <a href="https://youtu.be/Znh3R9WH7fw?si=BLHJ_xbm3xohVyvo&t=143">2:23</a>do video.</p>
+<p>A validação da US03 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=Pnj1Rygw8XYkIZ4H&amp;start=144">2:23</a>do video.</p>
 
 <div style="text-align: center;">
   <p>Vídeo 5 - Validação da US03 </p>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=Pnj1Rygw8XYkIZ4H&amp;start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
@@ -234,7 +242,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -251,10 +259,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> sair e retornar ao aplicativo, <br>
           <b>Então</b> o tema escolhido deve ser mantido.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF04</a>
+        </td>
       </tr>
     </tbody>
   </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US04 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=tPMsJH514rurxthy&amp;start=166">2:46</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 6 - Validação da US04</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=tPMsJH514rurxthy&amp;start=166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
@@ -272,7 +294,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -289,12 +311,27 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> acessar o aplicativo, <br>
           <b>Então</b> devo ser notificado sobre a nova mensagem.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF05</a>
+        </td>
       </tr>
     </tbody>
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US05 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ncoSw-8ArJZ2-07B&amp;start=185">3:05</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 7 - Validação da US05</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ncoSw-8ArJZ2-07B&amp;start=185" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
 
 <details>
@@ -310,7 +347,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -327,12 +364,27 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> receber o link de confirmação, <br>
           <b>Então</b> minha conta deve ser verificada após a confirmação.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF06</a>
+        </td>
       </tr>
     </tbody>
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US06 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nbSZMLCmjxO-ClAD&amp;start=204">3:24</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 8 - Validação da US06</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=nbSZMLCmjxO-ClAD&amp;start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
 
 <details>
@@ -348,7 +400,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -365,10 +417,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> escolher um idioma específico, <br>
           <b>Então</b> devo ver o conteúdo traduzido no idioma selecionado.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF07</a>
+        </td>
       </tr>
     </tbody>
   </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+  <h2>Validação</h2>
+
+<p>A validação da US07 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=NNajp-7r_Yium7p7&amp;start=221">3:41</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 9 - Validação da US07</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=NNajp-7r_Yium7p7&amp;start=221" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
@@ -386,7 +452,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -403,10 +469,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> os anúncios forem exibidos, <br>
           <b>Então</b> eles não devem interromper minha navegação.
         </td>
-        <td></td>
+       <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF08</a>
+        </td>
       </tr>
     </tbody>
   </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US08 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=AXHl1j4c3mT20oL6&amp;start=242">4:02</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 10 - Validação da US08</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=AXHl1j4c3mT20oL6&amp;start=242" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
@@ -424,7 +504,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -441,10 +521,24 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> confirmada a suspeita, <br>
           <b>Então</b> o sistema deve restringir suas atividades.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF09</a>
+        </td>
       </tr>
     </tbody>
   </table>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US09 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=ivwUMLooMF68JLiF&amp;start=262">4:22</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 11 - Validação da US09</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=ivwUMLooMF68JLiF&amp;start=262" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
@@ -462,7 +556,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -479,12 +573,27 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> ele for exibido no feed, <br>
           <b>Então</b> ele deve manter a qualidade original.
         </td>
-        <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF10</a>
+        </td>
       </tr>
     </tbody>
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US10 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=dq4mYdvwtKVIIiXr&amp;start=289">4:49</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 12 - Validação da US10</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=dq4mYdvwtKVIIiXr&amp;start=289" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
+
 </details>
 
 <details>
@@ -500,7 +609,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -517,12 +626,26 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> for detectado um erro, <br>
           <b>Então</b> devo receber um aviso com instruções para corrigir.
         </td>
-        <td></td>
+       <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF11</a>
+        </td>
       </tr>
     </tbody>
   </table>
 
   <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a></p>
+
+<h2>Validação</h2>
+
+<p>A validação da US11 pode ser vista a partir do minuto <a href="https://www.youtube.com/embed/Znh3R9WH7fw?si=nV3DkiQ4tec7Jsyt&amp;start=310">5:10</a>do video.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 13 - Validação da US11</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znh3R9WH7fw?si=nV3DkiQ4tec7Jsyt&amp;start=310" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
 <details>
@@ -538,7 +661,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -555,7 +678,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> aplicar filtros, <br>
           <b>Então</b> devo ver apenas interações específicas (curtidas, comentários ou compartilhamentos).
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF12</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -576,7 +701,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -593,7 +718,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> for necessário por motivos de segurança, <br>
           <b>Então</b> os moderadores devem poder identificar o autor.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF13</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -614,7 +741,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -631,7 +758,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> acessar a área de salvos, <br>
           <b>Então</b> devo visualizar todas as postagens armazenadas.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF14</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -652,7 +781,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -669,7 +798,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> retornar à seção, <br>
           <b>Então</b> o sistema deve atualizar as sugestões automaticamente.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF15</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -690,7 +821,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -707,7 +838,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> os usuários votarem, <br>
           <b>Então</b> devo visualizar o total de votos em tempo real.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF16</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -728,7 +861,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -745,7 +878,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> for processada, <br>
           <b>Então</b> devo receber uma confirmação da ação realizada.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF17</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -766,7 +901,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -783,7 +918,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> acessar as configurações de postagem, <br>
           <b>Então</b> devo poder restaurá-la para o perfil.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF18</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -804,7 +941,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -821,7 +958,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> selecionar a opção de restauração, <br>
           <b>Então</b> o sistema deve recuperar todas as postagens e configurações.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF19</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -842,7 +981,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -859,7 +998,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> optar por remover, <br>
           <b>Então</b> o feed deve voltar ao estado original.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF20</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -880,7 +1021,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -897,7 +1038,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> optar por editar, <br>
           <b>Então</b> devo poder corrigir as legendas manualmente.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF21</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -918,7 +1061,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -935,7 +1078,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> optar por aceitar ou rejeitar, <br>
           <b>Então</b> o sistema deve aplicar ou descartar a sugestão de texto.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF22</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -956,7 +1101,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -973,7 +1118,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> outros usuários visualizarem, <br>
           <b>Então</b> devem ver a reação escolhida.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF23</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -994,7 +1141,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1011,7 +1158,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> acessar a seção de rascunhos, <br>
           <b>Então</b> o sistema deve mostrar a postagem para continuar de onde parei.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF24</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1032,7 +1181,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1049,7 +1198,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> verificar a programação, <br>
           <b>Então</b> o sistema deve mostrar o horário e a data da publicação agendada.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF25</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1070,7 +1221,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1087,7 +1238,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> os outros usuários visualizarem, <br>
           <b>Então</b> o link deve ser exibido corretamente, com título e imagem de pré-visualização.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF26</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1108,7 +1261,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1125,7 +1278,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> convidar usuários, <br>
           <b>Então</b> os usuários convidados devem poder ingressar no grupo.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF27</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1146,7 +1301,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1163,7 +1318,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> selecionar a conta desejada, <br>
           <b>Então</b> o sistema deve mudar para a conta escolhida.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF28</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1184,7 +1341,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1201,7 +1358,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> inserir o código correto, <br>
           <b>Então</b> a autenticação de dois fatores deve ser confirmada.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF29</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1222,7 +1381,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1239,7 +1398,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> escolher a opção de desafixar, <br>
           <b>Então</b> a postagem deve ser removida do topo do perfil.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF30</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1260,7 +1421,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1277,7 +1438,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> salvar as alterações, <br>
           <b>Então</b> as atualizações devem ser refletidas imediatamente na postagem.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF31</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1298,7 +1461,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1315,7 +1478,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> a postagem for publicada, <br>
           <b>Então</b> o usuário marcado deve receber uma notificação.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF32</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1336,7 +1501,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1353,7 +1518,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> visualizar as estatísticas, <br>
           <b>Então</b> os números devem ser atualizados em tempo real.
         </td>
-        <td></td>
+         <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF33</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1374,7 +1541,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1391,7 +1558,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> visualizar a notificação, <br>
           <b>Então</b> devo poder acessar diretamente o conteúdo em que fui mencionado.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF34</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1412,7 +1581,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1429,7 +1598,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> visualizar o comentário, <br>
           <b>Então</b> a reação deve ser visível para os outros usuários.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF35</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1450,7 +1621,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1467,7 +1638,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> adicionar ou remover amigos, <br>
           <b>Então</b> a lista deve ser atualizada com a nova organização.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF36</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1488,7 +1661,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1505,7 +1678,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> aplicar filtros, <br>
           <b>Então</b> os resultados devem ser ajustados conforme os filtros escolhidos.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF37</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1526,7 +1701,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1543,7 +1718,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> for processada, <br>
           <b>Então</b> devo receber uma confirmação de que a denúncia foi registrada.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF38</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1564,7 +1741,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1581,7 +1758,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> retornar à seção de recomendações, <br>
           <b>Então</b> o sistema deve atualizar as sugestões de acordo com as minhas novas preferências.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF39</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -1602,7 +1781,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
         <th>ID</th>
         <th>Título</th>
         <th>Critérios de Aceitação</th>
-        <th>Prioridade</th>
+        <th>Requisito</th>
       </tr>
     </thead>
     <tbody>
@@ -1619,7 +1798,9 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
           <b>Quando</b> acessar o perfil, <br>
           <b>Então</b> devo ver o status de online ou offline do usuário.
         </td>
-        <td></td>
+        <td>
+        <a href="https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/">RF40</a>
+        </td>
       </tr>
     </tbody>
   </table>
